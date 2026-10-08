@@ -1,8 +1,36 @@
 {
   "country": "Poland",
-  "last_updated": "2026-10-07T17:37:44.744991+00:00",
-  "story_count": 89,
+  "last_updated": "2026-10-08T02:25:29.343603+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Is Ryanair allowed to fly within the European Union? Competitors have doubts",
+      "source": "Rzeczpospolita",
+      "url": "https://turystyka.rp.pl/linie-lotnicze/art45302301-czy-ryanair-ma-prawo-latac-po-unii-europejskiej-konkurenci-maja-watpliwosci",
+      "published_date": "2026-10-07T22:20:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Confusion over Polish F-16s for Ukraine. The Ministry of Foreign Affairs intervenes after Radosław Sikorski's interview",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/swiat/radoslaw-sikorski-polska-gotowa-przekazac-ukrainie-mysliwce-f-16/t2e1bh7",
+      "published_date": "2026-10-07T20:05:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Polish Ministry of Foreign Affairs sends unusual wishes to Russians. The publication date is not accidental",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/swiat/polskie-msz-publikuje-zyczenia-dla-rosjan-w-dniu-urodzin-putina-pamietamy/kvltcgk",
+      "published_date": "2026-10-07T19:12:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "\"We remember Anna Politkovskaya.\" The Ministry of Foreign Affairs issued a statement",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/20-lat-od-smierci-anny-politkowskiej-msz-wydalo-komunikat-st9275122?source=rss",
+      "published_date": "2026-10-07T16:59:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The deputy head of the Ministry of Foreign Affairs waived his immunity. In the background there is the case of the godfather's misappropriation of millions",
       "source": "Gazeta.pl",
@@ -67,10 +95,31 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Flávio Bolsonaro may take power. Brazilian democracy in play",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/polityka/art45262211-flavio-bolsonaro-moze-przejac-wladze-w-grze-brazylijska-demokracja",
+      "published_date": "2026-10-08T02:05:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Industry for defense. Safety starts in factories",
+      "source": "Rzeczpospolita",
+      "url": "https://radar.rp.pl/przemysl-obronny/art45302111-przemysl-dla-obronnosci-bezpieczenstwo-zaczyna-sie-w-fabrykach",
+      "published_date": "2026-10-07T19:39:05+00:00",
+      "category": "Military"
+    },
+    {
       "title": "A milestone for an arms factory that is important for the country",
       "source": "WNP.pl",
       "url": "https://www.wnp.pl/bezpieczenstwo/milowy-krok-dla-waznej-dla-kraju-fabryki-uzbrojenia,1106607.html",
       "published_date": "2026-10-07T18:58:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "\"I don't want to be here anymore.\" Ukrainian women are leaving Poland despite the war",
+      "source": "Defence24",
+      "url": "https://defence24.pl/geopolityka/nie-chce-juz-tu-byc-ukrainki-wyjezdzaja-z-polski-mimo-wojny",
+      "published_date": "2026-10-07T18:00:02+00:00",
       "category": "Military"
     },
     {
@@ -186,25 +235,60 @@
       "category": "Military"
     },
     {
-      "title": "Tragedy in a military unit. A soldier's body was found",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-07/tragedia-w-jednostce-wojskowej-znaleziono-zwloki-zolnierza/",
-      "published_date": "2026-10-07T12:34:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poland buys weapons for PLN 120 billion. But the Ministry of National Defense has a problem with infrastructure",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-kupuje-bron-za-120-mld-zl-Ale-MON-ma-problem-z-infrastruktura-9208756.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-07T11:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Attack on Białystok. Yes, Russia could attack Poland",
+      "title": "Will photovoltaics leave the competition behind? \"This will translate into auction results\"",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/atak-na-bialystok-tak-rosja-moglaby-uderzyc-w-polske,1106090.html",
-      "published_date": "2026-10-07T08:46:00+00:00",
-      "category": "Military"
+      "url": "https://www.wnp.pl/energia/fotowoltaika-rozstawi-konkurencje-po-katach-to-sie-przelozy-na-wyniki-aukcji,1106077.html",
+      "published_date": "2026-10-07T20:15:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Another country is struggling with fuel prices. He has a different idea than Poland",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gospodarka/francja-walczy-z-wysokimi-cenami-oleju-ma-inny-pomysl-niz-polska/bh3169t",
+      "published_date": "2026-10-07T19:45:58+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Coal may stay longer. Will there be anyone to serve him?",
+      "source": "Rzeczpospolita",
+      "url": "https://energia.rp.pl/nowa-energia/art45302041-wegiel-moze-zostac-dluzej-czy-bedzie-komu-go-obsluzyc",
+      "published_date": "2026-10-07T19:25:41+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "End of the series. The latest data from the station",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/biznes/z-kraju/koniec-serii-najnowsze-dane-ze-stacji-st9275114?source=rss",
+      "published_date": "2026-10-07T19:23:52+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The gas station turns into an energy hub",
+      "source": "Rzeczpospolita",
+      "url": "https://klimat.rp.pl/ekotrendy/art45301931-stacja-paliw-zmienia-sie-w-hub-energii",
+      "published_date": "2026-10-07T18:57:40+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Energy networks need to learn how to use data",
+      "source": "Rzeczpospolita",
+      "url": "https://energia.rp.pl/nowa-energia/art45301901-sieci-energetyczne-musza-nauczyc-sie-wykorzystywac-dane",
+      "published_date": "2026-10-07T18:53:36+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Why do pickled cucumbers glow? He \"fried\" over a hundred of them to find out the answer",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/tvnmeteo/nauka/dlaczego-ogorki-kiszone-swieca-usmazyl-ich-ponad-sto-by-poznac-odpowiedz-st9275110?source=rss",
+      "published_date": "2026-10-07T18:21:10+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "There are requests for the temporary arrest of four people in the case of lowering fuel prices by Orlen",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/zanizanie-cen-paliw-przez-orlen-sa-wnioski-o-aresztowanie-czterech-zatrzymanych-przekazal-prokurator-krajowy-dariusz-korneluk-st9275123?source=rss",
+      "published_date": "2026-10-07T17:44:22+00:00",
+      "category": "Energy"
     },
     {
       "title": "A key decision for the Polish energy sector was made in the USA",
@@ -291,60 +375,32 @@
       "category": "Energy"
     },
     {
-      "title": "Digital independence needed. \"Energy security means state security\"",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/potrzebna-cyfrowa-niezaleznosc-bezpieczenstwo-energetyczne-oznacza-bezpieczenstwo-panstwa,1106262.html",
-      "published_date": "2026-10-07T09:05:00+00:00",
-      "category": "Energy"
+      "title": "Andrzej Krakowiak: High wages will force a change in the country's development model",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/komentarze/art45266211-andrzej-krakowiak-wysokie-place-wymusza-zmiane-modelu-rozwoju-kraju",
+      "published_date": "2026-10-08T02:20:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Detention of Orlen managers. Sasin on distributor failures: It wasn't a lie",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33064205,zatrzymanie-menadzerow-orlenu-sasin-o-awariach-dystrybutorow.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-07T08:34:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Orlen warns against an increase in the gas tariff for 2027 [HIRSCH ABOUT THE ECONOMY]",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/rynki/orlen-ostrzega-przed-podwyzka-taryfy-gazowej-na-2027-rok-hirsch-o-gospodarce,1106306.html",
-      "published_date": "2026-10-07T07:12:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Concession fees up by over 1,000 percent. MAP: This will drive up your electricity bills",
+      "title": "The S&P 500 has fallen away from the peak of the bull market. Bond yields are the highest since 2007",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Proponowany-wzrost-oplat-koncesyjnych-moze-wywierac-presje-na-ceny-energii-MAP-9208596.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-07T06:46:00+00:00",
-      "category": "Energy"
+      "url": "https://www.bankier.pl/wiadomosc/S-P-500-odpadl-od-szczytu-hossy-Rentownosci-obligacji-najwyzej-od-2007-roku-9209152.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-07T21:05:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Location of the second nuclear power plant. The minister announced the date",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-07/lokalizacja-drugiej-elektrowni-jadrowej-minister-podal-termin/",
-      "published_date": "2026-10-07T06:44:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Poland has the cheapest fuel in this part of Europe. Stations are getting ready for an attack from abroad",
+      "title": "A strike broke out at our neighbor KGHM. The atmosphere in the industry is getting hotter",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/polska-z-najtanszym-paliwem-w-tej-czesci-europy-stacje-szykuja-sie-na-szturm-z-zagranicy,1106030.html",
-      "published_date": "2026-10-07T06:02:00+00:00",
-      "category": "Energy"
+      "url": "https://www.wnp.pl/przemysl/u-sasiada-kghm-wybuchl-strajk-atmosfera-w-branzy-coraz-goretsza,1106630.html",
+      "published_date": "2026-10-07T20:25:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The energy market will change. \"Flexibility will come at a price\"",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/rynek-energii-sie-zmieni-elastycznosc-bedzie-miec-swoja-cene,1106076.html",
-      "published_date": "2026-10-07T06:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Miłosz Motyka in \"Graffiti\". Watch from 7:40",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-07/milosz-motyka-w-graffiti-ogladaj-od-740-2/",
-      "published_date": "2026-10-07T05:13:00+00:00",
-      "category": "Energy"
+      "title": "Biomethane is intended to make the economy independent of imports",
+      "source": "Rzeczpospolita",
+      "url": "https://energia.rp.pl/nowa-energia/art45301971-biometan-ma-uniezaleznic-gospodarke-od-importu",
+      "published_date": "2026-10-07T19:00:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "The end of \"empty\" ESG reporting. Companies want to know what they'll get out of it",
@@ -358,6 +414,13 @@
       "source": "WNP.pl",
       "url": "https://www.wnp.pl/rynki/kazda-katastrofa-zmienia-reguly-gry-kto-zaplaci-gdy-ryzyko-przekroczy-granice,1106562.html",
       "published_date": "2026-10-07T17:50:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "This is the effect of the \"new CPN\". This is how fuel prices dropped",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gospodarka/znamy-ceny-paliw-po-wprowadzeniu-cpn-30/9bmvkks",
+      "published_date": "2026-10-07T17:47:17+00:00",
       "category": "Economy"
     },
     {
@@ -452,178 +515,143 @@
       "category": "Economy"
     },
     {
-      "title": "The council is not moving the rates (yet?). Will there be a raise in November?",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Rada-stop-jeszcze-nie-rusza-Czy-bedzie-podwyzka-w-listopadzie-9208693.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-07T14:55:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The great rival KGHM was untruthful about the valuable metal",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/przemysl/wielki-rywal-kghm-mijal-sie-z-prawda-ws-cennego-metalu,1106481.html",
-      "published_date": "2026-10-07T14:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A Polish company is developing a large project in Argentina. \"It's like several counties connected.\"",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/polska-firma-rozwija-wielki-projekt-w-argentynie/0szj7r2",
-      "published_date": "2026-10-07T14:12:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Doctor Dawid K. was charged. Prosecutor's Office: Over half a million extorted on \"left\" invoices",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Afera-w-Szpitalu-Poludniowym-Lekarz-Dawid-K-uslyszal-zarzuty-Prokuratura-Ponad-pol-miliona-wyludzone-na-lewe-faktury-9208907.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-07T14:03:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Interest rates in Poland. The MPC decided",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/rpp-podjela-decyzje-o-stopach-procentowych-rynek-spodziewa-sie-podwyzek/98z0nvt",
-      "published_date": "2026-10-07T13:56:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Weather on All Saints' Day. What awaits Poles visiting cemeteries?",
+      "title": "Speed cameras in a new way. The car owner will pay for the driver",
       "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/kraj/art45265471-pogoda-na-wszystkich-swietych-co-czeka-polakow-odwiedzajacych-cmentarze",
-      "published_date": "2026-10-07T17:33:00+00:00",
+      "url": "https://www.rp.pl/prawo-drogowe/art45262901-fotoradary-po-nowemu-wlasciciel-auta-zaplaci-za-kierowce",
+      "published_date": "2026-10-08T02:23:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Łukasz Gibała wins against his opponent in court",
+      "title": "Estonia introduces shooting classes in schools. They will include eighth-graders",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/krakow/lukasz-gibala-wygrywa-w-sadzie-z-monika-piatkowska/k57tptm",
-      "published_date": "2026-10-07T17:32:07+00:00",
+      "url": "https://wiadomosci.onet.pl/swiat/estonia-wprowadza-zajecia-ze-strzelania-program-obejmie-14-latkow/3zy38pv",
+      "published_date": "2026-10-08T01:05:25+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Did he want to blow up the school? Prosecutor: A knifeman from Ostrołęka brought a bomb",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Chcial-wysadzic-szkole-Prokurator-Nozownik-z-Ostroleki-przyniosl-bombe-9209092.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-07T17:31:00+00:00",
+      "title": "The storm after Konrad Berkowicz's words to the journalist. \"Ordinary boor\"; \"scandalous\"",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/burza-po-slowach-konrada-berkowicza-do-justyny-dobrosz-oracz-zwykly-cham/94vehpe",
+      "published_date": "2026-10-07T23:48:05+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Abortion returns to the Sejm. Decriminalization and a return to compromise on the table",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Aborcja-wraca-do-Sejmu-Dekryminalizacja-i-powrot-do-kompromisu-na-stole-9209091.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-07T17:28:00+00:00",
+      "title": "Confederation MP Konrad Berkowicz insulted a journalist. \"I don't talk to courtesans\"",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/polityka/art45302281-posel-konfederacji-konrad-berkowicz-obrazil-dziennikarke-nie-rozmawiam-z-kurtyzanami",
+      "published_date": "2026-10-07T21:12:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The trial begins regarding the brutal murder of 16-year-old Maja from Mława. The accused \"smiled in the courtroom\"",
+      "title": "Knife attack in a monastery in Jarosław. RMF FM: The prosecutor's office accused Ihor M. of murder",
       "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33065868,rusza-proces-w-sprawie-brutalnego-zabojstwa-16-letniej-mai-z.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-07T17:14:00+00:00",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33066043,atak-nozownika-w-klasztorze-w-jaroslawiu-rmf-fm-prokuratura.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-07T20:43:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Everything we know about the knifeman from Ostrołęka. The day of the attack was not chosen randomly",
+      "title": "Behind the scenes of the knife attack in Ostrołęka. \"He wanted to be loud on his birthday\"",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33066000,kulisy-ataku-nozownika-w-ostrolece-chcial-zeby-w-jego-urodziny.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-07T20:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Donald Trump was asked about the change of government in Poland. He replied in one sentence",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/warszawa/kim-jest-19-letni-nozownik-z-ostroleki-byl-notowany-i-pod-opieka-specjalistow/zrp81zh",
-      "published_date": "2026-10-07T17:01:22+00:00",
+      "url": "https://wiadomosci.onet.pl/swiat/trump-dostal-pytanie-o-zmiane-rzadu-w-polsce-zaczal-mowic-o-karolu-nawrockim/2v8emgn",
+      "published_date": "2026-10-07T20:00:49+00:00",
       "category": "Local Events"
     },
     {
-      "title": "A Venezuelan who killed a doctoral student in Toruń was sentenced to 25 years in prison",
+      "title": "\"Attention, this is the police.\" Evening action of the services in Ostrołęka",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/warszawa/atak-nozownika-w-ostrolece-wieczorna-akcja-sluzb-na-terenie-miasta-i-powiatu/8dve8qz",
+      "published_date": "2026-10-07T20:00:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A store fire in Jastrzębie-Zdrój. An RCB alert has been sent to residents",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/katowice/pozar-sklepu-w-jastrzebiu-zdroju-do-mieszkancow-wyslano-alert-rcb-st9275293?source=rss",
+      "published_date": "2026-10-07T20:00:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "“Angry and confused.” Lawyers have provided new information about Christa Pike's condition",
       "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/prawo-karne/art45300931-wenezuelczyk-ktory-zabil-doktorantke-w-toruniu-skazany-na-25-lat-wiezienia",
-      "published_date": "2026-10-07T17:00:00+00:00",
+      "url": "https://www.rp.pl/przestepczosc/art45302051-zla-i-zdezorientowana-prawnicy-przekazali-nowe-informacje-o-stanie-christy-pike",
+      "published_date": "2026-10-07T19:52:56+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Knife attack in Ostrołęka. National prosecutor: the perpetrator had an explosive device in his backpack",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/atak-nozownika-w-ostrolece-prokurator-krajowy-sprawca-mial-w-plecaku-ladunek/q5r7mvg",
-      "published_date": "2026-10-07T16:44:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"He had an explosive device in his backpack.\" New information after the school attack",
+      "title": "Pyrotechnics action in Ostrołęka. The building where the knifeman lived was evacuated",
       "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-07/mial-w-plecaku-ladunek-wybuchowy-nowe-informacje-po-ataku-w-szkole/",
-      "published_date": "2026-10-07T16:41:00+00:00",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-07/akcja-pirotechnikow-w-ostrolece-nastepstwa-ataku-nozownika-na-szkole/",
+      "published_date": "2026-10-07T19:45:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "A turnaround in the case of a brutal murder in Masovia. The priest changes his line of defense",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/warszawa/zwrot-w-sprawie-brutalnego-morderstwa-na-mazowszu-ksiadz-zmienia-linie-obrony/3zkyzdl",
-      "published_date": "2026-10-07T16:27:42+00:00",
+      "title": "Isaias could be the first Atlantic hurricane in a long time. They are preparing for the worst",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/tvnmeteo/swiat/isaias-moze-byc-pierwszym-huraganem-na-atlantyku-od-dawna-przygotowuja-sie-na-najgorsze-st9275251?source=rss",
+      "published_date": "2026-10-07T19:44:39+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The fight for Kraków moved to court. Gibała and Piątkowska had to straighten their words",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/polityka/art45300721-starcie-o-krakow-przenioslo-sie-do-sadu-gibala-i-piatkowska-musieli-prostowac-slowa",
-      "published_date": "2026-10-07T16:23:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Attack on the school in Ostrołęka. Prosecutor: The perpetrator had an explosive device",
+      "title": "Christa Pike, sentenced to death, regained consciousness. \"She's angry and confused.\"",
       "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33065927,atak-na-szkole-w-ostrolece-sprawca-mial-ladunek-wybuchowy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-07T16:23:00+00:00",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33066006,skazana-na-smierc-christa-pike-odzyskala-przytomnosc-jest.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-07T19:34:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "A well-known hotel brand wants to focus on Poland. \"Growing interest\"",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/znana-marka-hoteli-chce-stawiac-na-polske-rosnace-zainteresowanie/ls4s6dk",
-      "published_date": "2026-10-07T16:22:00+00:00",
+      "title": "Attack at school. 19-year-old Jakub Z. \"was calm but withdrawn\"",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/tvnwarszawa/okolice/ostroleka-atak-w-szkole-19-latek-byl-spokojny-ale-wycofany-st9275237?source=rss",
+      "published_date": "2026-10-07T19:23:21+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Police lynching of a pedophile? In the background there is a witness with accusations, illegal drugs and a fake factory",
+      "title": "Large fire in Jastrzębie-Zdrój. A column of smoke over the city",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/szczecin/policjantka-pograza-kolegow-ze-szczecina-zeznania-pod-lupa-prokuratury/kkjdv03",
-      "published_date": "2026-10-07T16:16:09+00:00",
+      "url": "https://wiadomosci.onet.pl/slask/duzy-pozar-w-jastrzebiu-zdroju-slup-dymu-nad-miastem/5p62jvp",
+      "published_date": "2026-10-07T19:16:18+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The mayor of Tirana is behind bars but still runs the city",
+      "title": "The government is hindering the creation of a permanent US base in Poland? \"High class bullshit\"",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/rzad-utrudnia-powstanie-stalej-bazy-usa-w-polsce-magdalena-sobkowiak-czarnecka-wysokiej-klasy-bzdura-st9275253?source=rss",
+      "published_date": "2026-10-07T19:11:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A 20-year-old raped and killed Klaudia in a Toruń park. He did not give any explanations in court. There is a verdict",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33065972,20-latek-zgwalcil-i-zabil-klaudie-w-torunskim-parku-w-sadzie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-07T19:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "School bus shot at in Pomerania. The police are appealing for help",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/politico/burmistrz-tirany-przebywa-za-kratkami-ale-nadal-zarzadza-miastem/8vd8mrh",
-      "published_date": "2026-10-07T16:12:55+00:00",
+      "url": "https://wiadomosci.onet.pl/trojmiasto/szkolny-bus-ostrzelany-na-pomorzu-skrajna-glupota-lub-nienawisc/fgc5h3n",
+      "published_date": "2026-10-07T18:56:40+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Tragedy in Mazovia. A 45-year-old man attacked by bulls has died",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/warszawa/tragedia-w-gospodarstwie-na-mazowszu-chcial-pomoc-zginal-stratowany-przez-byki/s5fz6vc",
-      "published_date": "2026-10-07T16:08:28+00:00",
+      "title": "The government wants to limit doctors' salaries. The bill was adopted by the health committee",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/zdrowie/limity-plac-w-ochronie-zdrowia-ustawa-przyjeta-przez-sejmowa-komisje-st9275182?source=rss",
+      "published_date": "2026-10-07T18:54:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "This will be a total breakthrough in the weather. Thursday with a sudden rockfall [MAPS]",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/pogoda/nadciaga-powazna-zmiana-w-pogodzie-w-czwartek-na-deszczu-sie-nie-skonczy/1lkm61g",
-      "published_date": "2026-10-07T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The murder of 16-year-old Maja from Mława. The trial of Bartosz G. will start on November 3",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/prawo-karne/art45300711-zabojstwo-16-letniej-mai-z-mlawy-proces-bartosza-g-ruszy-3-listopada",
-      "published_date": "2026-10-07T15:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Everyone in Romania wants early elections. Except for the only person who can announce them",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/politico/nikt-nie-chce-drugiej-grecji-kryzys-polityczny-w-rumunii-prezydent-stawia-opor/h9pd444",
-      "published_date": "2026-10-07T15:52:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will the President dissolve the Sejm if politicians do not reach an agreement? Radical project of changes to the Constitutional Tribunal",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Prezydent-rozwiaze-Sejm-jesli-politycy-sie-nie-dogadaja-Radykalny-projekt-zmian-w-TK-9208993.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-07T15:45:00+00:00",
+      "title": "Massive data leak. National Health Fund announcement",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/biznes/tech/potezny-wyciek-danych-komunikat-nfz-st9275239?source=rss",
+      "published_date": "2026-10-07T18:49:42+00:00",
       "category": "Local Events"
     }
   ]
