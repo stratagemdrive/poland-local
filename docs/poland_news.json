@@ -1,8 +1,15 @@
 {
   "country": "Poland",
-  "last_updated": "2026-10-09T17:17:59.346809+00:00",
+  "last_updated": "2026-10-10T02:03:06.778214+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "The US ambassador praises cooperation with Kosiniak-Kamysz. He also writes about one \"problem\"",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33070328,ambasador-usa-zachwala-wspolprace-z-kosiniakiem-kamyszem-pisze.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-09T18:57:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The Russian ambassador attacks Poland. He points to Karol Nawrocki",
       "source": "Onet",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "\"Sooner or later there will be victims.\" The EU is preparing for a worst-case scenario",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33064667,predzej-czy-pozniej-beda-ofiary-ue-przygotowuje-sie-na-czarny.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-07T12:50:00+00:00",
-      "category": "Diplomacy"
+      "title": "President Karol Nawrocki signed three acts. We know what they are about",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/prezydent-karol-nawrocki-podpisal-trzy-ustawy-wiemy-czego-dotycza/h5k9q8d",
+      "published_date": "2026-10-09T23:07:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A permanent US base in Poland or Lithuania? The general has no doubts, he is talking about military logic",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/polityka/art45313121-stala-baza-usa-w-polsce-czy-na-litwie-general-nie-ma-watpliwosci-mowi-o-logice-militarnej",
+      "published_date": "2026-10-09T20:02:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NATO general: A permanent US base should be built in Poland, not in Lithuania",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/General-NATO-Stala-baza-USA-powinna-powstac-w-Polsce-nie-na-Litwie-9210542.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-09T19:31:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "\"Pyramid misunderstanding\". Zgorzelski about Kosiniak-Kamysz's conversation with Trump",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/piotr-zgorzelski-o-rozmowie-wladyslawa-kosiniaka-kamysza-z-donaldem-trumpem-st9279238?source=rss",
+      "published_date": "2026-10-09T18:59:45+00:00",
+      "category": "Military"
     },
     {
       "title": "Without digitalization there will be no effective army. Polish companies have interesting technologies, but one thing is missing",
@@ -158,6 +186,13 @@
       "category": "Military"
     },
     {
+      "title": "She transferred the equivalent of PLN 189 to the Russian army. The Latvian court issued a judgment",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/prawo/szesc-lat-wiezienia-za-wsparcie-rosyjskich-zolnierzy-wyrok-szokuje-opinie-publiczna/nh9stt6",
+      "published_date": "2026-10-09T17:49:13+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Mysterious meeting with Trump. And PiS's game, which may affect our relations with the USA",
       "source": "Rzeczpospolita",
       "url": "https://www.rp.pl/polityka/art45303791-tajemnicze-spotkanie-z-trumpem-i-rozgrywka-pis-ktora-moze-uderzyc-w-nasze-relacje-z-usa",
@@ -169,6 +204,13 @@
       "source": "Rzeczpospolita",
       "url": "https://www.rp.pl/przestepczosc/art45312301-egzekucja-w-usa-ma-byc-transmitowana-na-zywo-onz-rownoznaczne-z-torturami",
       "published_date": "2026-10-09T15:47:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "They plan to broadcast the execution live. J.D. Vance: I won't watch it",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/przestepczosc/art45312301-planuja-transmisje-na-zywo-z-egzekucji-j-d-vance-ja-nie-bede-tego-ogladac",
+      "published_date": "2026-10-09T15:47:00+00:00",
       "category": "Military"
     },
     {
@@ -242,52 +284,38 @@
       "category": "Military"
     },
     {
-      "title": "An easier decision to shoot down Russian drones. FA-50s will relieve the F-16",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/latwiejsza-decyzja-o-zestrzeleniu-rosyjskich-dronow-fa-50-odciaza-f-16",
-      "published_date": "2026-10-09T11:35:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rose on Kosiniak-Kamysz: architect of progress in US-Poland defense relations",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/rose-o-kosiniaku-kamyszu-architekt-postepu-w-relacjach-obronnych-usa-polska",
-      "published_date": "2026-10-09T11:15:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Industry for Defense is coming. Last days to register",
+      "title": "An important event at the construction site of a large energy storage facility",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/juz-niedlugo-rusza-konferencja-przemysl-dla-obronnosci-to-ostatnie-dni-na-rejestracje,1107259.html",
-      "published_date": "2026-10-09T10:53:00+00:00",
-      "category": "Military"
+      "url": "https://www.wnp.pl/energia/wazne-wydarzenie-na-budowie-duzego-magazynu-energii,1107555.html",
+      "published_date": "2026-10-09T20:58:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Expansion of the national artillery ammunition potential",
-      "source": "Defence24",
-      "url": "https://defence24.pl/przemysl/rozbudowa-krajowego-potencjalu-amunicji-artyleryjskiej",
-      "published_date": "2026-10-09T04:00:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The public sector is looking for good offices. Investments in defense may drive demand for warehouses",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/nieruchomosci/art45302661-sektor-publiczny-szuka-dobrych-biur-inwestycje-w-obronnosc-moga-napedzic-popyt-na-magazyny",
-      "published_date": "2026-10-09T02:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia's night attacks on Ukraine. Operational Command of the Armed Forces: The operation has been completed",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-08/nocne-ataki-rosji-na-ukraine-nowy-komunikat-dowodztwa-operacyjnego-rsz/",
-      "published_date": "2026-10-08T21:09:00+00:00",
-      "category": "Military"
+      "title": "An important energy company has a new president",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/wazna-spolka-energetyczna-ma-nowa-prezeske,1107545.html",
+      "published_date": "2026-10-09T19:57:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "An important event for renewable energy is coming. \"The challenge, especially for photovoltaics, is the method of settlement\"",
       "source": "WNP.pl",
       "url": "https://www.wnp.pl/energia/nadchodzi-wazne-wydarzenie-dla-oze-wyzwaniem-zwlaszcza-dla-fotowoltaiki-jest-sposob-rozliczen,1107498.html",
       "published_date": "2026-10-09T18:59:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Russia blocked the shipment of Kazakh coal to Poland",
+      "source": "Rzeczpospolita",
+      "url": "https://energia.rp.pl/wegiel/art45312181-rosja-zablokowala-przesyl-kazachskiego-wegla-do-polski",
+      "published_date": "2026-10-09T18:57:16+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "They filled up the tank and drove away without paying. They stole 250 liters of diesel",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/wiadomosci/olej-napedowy-falszywe-tablice-i-narkotyki-policja-podsumowuje-akcje/m8l29jx",
+      "published_date": "2026-10-09T18:25:58+00:00",
       "category": "Energy"
     },
     {
@@ -389,39 +417,32 @@
       "category": "Energy"
     },
     {
-      "title": "Will they limit fuel supplies to Poland? Orlen and the government are reacting",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/ogranicza-dostawy-paliw-do-polski-orlen-i-rzad-reaguja,1107214.html",
-      "published_date": "2026-10-09T08:55:30+00:00",
+      "title": "We know fuel prices for the weekend. The minister announced the decision",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-09/znamy-ceny-paliwa-na-weekend-minister-energii-oglosil/",
+      "published_date": "2026-10-09T10:03:00+00:00",
       "category": "Energy"
     },
     {
-      "title": "Fuel prices higher. It will come back to over PLN 8 per liter. What's going on?",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/ceny-paliw-wyzej-wroci-ponad-8-zl-za-litr-co-sie-dzieje,1107204.html",
-      "published_date": "2026-10-09T08:11:52+00:00",
-      "category": "Energy"
+      "title": "Crowds of tourists in Venice. A night in a hotel of poor or average quality for 300-500 euros",
+      "source": "Rzeczpospolita",
+      "url": "https://turystyka.rp.pl/nowe-trendy/art45313231-tlumy-turystow-w-wenecji-noc-w-hotelu-slabej-i-sredniej-jakosci-za-300-500-euro",
+      "published_date": "2026-10-09T23:22:47+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Biomass boilers already installed. The investment in the Pruszków Heat and Power Plant is entering the next stage",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/kotly-na-biomase-juz-zamontowane-inwestycja-w-elektrocieplowni-pruszkow-wchodzi-w-kolejny-etap,1107188.html",
-      "published_date": "2026-10-09T07:15:59+00:00",
-      "category": "Energy"
+      "title": "New rules for contact between unions and employers. There is the president's signature",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-09/nowe-zasady-kontaktu-zwiazkow-z-pracodawcami-jest-podpis-prezydenta/",
+      "published_date": "2026-10-09T20:42:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Slovakia has taken an important step towards building a new nuclear block",
+      "title": "Poland shines on the trade map of Europe. There we even overtook Great Britain",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/slowacja-zrobila-wazny-krok-w-kierunku-budowy-nowego-bloku-jadrowego,1107088.html",
-      "published_date": "2026-10-08T21:55:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Opportunity or costly trap? Hydrogen buses hit the streets of Rzeszów",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/logistyka/szansa-czy-kosztowna-pulapka-autobusy-wodorowe-wyjechaly-na-ulice-rzeszowa,1107068.html",
-      "published_date": "2026-10-08T20:51:00+00:00",
-      "category": "Energy"
+      "url": "https://www.wnp.pl/rynki/polska-blyszczy-na-handlowej-mapie-europy-tam-wyprzedzilismy-nawet-wielka-brytanie,1107374.html",
+      "published_date": "2026-10-09T20:00:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "The Polish company announces the production of new solutions. And he counts on their export",
@@ -543,164 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "A well-known manufacturer of construction products is launching the largest investment in years. It also takes over a competitor's factory",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/budownictwo/atlas-rozpoczyna-najwieksza-od-lat-inwestycje-przejmuje-tez-fabryke-konkurencji,1107281.html",
-      "published_date": "2026-10-09T12:34:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Up to 65 thousand PLN per month. This industry doesn't skimp on payouts",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Zatrudnienie-spada-a-zarobki-rosna-Tam-mozna-zarobic-nawet-65-tys-miesiecznie-9210195.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-09T12:10:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The new owner may sell TVN. There are already such voices in the company",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/rynki/nowy-wlasciciel-moze-sprzedac-tvn-w-firmie-pojawiaja-sie-juz-taki-glosy,1107301.html",
-      "published_date": "2026-10-09T11:55:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The prosecutor's office attacks Ziobro's people. Requests to waive the immunities of Schab, Radzik and Lasota",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Prokuratura-uderza-w-ludzi-Ziobry-Wnioski-o-uchylenie-immunitetow-Schaba-Radzika-i-Lasoty-9210506.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-09T17:36:00+00:00",
+      "title": "A sick swan at the Żerański Canal. The guards rushed to help",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/warszawa/warszawa-straznicy-miejscy-uratowali-chorego-labedzia-z-kanalu-zeranskiego/c22q2e6",
+      "published_date": "2026-10-10T01:11:48+00:00",
       "category": "Local Events"
     },
     {
-      "title": "3 months of arrest and the threat of life imprisonment. Shocking behind the scenes of a knife attack with a bomb",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/3-miesiace-aresztu-i-grozba-dozywocia-Szokujace-kulisy-ataku-nozownika-z-bomba-9210505.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-09T17:34:00+00:00",
+      "title": "Krakow will elect a president. Election silence continues near Wawel",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/krakow/krakow-bedzie-wybierac-prezydenta-trwa-cisza-wyborcza-pod-wawelem/nmzdk7g",
+      "published_date": "2026-10-10T00:09:59+00:00",
       "category": "Local Events"
     },
     {
-      "title": "New information about a 19-year-old knifeman from Ostrołęka. There is temporary arrest for Jakub Z.",
+      "title": "RCB alert in connection with Russian attacks on Ukraine",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/alert-rcb-w-zwiazku-z-rosyjskimi-atakami-na-ukraine-st9279321?source=rss",
+      "published_date": "2026-10-09T22:27:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine under Russian fire. RCB alerts sent to two voivodeships",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/ukraina-pod-ostrzalem-rosji-alerty-rcb-wyslane-do-dwoch-wojewodztw/p03skm4",
+      "published_date": "2026-10-09T22:24:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Powerful earthquake in Panama. The main airport was closed and people were evacuated",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/kleski-zywiolowe/art45313211-potezne-trzesienie-ziemi-w-panamie-zamknieto-glowne-lotnisko-ewakuowano-ludzi",
+      "published_date": "2026-10-09T21:56:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Michał Kołodziejczak accused of violence. The Civic Coalition reacts",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/michal-kolodziejczak-oskarzony-o-przemoc-koalicja-obywatelska-reaguje/dvwvlxr",
+      "published_date": "2026-10-09T21:37:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mirbud is close to the contract for the construction of the Police Headquarters for almost PLN 90 million",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/budownictwo/mirbud-blisko-kontraktu-na-budowe-komendy-policji-za-niemal-90-mln-zl,1107569.html",
+      "published_date": "2026-10-09T21:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Final verdict for the child murderer from Wilanów. The Supreme Court dismissed the cassation appeal",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/prawo-karne/art45313131-ostateczny-wyrok-dla-dzieciobojczyni-z-wilanowa-sad-najwyzszy-oddalil-kasacje",
+      "published_date": "2026-10-09T20:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former colleagues accuse Michał Kołodziejczak. \"He said many times that he would kill me\"",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-09/byle-wspolpracownice-oskarzaja-michala-kolodziejczaka-mowil-wielokrotnie-ze-mnie-zabije/",
+      "published_date": "2026-10-09T20:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Before the second round of elections in Krakow. Piątkowska hits Gibała. \"Lacked courage\"",
       "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33070236,nowe-informacje-ws-19-letniego-nozownika-z-ostroleki-jest.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-09T17:14:00+00:00",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33070378,przed-ii-tura-wyborow-w-krakowie-piatkowska-uderza-w-gibale.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-09T20:02:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Fake text messages about a fine. Scammers impersonate a government application",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/biznes/tech/falszywe-sms-y-o-mandacie-oszusci-podszywaja-sie-pod-rzadowa-aplikacje-st9278560?source=rss",
-      "published_date": "2026-10-09T17:10:20+00:00",
+      "title": "Tragedy on the tracks. Poznań-Warsaw train traffic suspended",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-09/tragedia-na-torach-ruch-pociagow-poznan-warszawa-wstrzymany/",
+      "published_date": "2026-10-09T20:00:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Why are Poles crazy about podcasts? The creators reveal the secret",
+      "title": "Attacks and threats in schools. Małgorzata Ohme tells how to talk to a child",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/podcasty-podbijaja-polske-blastcast-ujawnia-sile-wiezi-z-odbiorca/lb59gfv",
-      "published_date": "2026-10-09T17:10:18+00:00",
+      "url": "https://wiadomosci.onet.pl/tylko-w-onecie/ataki-i-grozby-w-szkolach-malgorzata-ohme-mowi-jak-rozmawiac-z-dzieckiem/syxyg8z",
+      "published_date": "2026-10-09T19:54:07+00:00",
       "category": "Local Events"
     },
     {
-      "title": "A wave of frost is coming to Europe in October. Even -15 degrees",
+      "title": "Tragic accident on S3. A motorcyclist is dead",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/wroclaw/tragiczny-wypadek-na-s3-nie-zyje-motocyklista/gnpyrvr",
+      "published_date": "2026-10-09T19:48:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Michał Kołodziejczak accused by former colleagues. There are allegations of violence and drugs",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/przemoc-i-narkotyki-byle-wspolpracownice-oskarzaja-michala-kolodziejczaka/t9xkx1c",
+      "published_date": "2026-10-09T19:23:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Revolutionary changes in psychiatric care for adults. There is a regulation",
       "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/swiat/art45310511-fala-mrozu-nadciaga-nad-europe-juz-w-pazdzierniku-nawet-15-stopni",
-      "published_date": "2026-10-09T17:04:00+00:00",
+      "url": "https://www.rp.pl/ochrona-zdrowia/art45312991-rewolucyjne-zmiany-w-opiece-psychiatrycznej-dla-doroslych-jest-rozporzadzenie",
+      "published_date": "2026-10-09T19:19:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Attacks and threats in Polish schools. Expert: we have a strong domino effect",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/dzieci-atakuja-i-strasza-nozami-w-szkolach-ekspert-wyjasnia-co-moze-za-tym-stac/c071zc0",
-      "published_date": "2026-10-09T17:00:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is behind the school attacks? Expert on online threats and \"accelerating the radicalization process\"",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/ataki-nastolatkow-w-szkolach-istotne-moze-byc-to-ze-pojawia-sie-w-mediach/17y8cq0",
-      "published_date": "2026-10-09T16:47:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "He attacked students and school employees with a knife. There is a arrest for a 19-year-old",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/tvnwarszawa/okolice/ostroleka-zaatakowal-nozem-uczniow-i-pracownikow-szkoly-jest-areszt-dla-19-latka-st9279091?source=rss",
-      "published_date": "2026-10-09T16:44:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A 19-year-old attacked students and school employees with a knife. There is a court decision regarding arrest",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/warszawa/19-latek-zaatakowal-nozem-w-szkole-w-ostrolece-decyzja-sadu-w-sprawie-aresztu/ynpjb6v",
-      "published_date": "2026-10-09T16:39:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inspections in schools after a series of attacks. The police provided new information",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/policja-po-atakach-w-szkolach-zatrzymano-kilkadziesiat-osob-w-calej-polsce/xj5sffc",
-      "published_date": "2026-10-09T16:31:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After a wave of criticism, the Czech president interrupted his vacation and voted in local elections",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/swiat/prezydent-czech-petr-pavel-przerwal-urlop-zeby-zaglosowac-w-wyborach-lokalnych-st9279023?source=rss",
-      "published_date": "2026-10-09T16:27:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The prosecutor's office at the hospital on Madalińskiego Street. \"Restarting activities\" after the patient's death",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-zamiast-tlenu-dostala-azot-prokuratura-ponownie-w-szpitalu-na-madalinskiego-st9278927?source=rss",
-      "published_date": "2026-10-09T16:23:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prof. Dudek on the politicians of the People's Republic of Poland. \"Stalin asked directly: why do we have such a stupid prime minister?\"",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/blastcast-festival-prof-antoni-dudek-ostro-o-bylych-premierach-prl/xqydtxl",
-      "published_date": "2026-10-09T16:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Change of TVN's owner under the state's scrutiny. The minister will not decide alone",
+      "title": "\"It's not a challenge.\" Gen. Boroń explains what may be behind the wave of incidents in schools",
       "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/media/art45311001-zmiana-wlasciciela-tvn-pod-lupa-panstwa-minister-nie-zdecyduje-sam",
-      "published_date": "2026-10-09T16:16:16+00:00",
+      "url": "https://www.rp.pl/przestepczosc/art45313011-to-nie-challenge-gen-boron-wyjasnia-co-moze-stac-za-fala-incydentow-w-szkolach",
+      "published_date": "2026-10-09T19:17:25+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Attacks at schools and a series of arrests of teenagers. What we know so far",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/ataki-w-szkolach-i-seria-zatrzyman-nastolatkow-co-wiemy-do-tej-pory/zkl4tgm",
-      "published_date": "2026-10-09T15:58:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"We will build a metro line in Gdańsk.\" The prime minister's son follows the example from Berlin",
+      "title": "Fuel for Ukraine at less than PLN 3 per liter? Farmers are writing to the Prime Minister and want explanations",
       "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/nowe-metro-w-gdansku-coraz-blizej-michal-tusk-mowi-o-historycznym-dniu/xrbvf7d",
-      "published_date": "2026-10-09T15:56:57+00:00",
+      "url": "https://businessinsider.com.pl/finanse/handel/ceny-paliw-i-nawozow-nizsze-dla-ukrainy-rolnicy-zadaja-wyjasnien-od-premiera/lmbd4cj",
+      "published_date": "2026-10-09T19:07:18+00:00",
       "category": "Local Events"
     },
     {
-      "title": "On the one hand, fear, on the other, \"jokes\" about knifemen. \"We are going the way of the USA\"",
+      "title": "Chief of Police: In the video, the 15-year-old can be seen realizing at some point what he has done",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/szef-policji-marek-boron-o-nagraniu-z-kamery-15-latka-ktory-zaatakowal-pracownikow-szkoly-w-leszczydole-nowinach-st9279205?source=rss",
+      "published_date": "2026-10-09T18:45:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One migrant crossed the English Channel every six minutes. A record start to October",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/szczecin/policjanci-pilnuja-szkol-w-calej-polsce-tak-wyglada-dzien-po-atakach-nozownikow/l4tvldn",
-      "published_date": "2026-10-09T15:49:46+00:00",
+      "url": "https://wiadomosci.onet.pl/swiat/co-szesc-minut-jeden-migrant-przekraczal-kanal-la-manche-rekordowy-poczatek/fy02zjw",
+      "published_date": "2026-10-09T18:24:54+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Wojciech Szymański is dead. Millionaire, owner of the Lukullus company, sponsor and sports activist",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/rynki/nie-zyje-wojciech-szymanski-milioner-wlasciciel-firmy-lukullus-sponsor-i-dzialacz-sportowy,1107458.html",
-      "published_date": "2026-10-09T15:49:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Europe's verdict on the power of President Nawrocki. Will the results from Strasbourg shock Warsaw?",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Wyrok-Europy-ws-wladzy-prezydenta-Nawrockiego-Wyniki-ze-Strasburga-wstrzasna-Warszawa-9210451.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-09T15:46:00+00:00",
+      "title": "Strong earthquake in Panama. Destroyed buildings and roads, suspended flights",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/tvnmeteo/swiat/trzesienie-ziemi-w-panamie-wydano-alert-przed-tsunami-st9279208?source=rss",
+      "published_date": "2026-10-09T18:23:45+00:00",
       "category": "Local Events"
     }
   ]
