@@ -1,8 +1,29 @@
 {
   "country": "Poland",
-  "last_updated": "2026-10-10T16:00:59.546486+00:00",
+  "last_updated": "2026-10-11T01:30:27.346684+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "\"We are not husband and wife.\" The head of the Ukrainian Institute of National Remembrance is cold about relations with Poland",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Nie-jestesmy-mezem-i-zona-Szef-ukrainskiego-IPN-chlodno-o-relacjach-z-Polska-9210733.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-10T19:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Appeal to the US to immediately withdraw sanctions against the ICC",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Apel-do-USA-o-natychmiastowe-wycofanie-sankcji-wobec-MTK-9210701.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-10T19:27:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The head of the Ukrainian Institute of National Remembrance on the Volhynia massacre and relations with Poland. \"We are not someone else's entity\"",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/szef-ipn-ukrainy-o-rzezi-wolynskiej-nie-jestesmy-czyims-przedmiotem/4p6gvsb",
+      "published_date": "2026-10-10T18:24:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Recruitment of employees for the electromobility hub in Jaworzno has started",
       "source": "WNP.pl",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Will Poland donate F-16s to Ukraine? There is a statement from the Ministry of Foreign Affairs",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/polska-przekaze-ukrainie-f-16-jest-komunikat-rzecznika-msz",
-      "published_date": "2026-10-08T16:00:00+00:00",
-      "category": "Diplomacy"
+      "title": "\"The most difficult situation in decades.\" Siemoniak warns and announces existential choices",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Najtrudniejsza-sytuacja-od-dziesiecioleci-Siemoniak-ostrzega-i-zapowiada-wybory-egzystencjalne-9210707.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-10T19:33:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Andrzej Duda to the Ministry of Foreign Affairs: \"Finally stop lying.\" In the background is the F-16 case for Ukraine",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33067872,andrzej-duda-do-msz-przestancie-wreszcie-klamac-w-tle-sprawa.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-08T15:25:00+00:00",
-      "category": "Diplomacy"
+      "title": "Lockheed Martin presented a new missile to combat ballistic and hypersonic missiles",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/bezpieczenstwo/lockheed-martin-zaprezentowal-nowy-pocisk-do-zwalczania-rakiet-balistycznych-i-hipersonicznych,1107744.html",
+      "published_date": "2026-10-10T18:22:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Is Ryanair allowed to fly within the European Union? Competitors have doubts",
-      "source": "Rzeczpospolita",
-      "url": "https://turystyka.rp.pl/linie-lotnicze/art45302301-czy-ryanair-ma-prawo-latac-po-unii-europejskiej-konkurenci-maja-watpliwosci",
-      "published_date": "2026-10-07T22:20:00+00:00",
-      "category": "Diplomacy"
+      "title": "Russia attacked Ukraine. Polish fighters in the sky, RCB alert has been sent",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-10/polska-poderwala-mysliwce-rosja-atakuje-zachodnia-czesc-ukrainy/",
+      "published_date": "2026-10-10T16:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "\"Fronts of War\". Will Polish aviation defend our skies? F-16 pilot: we are not ready today",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/tylko-w-onecie/fw-byly-pilot-f-16-ocenia-polska-obrone-to-jest-dramatyczny-apel/clzkekz",
+      "published_date": "2026-10-10T16:00:51+00:00",
+      "category": "Military"
     },
     {
       "title": "SpaceX's Falcon 9 rocket completed another mission. It launched military satellites into space",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "\"Pyramid misunderstanding\". Zgorzelski about Kosiniak-Kamysz's conversation with Trump",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/polska/piotr-zgorzelski-o-rozmowie-wladyslawa-kosiniaka-kamysza-z-donaldem-trumpem-st9279238?source=rss",
-      "published_date": "2026-10-09T18:59:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Without digitalization there will be no effective army. Polish companies have interesting technologies, but one thing is missing",
+      "title": "There is an idea to finance the transformation in Poland",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/tech/bez-cyfryzacji-nie-bedzie-skutecznej-armii-jak-wyglada-local-content-w-technologiach-wojskowych,1107333.html",
-      "published_date": "2026-10-09T18:10:00+00:00",
-      "category": "Military"
+      "url": "https://www.wnp.pl/energia/ponad-bilion-na-energetyke-jest-pomysl-na-finansowanie-transformacji-w-polsce,1105502.html",
+      "published_date": "2026-10-10T20:00:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Americans were delighted with Kosiniak-Kamysz. For the USA, the head of the Ministry of National Defense is simply \"K2\"",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Amerykanie-zachwyceni-Kosiniakiem-Kamyszem-Dla-USA-szef-MON-to-po-prostu-K2-9210513.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-09T17:53:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "She transferred the equivalent of PLN 189 to the Russian army. The Latvian court issued a judgment",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/prawo/szesc-lat-wiezienia-za-wsparcie-rosyjskich-zolnierzy-wyrok-szokuje-opinie-publiczna/nh9stt6",
-      "published_date": "2026-10-09T17:49:13+00:00",
-      "category": "Military"
+      "title": "Tusk attacks Nawrocki after attacks in schools. Czarzasty attacks Zandberg. Morawiecki challenges PiS",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/tusk-uderza-w-nawrockiego-po-atakach-w-szkolach-czarzasty-atakuje-zandberga/lsv2j58",
+      "published_date": "2026-10-10T16:25:26+00:00",
+      "category": "Energy"
     },
     {
       "title": "Enthusiasm for the \"fuel of the future\" has waned. It was about money",
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Confederation MPs want the Supreme Audit Office to control the sale of coal by PGG",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/poslowie-konfederacji-chca-kontroli-nik-ws-sprzedazy-wegla-przez-pgg,1107289.html",
-      "published_date": "2026-10-09T11:48:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Gas blow to Poland. The US is quietly talking to Russia",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/gazowy-cios-w-polske-usa-po-cichu-rozmawiaja-z-rosja,1107270.html",
-      "published_date": "2026-10-09T11:04:44+00:00",
-      "category": "Energy"
+      "title": "The Italian came to Poland for love. Now he saves 10 tons of plums from crop failure",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/ekonomia/art45310031-wloch-przyjechal-do-polski-za-miloscia-teraz-ratuje-10-ton-sliwek-przed-kleska-urodzaju",
+      "published_date": "2026-10-10T16:06:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "The Prime Minister and Finance Minister are going to India. We know the purpose of the historic mission",
@@ -557,11 +564,109 @@
       "category": "Economy"
     },
     {
-      "title": "The Polish company announces the production of new solutions. And he counts on their export",
+      "title": "Poland scrambled fighters due to Russia's attack in Ukraine. New RCB alerts",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/polska-poderwala-mysliwce-w-zwiazku-z-atakiem-rosji-w-ukrainie-nowe-alerty-rcb/fdgyyp2",
+      "published_date": "2026-10-10T22:08:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "An important low-cost airline airport in the Netherlands is undergoing renovation. What about flights from Poland?",
+      "source": "Rzeczpospolita",
+      "url": "https://turystyka.rp.pl/lotniska/art45314341-wazne-lotnisko-tanich-linii-lotniczych-w-holandii-idzie-do-remontu-co-z-lotami-z-polski",
+      "published_date": "2026-10-10T20:57:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New tapes by Grzegorz Braun. He compared Karol Nawrocki's people to the Judenrat",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/grzegorz-braun-uderza-w-kancelarie-prezydenta-i-karola-nawrockiego/yyjhln4",
+      "published_date": "2026-10-10T20:31:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jarosław Kuźniar on BlastCast! about the new rules of the game in the media. \"We have one name and one face\"",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/jaroslaw-kuzniar-na-festiwalu-blastcast-diagnozuje-rynek-mediow/zzsxnk6",
+      "published_date": "2026-10-10T19:47:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Tachographs\" for doctors and reimbursement of study costs. Bosak proposes tough rules in health care",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Tachografy-dla-lekarzy-i-zwrot-kosztow-za-studia-Bosak-proponuje-twarde-zasady-w-ochronie-zdrowia-9210702.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-10T19:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The black series in Polish schools continues. Brutal knife attack in Warsaw",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Czarna-seria-w-polskich-szkolach-trwa-Brutalny-napad-z-nozem-w-Warszawie-9210729.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-10T19:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "She survived her own execution and left the hospital. We know where she ended up now",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/swiat/christa-pike-przezyla-egzekucje-i-zakonczyla-leczenie-wiadomo-dokad-trafila/2y1v3r0",
+      "published_date": "2026-10-10T19:16:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Donald Tusk convened a briefing with ministers and services",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/donald-tusk-zwolal-odprawe-z-ministrami-i-sluzbami/0mnehwy",
+      "published_date": "2026-10-10T19:07:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A 15-year-old processed the photo in AI and posted it online. He will answer to the court",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/warszawa/policja-zatrzymala-15-latka-za-przerobienie-zdjecia-wywolal-niepokoj/nw7rflc",
+      "published_date": "2026-10-10T18:58:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Knives, axes, air gun in a 14-year-old's house. The court took it up",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/prawo-karne/art45314191-noze-siekiery-wiatrowka-w-domu-14-latka-zajal-sie-nim-sad",
+      "published_date": "2026-10-10T18:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The departure of the Polish delegation to Saudi Arabia canceled. The reason for closing the airport after the attacks",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gospodarka/atak-huti-na-lotnisko-w-rijadzie-wylot-polskiej-delegacji-odwolany/jx11d76",
+      "published_date": "2026-10-10T18:29:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The government's move after the school attacks. \"I'm starting to feel anxious\"",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-10/agresja-w-szkolach-miller-wskazal-mozliwe-zrodla/",
+      "published_date": "2026-10-10T18:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andrzej Stankiewicz: Donald Tusk puts Karol Nawrocki against the wall",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/andrzej-stankiewcz-o-nowym-liderze-prawicy-jaroslaw-kaczynski-juz-sie-nie-liczy/z0p4lm7",
+      "published_date": "2026-10-10T18:09:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Prime Minister of Latvia broke an absolute record. The Russians are in shambles",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/rynki/polska-spolka-zapowiada-produkcje-nowych-rozwiazan-i-liczy-na-ich-eksport,1107521.html",
-      "published_date": "2026-10-09T18:51:00+00:00",
-      "category": "Economy"
+      "url": "https://www.wnp.pl/rynki/premier-lotwy-pobil-absolutny-rekord-rosjanie-sa-w-rozsypce,1107003.html",
+      "published_date": "2026-10-10T18:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The weather will make a sudden turn. Significant cooling and possible snow",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-10/pogoda-zrobi-nagly-zwrot-wyrazne-ochlodzenie-i-mozliwy-snieg/",
+      "published_date": "2026-10-10T17:57:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "They will demolish the tenement houses and create a huge tunnel. Construction will start soon",
@@ -571,136 +676,31 @@
       "category": "Local Events"
     },
     {
-      "title": "Behind the scenes of a knife attack at a school in Warsaw. Students barricaded themselves in the classrooms",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/warszawa/nozowniczka-w-szkole-w-warszawie-swiadkowie-mowia-o-kulisach-ataku/mvsv6d1",
-      "published_date": "2026-10-10T15:36:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A man for special tasks, access to the Prime Minister and a powerful tool of power. Onet journalists point out who deals the cards in politics",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/kto-naprawde-pociaga-za-sznurki-dziennikarze-onetu-wskazuja-nazwiska/b34v78c",
-      "published_date": "2026-10-10T15:11:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court: You cannot punish a public transport passenger for non-working readers",
+      "title": "Bus accident with Polish tourists in Turkey. Two people dead, nine injured",
       "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/prawo-dla-ciebie/art45311951-sad-nie-mozna-karac-pasazera-komunikacji-miejskiej-za-niedzialajace-czytniki",
-      "published_date": "2026-10-10T15:00:08+00:00",
+      "url": "https://turystyka.rp.pl/zanim-wyjedziesz/art45314131-wypadek-autokaru-z-polskimi-turystami-w-turcji-dwie-osoby-nie-zyja-dziewiec-rannych",
+      "published_date": "2026-10-10T16:57:59+00:00",
       "category": "Local Events"
     },
     {
-      "title": "They go into houses and take photos. Inspections throughout the country",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/wchodza-do-domow-i-robia-zdjecia-kontrole-w-calym-kraju,1107717.html",
-      "published_date": "2026-10-10T14:30:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police action in Garwolin. The services detained a 14-year-old with a whole \"arsenal\"",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/warszawa/akcja-policji-w-garwolinie-policja-zatrzymala-14-latka-z-calym-arsenalem/1b8v6q5",
-      "published_date": "2026-10-10T14:28:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A 59-year-old woman's rally through Podhale. She destroyed gas stations and rammed cars. He's injured",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33070843,rajd-59-latki-przez-podhale-zdemolowala-stacje-paliw-taranowala.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-10T14:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The BlastCast festival is underway! Journalists talk about the upcoming election campaign. \"It's going to be hot\"",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/trwa-festiwal-blastcast-dziennikarze-mowia-o-postawie-politykow-po-atakach-w-szkolach/hx1tx9h",
-      "published_date": "2026-10-10T13:26:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nationwide manhunt and raids on schools. The police checked 50,000 branches",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Ogolnopolska-oblawa-i-naloty-w-szkolach-Policja-skontrolowala-50-tys-placowek-9210656.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-10T13:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"The biggest pest in the world, the MAGA prophet and friend of Nawrocki\" wanted to overthrow the Polish government? Chrabota: Let's get back to the facts",
+      "title": "Russia's attacks in Ukraine. Residents of Podkarpacie and the Lublin region received warnings",
       "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/plus-minus/art45259031-najwiekszy-szkodnik-swiata-prorok-maga-i-przyjaciel-nawrockiego-chcial-obalic-polski-rzad-chrabota-wrocmy-do-faktow",
-      "published_date": "2026-10-10T13:01:00+00:00",
+      "url": "https://www.rp.pl/sluzby/art45314121-ataki-rosji-w-ukrainie-mieszkancy-podkarpacia-i-lubelszczyzny-dostali-ostrzezenia",
+      "published_date": "2026-10-10T16:55:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "84-year-old counselor convicted of a series of arsons. 6 thousand PLN fine",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/84-letnia-radczyni-skazana-za-serie-podpalen-6-tys-zl-grzywny-9208335.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-10T12:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ryanair's record winter in Krakow. There are 67 routes and four new routes planned",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Rekordowa-zima-Ryanaira-w-Krakowie-W-planach-67-tras-i-cztery-nowosci-9208845.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-10T12:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The doctor talks, the AI takes a note. They are testing the new solution in Silesia",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Lekarz-rozmawia-AI-sporzadza-notatke-Nowe-rozwiazanie-testuja-na-Slasku-9208270.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-10T12:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The PSL leader proposes a term limit for MPs and senators. \"Start with yourself\"",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33070718,lider-psl-proponuje-limit-kadencji-dla-poslow-i-senatorow-od.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-10T12:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A knife-wielding woman in front of a Warsaw school. Police: three people injured",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/przestepczosc/art45313571-nozowniczka-przed-warszawska-szkola-policja-poszkodowane-trzy-osoby",
-      "published_date": "2026-10-10T12:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Knife attack at a school in Warsaw. Three people injured",
+      "title": "Children among the victims of shootings in the USA. \"I haven't seen anything like it\"",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/warszawa/atak-z-uzyciem-noza-przed-szkola-na-pradze-w-warszawie-dwie-osoby-w-szpitalu/t7sqdj6",
-      "published_date": "2026-10-10T12:14:57+00:00",
+      "url": "https://wiadomosci.onet.pl/swiat/strzelanina-w-usa-wsrod-ofiar-sa-dzieci-nie-widzialem-czegos-podobnego/l79t7n0",
+      "published_date": "2026-10-10T16:46:14+00:00",
       "category": "Local Events"
     },
     {
-      "title": "From Monday, the police will return to schools. Backpack inspections and talks with students were announced",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/spoleczenstwo/art45313531-od-poniedzialku-policja-wroci-do-szkol-zapowiedziano-kontrole-plecakow-i-pogadanki-z-uczniami",
-      "published_date": "2026-10-10T12:14:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Knife attack in Warsaw. She attacked three people at school",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33070737,atak-nozownika-w-warszawie-ranne-dwie-nastolatki.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-10T12:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three vehicles collided with each other in the province. Łódź. One person is dead",
+      "title": "Russia's attack on Ukraine. RCB alert in eastern Poland",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/lodz/trzy-pojazdy-zderzyly-sie-ze-soba-nie-zyje-jedna-osoba/pk42djb",
-      "published_date": "2026-10-10T11:59:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Knife attack in Warsaw. Two teenagers in the hospital",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-10/atak-z-uzyciem-noza-w-warszawie-dwie-nastolatki-w-szpitalu/",
-      "published_date": "2026-10-10T11:38:00+00:00",
+      "url": "https://wiadomosci.onet.pl/kraj/atak-rosji-na-ukraine-alert-rcb-na-wschodzie-polski/zfldle6",
+      "published_date": "2026-10-10T16:35:20+00:00",
       "category": "Local Events"
     }
   ]
