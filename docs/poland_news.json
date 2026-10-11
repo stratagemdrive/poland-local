@@ -1,8 +1,22 @@
 {
   "country": "Poland",
-  "last_updated": "2026-10-11T01:30:27.346684+00:00",
+  "last_updated": "2026-10-11T16:32:50.505677+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "USA walczą o Polskę w G20? Waszyngton chce stałego miejsca dla Warszawy",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/USA-walcza-o-Polske-w-G20-Waszyngton-chce-stalego-miejsca-dla-Warszawy-wsrod-poteg-9210831.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-11T13:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Polska na stałe w G20? Jest deklaracja USA",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/polityka/departament-stanu-usa-chce-polski-w-g20-szykuja-sie-wazne-negocjacje/0nf10r9",
+      "published_date": "2026-10-11T07:25:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "\"We are not husband and wife.\" The head of the Ukrainian Institute of National Remembrance is cold about relations with Poland",
       "source": "Bankier.pl",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Poland is getting closer to the G20. Economist warns of a weak point",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/polska-w-g20-ekonomista-pkb-nie-wystarczy/g1ttk0e",
-      "published_date": "2026-10-08T19:11:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Brytyjskie drzwi do G20 wciąż przymknięte. „Rozumiemy zainteresowanie Polski”",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/gospodarka/art45304331-brytyjskie-drzwi-do-g20-wciaz-przymkniete-rozumiemy-zainteresowanie-polski",
-      "published_date": "2026-10-08T17:03:42+00:00",
-      "category": "Diplomacy"
+      "title": "Abrams sterowany głosem? Trwają prace nad futurystycznym systemem",
+      "source": "Defence24",
+      "url": "https://defence24.pl/przemysl/abrams-sterowany-glosem-trwaja-prace-nad-futurystycznym-systemem",
+      "published_date": "2026-10-11T07:00:01+00:00",
+      "category": "Military"
     },
     {
       "title": "\"The most difficult situation in decades.\" Siemoniak warns and announces existential choices",
@@ -183,6 +190,13 @@
       "source": "Bankier.pl",
       "url": "https://www.bankier.pl/wiadomosc/Samoloty-wojskowe-leca-do-Moskwy-przez-Polske-Ekspert-wskazuje-na-ryzyko-9209610.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "published_date": "2026-10-10T12:41:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "USA zabiegają o sprzedaż F-35 Portugalii. Mają zastąpić flotę F-16",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/usa-zabiegaja-o-sprzedaz-f-35-portugalii-maja-zastapic-flote-f-16",
+      "published_date": "2026-10-10T12:14:37+00:00",
       "category": "Military"
     },
     {
@@ -270,24 +284,17 @@
       "category": "Military"
     },
     {
-      "title": "A permanent US base in Poland or Lithuania? The general has no doubts, he is talking about military logic",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/polityka/art45313121-stala-baza-usa-w-polsce-czy-na-litwie-general-nie-ma-watpliwosci-mowi-o-logice-militarnej",
-      "published_date": "2026-10-09T20:02:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NATO general: A permanent US base should be built in Poland, not in Lithuania",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/General-NATO-Stala-baza-USA-powinna-powstac-w-Polsce-nie-na-Litwie-9210542.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-09T19:31:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "There is an idea to finance the transformation in Poland",
       "source": "WNP.pl",
       "url": "https://www.wnp.pl/energia/ponad-bilion-na-energetyke-jest-pomysl-na-finansowanie-transformacji-w-polsce,1105502.html",
       "published_date": "2026-10-10T20:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Tyle UE zapłaciła Rosji za gaz. Wiadomo, który kraj odebrał najwięcej LNG",
+      "source": "Defence24",
+      "url": "https://defence24.pl/geopolityka/tyle-ue-zaplacila-rosji-za-gaz-wiadomo-ktory-kraj-odebral-najwiecej-lng",
+      "published_date": "2026-10-10T18:38:14+00:00",
       "category": "Energy"
     },
     {
@@ -417,11 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "It's starting. Coal prices are up significantly, and there are major shortages in warehouses",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/zaczyna-sie-ceny-wegla-mocno-w-gore-na-skladach-duze-braki,1107322.html",
-      "published_date": "2026-10-09T12:26:35+00:00",
-      "category": "Energy"
+      "title": "Tu rząd może znaleźć pieniądze. Ekonomiści podają swoje \"typy\" na nowe podatki",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/firmy/podatki/rzad-szuka-pieniedzy-by-podreperowac-budzet-ekonomisci-typuja-nowe-podatki/lmxdfpx",
+      "published_date": "2026-10-11T14:55:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PKO BP zapowiada dwie godziny przerwy. IKO i bankowość nie zadziałają",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/wiadomosci/pko-bp-zapowiada-prace-techniczne-sprawdz-kiedy-moga-wystapic-utrudnienia/hlg0n2x",
+      "published_date": "2026-10-11T14:38:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Poszedł szukać trufli, znalazł kokainę wartą 25 tys. euro. Niezwykła akcja we Włoszech",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Poszedl-szukac-trufli-znalazl-kokaine-warta-25-tys-euro-Niezwykla-akcja-we-Wloszech-9209176.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-11T13:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Media: Rosja planuje zamachy na szefów potężnych firm",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/swiat/media-rosja-zmienia-taktyke-planuje-zamachy-na-szefow-poteznych-firm/w6weqpg",
+      "published_date": "2026-10-11T12:26:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Przejęcie klientów Citi napędzi VeloBank. Miliardy złotych nowego biznesu już w portfelu",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/finanse/velobank-szykuje-sie-do-ekspansji-ambitne-plany-po-fuzji-z-citi-handlowym/kz9zg61",
+      "published_date": "2026-10-11T11:46:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rosja nasila plany zamachów na szefów zbrojeniówki. Służby ostrzegają",
+      "source": "Defence24",
+      "url": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/rosja-nasila-plany-zamachow-na-szefow-zbrojeniowki-sluzby-ostrzegaja",
+      "published_date": "2026-10-11T11:40:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "The Italian came to Poland for love. Now he saves 10 tons of plums from crop failure",
@@ -522,46 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "The fate of KGHM in Chile rests on 500-ton colossi",
+      "title": "Policja zatrzymała mężczyznę, który groził zamachem na premiera i wicepremiera",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/policja-zatrzymala-mezczyzne-ktory-grozil-zamachem-na-premiera-i-wicepremiera/mkhyce3",
+      "published_date": "2026-10-11T14:43:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Premier Donald Tusk jedzie do Indii, a z nim firmy obronne, górnicze i technologiczne",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/przemysl/los-kghm-w-chile-opiera-sie-na-500-tonowych-kolosach,1106806.html",
-      "published_date": "2026-10-10T06:01:00+00:00",
-      "category": "Economy"
+      "url": "https://www.wnp.pl/rynki/premier-donald-tusk-jedzie-do-indii-a-z-nim-firmy-obronne-gornicze-i-technologiczne,1107854.html",
+      "published_date": "2026-10-11T13:25:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Poles earn less than the average suggests, and bonds are disappointing. A week on the charts",
+      "title": "Tusk po atakach w szkołach. Bezkompromisowe działania państwa i stop dla dostępu do broni",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Polacy-zarabiaja-mniej-niz-sugeruje-srednia-a-obligacje-rozczarowuja-Tydzien-na-wykresach-9209992.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-10T05:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bankier.pl/wiadomosc/Tusk-po-aktach-w-szkolach-Bezkompromisowe-dzialania-panstwa-i-stop-dla-dostepu-do-broni-9210836.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-11T13:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "A million dollar chance. All you need is an innovative idea",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Made-in-Wroclaw-2026-Dwa-dni-rozmow-o-przyszlosci-biznesu-9210538.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-10T05:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Crowds of tourists in Venice. A night in a hotel of poor or average quality for 300-500 euros",
-      "source": "Rzeczpospolita",
-      "url": "https://turystyka.rp.pl/nowe-trendy/art45313231-tlumy-turystow-w-wenecji-noc-w-hotelu-slabej-i-sredniej-jakosci-za-300-500-euro",
-      "published_date": "2026-10-09T23:22:47+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "New rules for contact between unions and employers. There is the president's signature",
+      "title": "Pilna odprawa służb po atakach w szkołach. Premier zabrał głos",
       "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-09/nowe-zasady-kontaktu-zwiazkow-z-pracodawcami-jest-podpis-prezydenta/",
-      "published_date": "2026-10-09T20:42:00+00:00",
-      "category": "Economy"
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-11/pilna-odprawa-sluzb-po-atakach-w-szkolach-premier-zabral-glos/",
+      "published_date": "2026-10-11T06:55:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Poland shines on the trade map of Europe. There we even overtook Great Britain",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/rynki/polska-blyszczy-na-handlowej-mapie-europy-tam-wyprzedzilismy-nawet-wielka-brytanie,1107374.html",
-      "published_date": "2026-10-09T20:00:00+00:00",
-      "category": "Economy"
+      "title": "\"Śniadanie Rymanowskiego w Polsat News i Interii\"",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-11/sniadanie-rymanowskiego-w-polsat-news-i-interii-ogladaj-od-955-24/",
+      "published_date": "2026-10-11T06:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kraków wybiera nowego prezydenta miasta. Zaczęło się głosowanie",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-11/krakow-wybiera-prezydenta-lokale-zostaly-otwarte/",
+      "published_date": "2026-10-11T05:41:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Poland scrambled fighters due to Russia's attack in Ukraine. New RCB alerts",
@@ -659,48 +701,6 @@
       "source": "WNP.pl",
       "url": "https://www.wnp.pl/rynki/premier-lotwy-pobil-absolutny-rekord-rosjanie-sa-w-rozsypce,1107003.html",
       "published_date": "2026-10-10T18:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The weather will make a sudden turn. Significant cooling and possible snow",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-10/pogoda-zrobi-nagly-zwrot-wyrazne-ochlodzenie-i-mozliwy-snieg/",
-      "published_date": "2026-10-10T17:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "They will demolish the tenement houses and create a huge tunnel. Construction will start soon",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/budownictwo/wyburza-kamienice-powstanie-ogromny-tunel-wkrotce-ruszy-budowa,1107737.html",
-      "published_date": "2026-10-10T17:31:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bus accident with Polish tourists in Turkey. Two people dead, nine injured",
-      "source": "Rzeczpospolita",
-      "url": "https://turystyka.rp.pl/zanim-wyjedziesz/art45314131-wypadek-autokaru-z-polskimi-turystami-w-turcji-dwie-osoby-nie-zyja-dziewiec-rannych",
-      "published_date": "2026-10-10T16:57:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia's attacks in Ukraine. Residents of Podkarpacie and the Lublin region received warnings",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/sluzby/art45314121-ataki-rosji-w-ukrainie-mieszkancy-podkarpacia-i-lubelszczyzny-dostali-ostrzezenia",
-      "published_date": "2026-10-10T16:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Children among the victims of shootings in the USA. \"I haven't seen anything like it\"",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/swiat/strzelanina-w-usa-wsrod-ofiar-sa-dzieci-nie-widzialem-czegos-podobnego/l79t7n0",
-      "published_date": "2026-10-10T16:46:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia's attack on Ukraine. RCB alert in eastern Poland",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/atak-rosji-na-ukraine-alert-rcb-na-wschodzie-polski/zfldle6",
-      "published_date": "2026-10-10T16:35:20+00:00",
       "category": "Local Events"
     }
   ]
