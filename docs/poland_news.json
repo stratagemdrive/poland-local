@@ -1,6 +1,6 @@
 {
   "country": "Poland",
-  "last_updated": "2026-10-13T17:54:16.201242+00:00",
+  "last_updated": "2026-10-14T01:38:07.901516+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -151,6 +151,13 @@
       "category": "Military"
     },
     {
+      "title": "Fundusz NATO w Polsce. \"Jest pierwszym\"",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/biznes/tech/fundusz-nato-w-polsce-jest-pierwszym-st9284857?source=rss",
+      "published_date": "2026-10-13T18:58:46+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Poland in the Kremlin's war plans. Ominous report from Ukrainian intelligence",
       "source": "Bankier.pl",
       "url": "https://www.bankier.pl/wiadomosc/Polska-w-wojennych-planach-Kremla-Zlowieszczy-raport-ukrainskiego-wywiadu-9212031.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -207,6 +214,13 @@
       "category": "Military"
     },
     {
+      "title": "NATO może odciąć Rosję od Bałtyku. Mowa o kilku godzinach",
+      "source": "Defence24",
+      "url": "https://defence24.pl/geopolityka/nato-odetnie-rosje-od-baltyku-mowa-o-kilku-godzinach",
+      "published_date": "2026-10-13T11:58:31+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Deputy Prime Minister Kosiniak-Kamysz announces a \"small strategic review\"",
       "source": "Defence24",
       "url": "https://defence24.pl/polityka-obronna/wicepremier-kosiniak-kamysz-zapowiada-maly-przeglad-strategiczny",
@@ -218,6 +232,13 @@
       "source": "Defence24",
       "url": "https://defence24.pl/sily-zbrojne/niesterylne-opatrunki-z-chin-w-polskiej-armii-wojna-cenowa-kosztem-bezpieczenstwa-zolnierzy",
       "published_date": "2026-10-13T09:45:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Premiera haubicy przyszłości US Army. Bazą koreańska K9",
+      "source": "Defence24",
+      "url": "https://defence24.pl/przemysl/premiera-haubicy-przyszlosci-us-army-baza-koreanska-k9",
+      "published_date": "2026-10-13T09:30:01+00:00",
       "category": "Military"
     },
     {
@@ -263,25 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "„Jeśli zaczną ginąć ludzie”. Sikorski o nowej czerwonej linii dla NATO",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/jesli-zaczna-ginac-ludzie-sikorski-o-nowej-czerwonej-linii-dla-nato",
-      "published_date": "2026-10-12T17:30:04+00:00",
-      "category": "Military"
+      "title": "Magazyny energii – technologia, która pracuje na zysk",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/technologie/nowe-technologie/magazyny-energii-technologia-ktora-pracuje-na-zysk/mkw6rpf",
+      "published_date": "2026-10-13T22:00:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Mówią o „strefach śmierci”. NATO ujawnia, ile osób zginęło na froncie w ciągu miesiąca",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/mowia-o-strefach-smierci-nato-ujawnia-ile-osob-zginelo-na-froncie-w-ciagu-miesiaca",
-      "published_date": "2026-10-12T17:00:02+00:00",
-      "category": "Military"
+      "title": "Podatek wymierzony prosto w Orlen? Czechy chcą miliona euro z polskich rafinerii",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Podatek-wymierzony-prosto-w-Orlen-Czechy-chca-miliona-euro-z-polskich-rafinerii-9212187.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-13T21:17:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "„Prawdopodobne, że wojna przyjdzie na terytorium NATO”. Rosjanin o Putinie i planie zamachu na swoje życie",
-      "source": "Defence24",
-      "url": "https://defence24.pl/geopolityka/prawdopodobne-ze-wojna-przyjdzie-na-terytorium-nato-rosjanin-o-putinie-i-planie-zamachu-na-swoje-zycie",
-      "published_date": "2026-10-12T16:00:01+00:00",
-      "category": "Military"
+      "title": "Przyłączenie do sieci ma być szybsze i tańsze. PSE podpisały umowę ws. nowego rozwiązania",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/przylaczenie-do-sieci-ma-byc-szybsze-i-tansze-pse-podpisaly-umowe-ws-nowego-rozwiazania,1108690.html",
+      "published_date": "2026-10-13T20:28:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "Carbon is lost from sugar production. This forces the industry to adopt new safeguards",
@@ -403,25 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "There is an idea to finance the transformation in Poland",
+      "title": "Oni zmieniają oblicze polskiego przemysłu. Poznaliśmy laureatów konkursu „The best of industry“",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/ponad-bilion-na-energetyke-jest-pomysl-na-finansowanie-transformacji-w-polsce,1105502.html",
-      "published_date": "2026-10-10T20:00:00+00:00",
-      "category": "Energy"
+      "url": "https://www.wnp.pl/przemysl/oni-zmieniaja-oblicze-polskiego-przemyslu-poznalismy-laureatow-konkursu-the-best-of-industry,1108212.html",
+      "published_date": "2026-10-13T20:08:20+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Tyle UE zapłaciła Rosji za gaz. Wiadomo, który kraj odebrał najwięcej LNG",
-      "source": "Defence24",
-      "url": "https://defence24.pl/geopolityka/tyle-ue-zaplacila-rosji-za-gaz-wiadomo-ktory-kraj-odebral-najwiecej-lng",
-      "published_date": "2026-10-10T18:38:14+00:00",
-      "category": "Energy"
+      "title": "Potężna kumulacja w Eurojackpot rozbita",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/biznes/pieniadze/eurojackpot-kumulacja-rozbita-wyniki-losowania-z-13-pazdziernika-2026-takie-padly-liczby-st9285293?source=rss",
+      "published_date": "2026-10-13T19:48:21+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Tusk attacks Nawrocki after attacks in schools. Czarzasty attacks Zandberg. Morawiecki challenges PiS",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/tusk-uderza-w-nawrockiego-po-atakach-w-szkolach-czarzasty-atakuje-zandberga/lsv2j58",
-      "published_date": "2026-10-10T16:25:26+00:00",
-      "category": "Energy"
+      "title": "Fabryki chcą AI, ale problem jest w danych i długu technologicznym",
+      "source": "Rzeczpospolita",
+      "url": "https://cyfrowa.rp.pl/ai/art45255781-fabryki-chca-ai-ale-problem-jest-w-danych-i-dlugu-technologicznym",
+      "published_date": "2026-10-13T19:13:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "A large operation of the services in social networking sites. 3.7 million accounts deleted",
@@ -494,6 +515,13 @@
       "category": "Economy"
     },
     {
+      "title": "Niemcy szykują się na najgorsze. Nowy podatek na awaryjne rezerwy gazu",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/niemcy-szykuja-sie-na-najgorsze-nowy-podatek-na-awaryjne-rezerwy-gazu,1108571.html",
+      "published_date": "2026-10-13T15:13:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Will cheaper refueling cause hiccups? Experts warn of an inflation hit in 2027",
       "source": "Bankier.pl",
       "url": "https://www.bankier.pl/wiadomosc/Tansze-tankowanie-obije-sie-czkawka-Eksperci-ostrzegaja-przed-uderzeniem-inflacji-w-2027-roku-9212016.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -536,32 +564,11 @@
       "category": "Economy"
     },
     {
-      "title": "Polish industry at a crossroads. Company presidents are sounding the alarm",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/przemysl/polski-przemysl-na-rozdrozu-prezesi-firm-bija-na-alarm,1108440.html",
-      "published_date": "2026-10-13T11:25:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Solorzów company and the richest Pole are investing in nuclear energy. There is a reaction on the stock market",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gielda/wiadomosci/michal-solowow-inwestuje-w-smr-y-ze-pak-umowa-wywolala-reakcje-na-gieldzie/qx29smb",
-      "published_date": "2026-10-13T11:20:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sales of new apartments are rebounding after lean years. JLL: In the largest cities it will reach 50,000.",
+      "title": "Prezydent odmówi, a oni i tak złożą przysięgę? Czarzasty rzuca rękawicę Nawrockiemu",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Sprzedaz-nowych-mieszkan-odbija-po-chudych-latach-JLL-W-najwiekszych-miastach-dobije-do-50-tys-9211823.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-13T11:16:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "AI companies will face a profit test. Investors demand specifics",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gielda/wiadomosci/wyniki-kwartalne-zweryfikuja-obietnice-ai-ktore-branze-zyskaja-najwiecej/xx2w6xn",
-      "published_date": "2026-10-13T11:14:34+00:00",
-      "category": "Economy"
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-odmowi-a-oni-i-tak-zloza-przysiege-Czarzasty-rzuca-rekawice-Nawrockiemu-9212140.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-13T19:09:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Storm in the Supreme Court. Minister Żurek talks about \"an attempt at legal absurdity\"",
@@ -694,13 +701,6 @@
       "source": "Onet",
       "url": "https://wiadomosci.onet.pl/nauka/wskrzeszanie-zmarlych-i-awatary-badacz-z-cambridge-ai-uruchomila-scenariusz-sci-fi/ndvfq87",
       "published_date": "2026-10-13T16:03:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The farmers got it, the government decided about the money. Even 3 thousand PLN per hectare",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/poradnik-finansowy/rolnicy-dostana-wiecej-pieniedzy-nowe-doplaty-i-ulgi-na-kredyty-juz-od-pazdziernika/z63hplj",
-      "published_date": "2026-10-13T16:03:36+00:00",
       "category": "Local Events"
     }
   ]
