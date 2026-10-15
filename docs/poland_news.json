@@ -1,6 +1,6 @@
 {
   "country": "Poland",
-  "last_updated": "2026-10-15T01:15:53.682995+00:00",
+  "last_updated": "2026-10-15T15:31:06.276933+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,48 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Szwecja wzmocni odstraszanie NATO. Zyska Polska",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/szwecja-wzmocni-odstraszanie-nato-zyska-polska",
+      "published_date": "2026-10-15T15:00:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Polsko-włoskie Forum obronne w Warszawie. Wśród uczestników PGZ, Grupa WB, Leonardo i Fincantieri",
+      "source": "Defence24",
+      "url": "https://defence24.pl/przemysl/polsko-wloskie-forum-obronne-w-warszawie-wsrod-uczestnikow-pgz-grupa-wb-leonardo-i-fincantieri",
+      "published_date": "2026-10-15T14:45:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drony uderzają w statki u wybrzeży NATO. Rutte zapowiada reakcję sojuszu",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Drony-uderzaja-w-statki-u-wybrzezy-NATO-Rutte-zapowiada-reakcje-sojuszu-9213276.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-15T14:15:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Wyścig o nowe pociski. US Army daje szansę kolejnym producentom",
+      "source": "Defence24",
+      "url": "https://defence24.pl/przemysl/wyscig-o-nowe-pociski-us-army-daje-szanse-kolejnym-producentom",
+      "published_date": "2026-10-15T13:15:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ambasador USA przy NATO: Polska liderem pod względem wydatków na obronność",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/ambasador-usa-przy-nato-polska-liderem-pod-wzgledem-wydatkow-na-obronnosc",
+      "published_date": "2026-10-15T12:30:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "MON tworzy Dron Legion. Setki tysięcy cywilów wesprą armię",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/MON-tworzy-Dron-Legion-Setki-tysiecy-cywilow-wesprze-armie-9212735.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-15T11:20:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "NATO gotowe na najgorsze scenariusze. Tak skończy się ewentualny atak Rosji",
       "source": "Onet",
       "url": "https://wiadomosci.onet.pl/swiat/nato-gotowe-na-najgorsze-scenariusze-tak-skonczy-sie-ewentualny-atak-rosji/x175qzm",
@@ -242,46 +284,53 @@
       "category": "Military"
     },
     {
-      "title": "ALA.COM at the Carpathian Drone Summit center. Demonstration of unmanned systems in Turbi",
-      "source": "Defence24",
-      "url": "https://defence24.pl/przemysl/alacom-w-centrum-carpathian-drone-summit-pokaz-systemow-bezzalogowych-w-turbi",
-      "published_date": "2026-10-13T13:30:01+00:00",
-      "category": "Military"
+      "title": "Orlen może odetchnąć. Świetne informacje od naftowego giganta",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/orlen-moze-odetchnac-swietne-informacje-od-naftowego-giganta,1109491.html",
+      "published_date": "2026-10-15T17:15:04+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The orca is getting closer. An agreement was signed for crew training and ship rental for Poland",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/orka-coraz-blizej-podpisano-umowe-na-szkolenie-zalog-i-najem-okretu-dla-polski",
-      "published_date": "2026-10-13T13:20:02+00:00",
-      "category": "Military"
+      "title": "To trzeci największy nabywca LNG na świecie. Wysokie ceny gazu jednak zahamowały zakupy",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/to-trzeci-najwiekszy-nabywca-lng-na-swiecie-wysokie-ceny-gazu-jednak-zahamowaly-zakupy,1109422.html",
+      "published_date": "2026-10-15T15:45:38+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Drones against drones. The Ministry of National Defense is looking for light UAV interceptors",
-      "source": "Defence24",
-      "url": "https://defence24.pl/przemysl/drony-przeciw-dronom-mon-szuka-lekkich-przechwytujacych-bezzalogowcow",
-      "published_date": "2026-10-13T13:10:01+00:00",
-      "category": "Military"
+      "title": "Żurek o Obajtku: Miał kierować procederem obniżania cen paliw przed wyborami",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/przestepczosc/art45341401-zurek-o-obajtku-mial-kierowac-procederem-obnizania-cen-paliw-przed-wyborami",
+      "published_date": "2026-10-15T14:14:59+00:00",
+      "category": "Energy"
     },
     {
-      "title": "NATO's nuclear \"south\" in the shadow of war. With Polish F-16s [COMMENTARY]",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/atomowe-poludnie-nato-w-cieniu-wojny-z-polskimi-f-16-komentarz",
-      "published_date": "2026-10-13T12:51:46+00:00",
-      "category": "Military"
+      "title": "Kolejowa spółka z grupy PGE z ważną umową",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/kolejowa-spolka-z-grupy-pge-z-wazna-umowa,1109365.html",
+      "published_date": "2026-10-15T14:00:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "NATO może odciąć Rosję od Bałtyku. Mowa o kilku godzinach",
-      "source": "Defence24",
-      "url": "https://defence24.pl/geopolityka/nato-odetnie-rosje-od-baltyku-mowa-o-kilku-godzinach",
-      "published_date": "2026-10-13T11:58:31+00:00",
-      "category": "Military"
+      "title": "Ropa od Saudi Aramco płynie do Orlenu. Tankowce ruszyły w drogę, koncern odpowiada",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Ropa-od-Saudi-Aramco-plynie-do-Orlenu-Tankowce-ruszyly-w-droge-do-Polski-9213249.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-15T13:46:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Deputy Prime Minister Kosiniak-Kamysz announces a \"small strategic review\"",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/wicepremier-kosiniak-kamysz-zapowiada-maly-przeglad-strategiczny",
-      "published_date": "2026-10-13T10:30:01+00:00",
-      "category": "Military"
+      "title": "Serwery pozwolą ogrzać mieszkania Polaków. Strategiczna umowa dwóch gigantów",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gospodarka/cieplo-z-serwerow-ma-ogrzewac-domy-nask-i-pge-planuja-wspolna-inwestycje/tgphvqe",
+      "published_date": "2026-10-15T13:21:15+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Tauron zmieni strategię na najbliższe lata. Na liście OZE i magazyny energii",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/tauron-wkrotce-przedstawi-nowa-strategie-beda-zmiany-w-oze-i-magazynach-energii,1109279.html",
+      "published_date": "2026-10-15T11:19:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Drogi diesel zostanie z nami na dłużej. Nie tylko to będzie problemem",
@@ -375,53 +424,60 @@
       "category": "Energy"
     },
     {
-      "title": "Solar panels in a house of 70, 150 and 200 sq m. Comparison of electricity consumption and needed photovoltaic power",
+      "title": "Rząd kupuje czas dla rynku energii. Chodzi o 1,8 mld zł z VAT",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/budownictwo/panele-sloneczne-w-domu-70-150-i-200-mkw-porownanie-zuzycia-pradu-i-potrzebnej-mocy-fotowoltaiki,1108488.html",
-      "published_date": "2026-10-13T12:20:23+00:00",
-      "category": "Energy"
+      "url": "https://www.wnp.pl/energia/rzad-odsuwa-problem-vat-w-energetyce-nowy-termin-to-polowa-2030-roku,1109409.html",
+      "published_date": "2026-10-15T16:05:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Electricity prices increase from PLN 431 to PLN 556. Higher bills are coming for landlords",
+      "title": "Humanoidy zastąpią tam ludzi? Prezes giełdowej spółki widzi je w swoich fabrykach",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/ceny-pradu-rosna-z-431-do-556-zl-nadchodza-wyzsze-rachunki-dla-wlascicieli,1108062.html",
-      "published_date": "2026-10-13T09:48:00+00:00",
-      "category": "Energy"
+      "url": "https://www.wnp.pl/przemysl/humanoidy-do-fabryk-prezes-gieldowej-spolki-widzi-je-w-swoich-zakladach,1109386.html",
+      "published_date": "2026-10-15T14:41:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "They come in the dark and wait until morning. It's all because of coal",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/przychodza-po-ciemku-i-czekaja-do-rana-wszystko-przez-wegiel,1108049.html",
-      "published_date": "2026-10-13T09:10:00+00:00",
-      "category": "Energy"
+      "title": "Mocny głos biznesu z Sopotu",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/multimedia/art45341721-mocny-glos-biznesu-z-sopotu",
+      "published_date": "2026-10-15T14:28:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "PLN 10,000 subsidy for gas heating. Applications by December 31, 2026",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/budownictwo/10-000-zl-doplaty-do-ogrzewania-gazowego-wnioski-do-31-grudnia-2026,1108399.html",
-      "published_date": "2026-10-13T09:01:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Inspectors knock on doors and check this document. If you don't have it, you will pay PLN 5,000",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Kontrolerzy-pukaja-do-drzwi-i-sprawdzaja-ten-dokument-Kara-za-jego-brak-to-nawet-5000-zl-9211391.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-13T05:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Orlen Termika ma nowego prezesa. Do niedawna kierował Polimeksem Mostostal",
+      "title": "Kluczowe dane dla decyzji o stopach procentowych. NBP wyliczył inflację bazową",
       "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/biznes/doswiadczony-menedzer-jakub-stypula-pokieruje-orlen-termika-po-odwolaniu-poprzednika/2s6nz52",
-      "published_date": "2026-10-12T19:17:54+00:00",
-      "category": "Energy"
+      "url": "https://businessinsider.com.pl/gospodarka/inflacja-bazowa-spada-kredytobiorcy-moga-odetchnac-z-ulga/y387v22",
+      "published_date": "2026-10-15T12:29:28+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Mocne banki i słaby Orlen, a Herkules z największymi wzrostami. W Rosji indeksy ponad 3 proc. na plusie",
+      "title": "Przełomowy wyrok TSUE w sprawie ofiar oszustw. Bank musi natychmiast zwrócić klientowi pieniądze",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/prawo/przelomowy-wyrok-tsue-dla-ofiar-oszustow-bank-musi-natychmiast-zwrocic-pieniadze/gbwd1tn",
+      "published_date": "2026-10-15T12:05:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Masz firmę? Bank Pekao daje do 5000 zł za konto. Oto warunki promocji dla wyjadaczy",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Mocne-banki-i-slaby-Orlen-a-Herkules-z-najwiekszymi-wzrostami-W-Rosji-indeksy-ponad-3-proc-na-plusie-9211457.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-12T16:21:00+00:00",
-      "category": "Energy"
+      "url": "https://www.bankier.pl/wiadomosc/Masz-firme-Bank-Pekao-daje-do-5000-zl-za-konto-Oto-warunki-promocji-dla-wyjadaczy-9213089.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-15T12:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tylko 11 proc. wskazań. Polacy jeszcze odkryli tej funkcji AI [BADANIE]",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gospodarka/zapytali-polakow-czy-wykorzystaliby-ai-do-finansow/4khzwdv",
+      "published_date": "2026-10-15T11:13:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Przełomowy wyrok TSUE dla ofiar oszustów. Bank musi najpierw oddać pieniądze",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Przelomowy-wyrok-TSUE-dla-ofiar-oszustow-Bank-musi-najpierw-oddac-pieniadze-9213075.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-15T10:12:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Amerykański biznes pod rosyjskim ostrzałem. Moskwa testuje granice, ale ropa jest ważniejsza",
@@ -508,60 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "Polski gigant zbrojeniowy chce podbić Europę. Tam będzie szukać firm do przejęcia",
+      "title": "Rusza inwestycja za ponad pół miliarda złotych. Na południu Polski powstanie baza dla latających gigantów",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/pgz-chce-podbic-europe-tam-bedzie-szukac-firm-do-przejecia-na-stole-takze-debiut-gieldowy,1108555.html",
-      "published_date": "2026-10-14T11:46:00+00:00",
-      "category": "Economy"
+      "url": "https://www.wnp.pl/budownictwo/we-wroclawiu-rusza-budowa-bazy-dla-wojsk-usa-ladowac-w-niej-beda-legendarne-herculesy,1109434.html",
+      "published_date": "2026-10-15T15:53:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Alior Bank płaci za konto do 800 zł i dokłada obrączkę płatniczą. Połowę premii można dostać szybko",
+      "title": "Rząd idzie na twarde zwarcie o Trybunał. \"Musimy postawić wszystko na jedną kartę\"",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Alior-Bank-placi-za-konto-do-800-zl-i-doklada-obraczke-platnicza-Polowe-premii-mozna-dostac-szybko-9212391.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-14T09:33:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-idzie-na-twarde-zwarcie-o-Trybunal-Musimy-postawic-wszystko-na-jedna-karte-9213339.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-15T15:15:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Wielomilionowa transakcja na GPW. Kurs dużej spółki zanurkował",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/rynki/wielomilionowa-transakcja-na-gpw-kurs-duzej-spolki-zanurkowal,1108816.html",
-      "published_date": "2026-10-14T09:19:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Rząd przekonuje przemysł. \"Europa musi skończyć z gospodarczą naiwnością\"",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/rzad-przekonuje-przemysl-europa-musi-skonczyc-z-gospodarcza-naiwnoscia,1108758.html",
-      "published_date": "2026-10-14T09:06:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Inflacja we wrześniu jednak jeszcze wyższa. Paliwa drożeją na potęgę",
+      "title": "Prezydent zdecydował: Twarde weto dla zmian politycznych, zielone światło dla energetyki",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-we-wrzesniu-jednak-jeszcze-wyzsza-Paliwa-drozeja-na-potege-9212369.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-14T08:58:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-zdecydowal-Twarde-weto-dla-zmian-politycznych-zielone-swiatlo-dla-energetyki-9213328.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-15T15:06:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Porażka Ryanaira w sądzie. \"Odprawa to obowiązek, a nie usługa premium\"",
+      "title": "\"To nie protekcjonizm\". Minister Balczun broni krajowych dostawców",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Rewolucja-dla-podrozujacych-Koniec-z-placeniem-kary-za-odprawe-na-lotnisku-9212319.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-14T08:25:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bankier.pl/wiadomosc/To-nie-protekcjonizm-Minister-Balczun-broni-krajowych-dostawcow-9213248.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-15T13:46:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Oni zmieniają oblicze polskiego przemysłu. Poznaliśmy laureatów konkursu „The best of industry“",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/przemysl/oni-zmieniaja-oblicze-polskiego-przemyslu-poznalismy-laureatow-konkursu-the-best-of-industry,1108212.html",
-      "published_date": "2026-10-13T20:08:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Potężna kumulacja w Eurojackpot rozbita",
+      "title": "Motyka: rząd łagodzi podwyżki, ale nie odpowiada za geopolitykę",
       "source": "TVN24",
-      "url": "https://tvn24.pl/biznes/pieniadze/eurojackpot-kumulacja-rozbita-wyniki-losowania-z-13-pazdziernika-2026-takie-padly-liczby-st9285293?source=rss",
-      "published_date": "2026-10-13T19:48:21+00:00",
-      "category": "Economy"
+      "url": "https://tvn24.pl/biznes/z-kraju/milosz-motyka-rzad-lagodzi-podwyzki-cen-paliw-ale-nie-odpowiada-za-geopolityke-st9289137?source=rss",
+      "published_date": "2026-10-15T13:44:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Za rok idziemy po zwycięstwo\". Wicepremier rozlicza 3 lata rządów od mObywatela do zdrowia",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Za-rok-idziemy-po-zwyciestwo-Wicepremier-rozlicza-3-lata-rzadow-od-mObywatela-do-zdrowia-9213243.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-15T13:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polscy czołgiści na Łotwie. Ćwiczenie ogniowe „OAK FIRE” z sojusznikami",
+      "source": "Defence24",
+      "url": "https://defence24.pl/sily-zbrojne/polscy-czolgisci-na-lotwie-cwiczenie-ogniowe-oak-fire-z-sojusznikami",
+      "published_date": "2026-10-15T12:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kolej na czas wojny. Czego Polska może nauczyć się od Ukrainy?",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/kolej-na-czas-wojny-czego-polska-moze-nauczyc-sie-od-ukrainy",
+      "published_date": "2026-10-15T09:18:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ślubowanie Macieja Berka. Minister Nawrockiego: Prezydent uznał, że musi być teraz w kraju",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33079426,slubowanie-macieja-berka-minister-nawrockiego-prezydent-uznal.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-15T09:07:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "„H” jak Health ma swoje miejsce w skrócie ESG. Medicover pokazuje, że wpływ biznesu na zdrowie można zmierzyć [WYWIAD]",
@@ -638,69 +701,6 @@
       "source": "Polsat News",
       "url": "https://www.polsatnews.pl/wiadomosc/2026-10-14/jacek-sasin-w-programie-gosc-wydarzen-4/",
       "published_date": "2026-10-14T13:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zakaz wiz dla Rosjan w UE? Estonia wystosowała apel",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/swiat/estonia-wystosowala-apel-w-sprawie-rosjan-niedopuszczalne/e5y56cs",
-      "published_date": "2026-10-14T13:05:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Skyfox dla Estonii? Historia zatoczyłaby koło",
-      "source": "Defence24",
-      "url": "https://defence24.pl/sily-zbrojne/skyfox-dla-estonii-historia-zatoczylaby-kolo",
-      "published_date": "2026-10-14T13:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Czarnogóra w UE już w 2028 roku? Prezydent Nawrocki: Polska zdecydowanie wspiera te aspiracje",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Czarnogora-w-UE-juz-w-2028-roku-Prezydent-Nawrocki-Polska-zdecydowanie-wspiera-te-aspiracje-9212564.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-14T12:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ten kraj wchodzi w spór z UE. Opiera się presji w sprawie chińskich elektryków",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/finanse/handel/chinskie-elektryki-zyskuja-w-wielkiej-brytanii-rzad-odrzuca-naciski-ue/xkke8hn",
-      "published_date": "2026-10-14T12:42:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Awantury i burdy pod bramą TK\". Tusk zamieścił nagranie",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-14/awantury-i-burdy-pod-brama-tk-tusk-zamiescil-nagranie/",
-      "published_date": "2026-10-14T12:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister wprost: Polska Grupa Zbrojeniowa nie jest na sprzedaż",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/minister-wprost-polska-grupa-zbrojeniowa-nie-jest-na-sprzedaz",
-      "published_date": "2026-10-14T12:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nawrocki poparł protest pod TK. \"Berek nie jest sędzią Trybunału Konstytucyjnego\"",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33077481,nawrocki-berek-nie-jest-sedzia-trybunalu-konstytucyjnego.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-14T10:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Nie wiem, przed kim przysięgał\". Prezydent reaguje na ślubowanie Berka",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-14/nie-wiem-przed-kim-przysiegal-prezydent-reaguje-na-slubowanie-berka/",
-      "published_date": "2026-10-14T10:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nowy wiek emerytalny, dodatkowa 2-procentowa składka i podatek od AI. Merz nie ma już nic do stracenia",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/rynki/nowy-wiek-emerytalny-dodatkowa-2-procentowa-skladka-i-podatek-od-ai-merz-nie-ma-juz-nic-do-stracenia,1108821.html",
-      "published_date": "2026-10-14T08:46:37+00:00",
       "category": "Local Events"
     }
   ]
