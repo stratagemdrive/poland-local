@@ -1,6 +1,6 @@
 {
   "country": "Poland",
-  "last_updated": "2026-10-14T15:42:33.882602+00:00",
+  "last_updated": "2026-10-15T01:15:53.682995+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "NATO gotowe na najgorsze scenariusze. Tak skończy się ewentualny atak Rosji",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/swiat/nato-gotowe-na-najgorsze-scenariusze-tak-skonczy-sie-ewentualny-atak-rosji/x175qzm",
+      "published_date": "2026-10-14T18:48:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cywile z dronami wesprą polską armię. MON zapowiada Dron Legion",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/cywile-z-dronami-wespra-polska-armie-mon-zapowiada-dron-legion",
+      "published_date": "2026-10-14T18:16:26+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Dziewiętnasty polski F-35 już lata. Kolejny Husarz oblatany we Włoszech",
       "source": "Defence24",
       "url": "https://defence24.pl/sily-zbrojne/dziewietnasty-polski-f-35-juz-lata-kolejny-husarz-oblatany-we-wloszech",
@@ -267,20 +281,6 @@
       "source": "Defence24",
       "url": "https://defence24.pl/polityka-obronna/wicepremier-kosiniak-kamysz-zapowiada-maly-przeglad-strategiczny",
       "published_date": "2026-10-13T10:30:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Non-sterile dressings from China in the Polish army. Price war at the expense of soldiers' safety",
-      "source": "Defence24",
-      "url": "https://defence24.pl/sily-zbrojne/niesterylne-opatrunki-z-chin-w-polskiej-armii-wojna-cenowa-kosztem-bezpieczenstwa-zolnierzy",
-      "published_date": "2026-10-13T09:45:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Premiera haubicy przyszłości US Army. Bazą koreańska K9",
-      "source": "Defence24",
-      "url": "https://defence24.pl/przemysl/premiera-haubicy-przyszlosci-us-army-baza-koreanska-k9",
-      "published_date": "2026-10-13T09:30:01+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,34 @@
       "category": "Energy"
     },
     {
+      "title": "Amerykański biznes pod rosyjskim ostrzałem. Moskwa testuje granice, ale ropa jest ważniejsza",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Amerykanski-biznes-pod-rosyjskim-ostrzalem-Moskwa-testuje-granice-ale-ropa-jest-wazniejsza-9212783.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-14T17:10:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Baryłka pogłębia deficyt Polski. Historyczna dziura w bilansie płatniczym",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Barylka-poglebia-deficyt-Polski-Historyczna-dziura-w-bilansie-platniczym-9212595.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-14T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tajemnicza substancja rozlana w biurze. Na nagraniu widać nieznaną osobę",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/poznan/grodzisk-wielkopolski-tajemnicza-substancja-rozlana-w-biurze-ewakuowano-pracownikow-st9287334?source=rss",
+      "published_date": "2026-10-14T16:29:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Uwaga na internetowy \"bank\". Komisja Nadzoru Finansowego wydała ostrzeżenie",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/biznes/pieniadze/knf-rozszerza-liste-ostrzezen-chodzi-o-internetowy-bank-st9287363?source=rss",
+      "published_date": "2026-10-14T16:14:19+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Amerykańska inflacja podcięła WIG20. Wielka wyprzedaż akcji Auto Partner",
       "source": "Bankier.pl",
       "url": "https://www.bankier.pl/wiadomosc/Amerykanska-inflacja-podciela-WIG20-Wielka-wyprzedaz-akcji-Auto-Partner-9212632.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -536,32 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Fabryki chcą AI, ale problem jest w danych i długu technologicznym",
+      "title": "„H” jak Health ma swoje miejsce w skrócie ESG. Medicover pokazuje, że wpływ biznesu na zdrowie można zmierzyć [WYWIAD]",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/biznes/h-jak-health-ma-swoje-miejsce-w-skrocie-esg-medicover-pokazuje-ze-wplyw-biznesu-na/7g75ms7",
+      "published_date": "2026-10-14T22:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zwrot w sprawie Starlinków w Ukrainie. \"Dziękujemy, Elonie Musku\"",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/swiat/ukraina-miala-problem-ze-starlinkami-jest-zwrot-w-sprawie/68j6s01",
+      "published_date": "2026-10-14T19:42:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Żurek o sytuacji w TK: wkrótce zobaczymy odbudowę. Sędziowie tworzą „masę krytyczną”",
       "source": "Rzeczpospolita",
-      "url": "https://cyfrowa.rp.pl/ai/art45255781-fabryki-chca-ai-ale-problem-jest-w-danych-i-dlugu-technologicznym",
-      "published_date": "2026-10-13T19:13:00+00:00",
-      "category": "Economy"
+      "url": "https://www.rp.pl/sady-i-trybunaly/art45337391-zurek-o-sytuacji-w-tk-wkrotce-zobaczymy-odbudowe-sedziowie-tworza-mase-krytyczna",
+      "published_date": "2026-10-14T19:35:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "A large operation of the services in social networking sites. 3.7 million accounts deleted",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/tech/wielka-operacja-sluzb-w-portalach-spolecznosciowych-usunieto-3-7-mln-kont,1108591.html",
-      "published_date": "2026-10-13T18:08:09+00:00",
-      "category": "Economy"
+      "title": "Dobre wieści dla ukraińskiego wojska. „Przywracana jest łączność Starlink”",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45337261-dobre-wiesci-dla-ukrainskiego-wojska-przywracana-jest-lacznosc-starlink",
+      "published_date": "2026-10-14T19:02:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The largest Polish construction company is close to a contract for almost PLN 300 million",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/budownictwo/budimex-blisko-kontraktu-na-linie-tramwajowa-na-slasku-wartosc-umowy-to-prawie-300-mln-zl,1108638.html",
-      "published_date": "2026-10-13T17:30:33+00:00",
-      "category": "Economy"
+      "title": "Głodówka trwa, rozmowy nie przynoszą efektów. Kryzys w sanockim szpitalu",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/rzeszow/sanok-glodowka-trwa-rozmowy-nie-przynosza-efektow-kryzys-w-szpitalu-st9287424?source=rss",
+      "published_date": "2026-10-14T18:00:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Billions on the table, Polish companies on the sidelines. We are still not taking advantage of the opportunity here",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/przemysl/miliardy-na-stole-polskie-firmy-z-boku-tu-wciaz-nie-wykorzystujemy-szansy-na-budowanie-przemyslu,1108505.html",
-      "published_date": "2026-10-13T17:18:00+00:00",
-      "category": "Economy"
+      "title": "Protest głodowy w sanockim szpitalu. Związkowcy: Mamy jeden postulat",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33078776,protest-glodowy-w-sanockim-szpitalu-zwiazkowcy-mamy-jeden.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-14T17:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Głęboko niepokojące\". Prezydencki minister o sytuacji w Trybunale Konstytucyjnym",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-14/gleboko-niepokojace-prezydencki-minister-zabral-glos/",
+      "published_date": "2026-10-14T16:35:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Premier studzi oczekiwania nauczycieli. „Zrobiło się bardzo ciasno w budżecie”",
@@ -652,55 +701,6 @@
       "source": "WNP.pl",
       "url": "https://www.wnp.pl/rynki/nowy-wiek-emerytalny-dodatkowa-2-procentowa-skladka-i-podatek-od-ai-merz-nie-ma-juz-nic-do-stracenia,1108821.html",
       "published_date": "2026-10-14T08:46:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Żurek odsuwa od orzekania Schaba, Radzika i Lasotę. \"Zarzuty dotyczą podszywania się\"",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33077102,zurek-odsuwa-od-orzekania-schaba-radzika-i-lasote-zarzuty.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-14T08:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Włodzimierz Czarzasty o ślubowaniu. \"Pan prezydent się gubi\"",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-14/wlodzimierz-czarzasty-o-slubowaniu-berka-pan-prezydent-sie-gubi/",
-      "published_date": "2026-10-14T08:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lawina komentarzy po ślubowaniu Berka. Polityczny podział ws. uroczystości",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-14/lawina-komentarzy-po-slubowaniu-berka/",
-      "published_date": "2026-10-14T08:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maciej Berek złożył ślubowanie w Sejmie. Bez prezydenta",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-14/maciej-berek-sklada-slubowanie-w-sejmie-ogladaj-na-zywo/",
-      "published_date": "2026-10-14T07:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ponad milion pocisków dla polskiej armii. Minister wskazuje cel",
-      "source": "Defence24",
-      "url": "https://defence24.pl/przemysl/ponad-milion-pociskow-dla-polskiej-armii-minister-wskazuje-cel",
-      "published_date": "2026-10-14T06:04:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jacek Ozdoba w programie \"Graffiti\". Oglądaj od godz. 7:40",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-14/jacek-ozdoba-w-programie-graffiti-ogladaj-od-godz-740/",
-      "published_date": "2026-10-14T05:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prezydent odmówi, a oni i tak złożą przysięgę? Czarzasty rzuca rękawicę Nawrockiemu",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Prezydent-odmowi-a-oni-i-tak-zloza-przysiege-Czarzasty-rzuca-rekawice-Nawrockiemu-9212140.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-13T19:09:00+00:00",
       "category": "Local Events"
     }
   ]
