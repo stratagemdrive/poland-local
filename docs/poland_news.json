@@ -1,8 +1,22 @@
 {
   "country": "Poland",
-  "last_updated": "2026-10-15T15:31:06.276933+00:00",
+  "last_updated": "2026-10-16T01:02:45.409144+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Kulisy sporu o ambasadora w USA. Radosław Sikorski wskazał faworyta prezydenta",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/nikodem-rachon-kandydatem-na-ambasadora-w-usa-sikorski-o-kulisach/ppeh1xv",
+      "published_date": "2026-10-15T18:47:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rachoń kandydatem Nawrockiego na ambasadora w USA. Sikorski: Nigdy nie było naszej zgody",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Rachon-kandydatem-Nawrockiego-na-ambasadora-w-USA-Sikorski-Nigdy-nie-bylo-naszej-zgody-9213434.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-15T16:50:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ukrainie ograniczono działanie Starlinków. Sikorski ostro do Muska: Znów bawisz się w politykę?",
       "source": "Rzeczpospolita",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Green light from Brussels. The owner of Circle K is getting closer to taking over Żabka",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/W-wezwaniu-na-akcje-Zabka-Group-spelniony-zostal-kolejny-warunek-prawny-9210674.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-10T09:50:00+00:00",
-      "category": "Diplomacy"
+      "title": "Izraelska firma szpiegowała internautów za pomocą reklam. Dotarli do sieci ONZ i NATO",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/spoleczenstwo/art45344401-izraelska-firma-szpiegowala-internautow-za-pomoca-reklam-dotarli-do-sieci-onz-i-nato",
+      "published_date": "2026-10-15T19:46:43+00:00",
+      "category": "Military"
     },
     {
-      "title": "The US ambassador praises cooperation with Kosiniak-Kamysz. He also writes about one \"problem\"",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33070328,ambasador-usa-zachwala-wspolprace-z-kosiniakiem-kamyszem-pisze.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-09T18:57:00+00:00",
-      "category": "Diplomacy"
+      "title": "„Jednym z głównych celów Moskwy jest rozbicie NATO”. Były dowódca Sojuszu o Rosji",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/jednym-z-glownych-celow-moskwy-jest-rozbicie-nato-byly-dowodca-sojuszu-o-rosji",
+      "published_date": "2026-10-15T18:00:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zagrożenie na wodach NATO. Obawy nie tylko o ruchy Rosji",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/swiat/alarm-w-nato-po-atakach-na-statki-sojusznicy-szykuja-odpowiedz/50jbgh6",
+      "published_date": "2026-10-15T17:56:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rosja zbudowała potężną bazę dronów w sześć tygodni. Nowe zagrożenie dla Ukrainy i NATO",
+      "source": "Defence24",
+      "url": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/rosja-zbudowala-potezna-baze-dronow-w-szesc-tygodni-nowe-zagrozenie-dla-ukrainy-i-nato",
+      "published_date": "2026-10-15T16:32:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dwa tankowce w ogniu na wodach państwa NATO. Marynarze zaginęli, Rumunia prowadzi śledztwo",
+      "source": "Defence24",
+      "url": "https://defence24.pl/geopolityka/dwa-tankowce-w-ogniu-na-wodach-panstwa-nato-marynarze-zagineli-rumunia-prowadzi-sledztwo",
+      "published_date": "2026-10-15T16:25:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Szwecja wzmocni odstraszanie NATO. Zyska Polska",
@@ -183,6 +218,13 @@
       "source": "Bankier.pl",
       "url": "https://www.bankier.pl/wiadomosc/MON-tworzy-Dron-Legion-Setki-tysiecy-cywilow-wesprze-armie-9212735.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "published_date": "2026-10-15T11:20:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ambasador USA przy NATO chwalił Polskę. \"Pokazuje, jak należy to robić\"",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-15/ambasador-usa-przy-nato-chwalil-polske-pokazuje-jak-nalezy-to-robic/",
+      "published_date": "2026-10-15T03:59:00+00:00",
       "category": "Military"
     },
     {
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "The army is calling thousands of Poles. Even category D does not guarantee certainty",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/wojsko-wzywa-tysiace-polakow-nawet-kategoria-d-nie-daje-pewnosci,1108539.html",
-      "published_date": "2026-10-13T19:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fundusz NATO w Polsce. \"Jest pierwszym\"",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/biznes/tech/fundusz-nato-w-polsce-jest-pierwszym-st9284857?source=rss",
-      "published_date": "2026-10-13T18:58:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poland in the Kremlin's war plans. Ominous report from Ukrainian intelligence",
+      "title": "Litwa rezygnuje z podatku od zysków Orlenu? Wilno boi się konfliktu z Polską",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-w-wojennych-planach-Kremla-Zlowieszczy-raport-ukrainskiego-wywiadu-9212031.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-13T15:29:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Spies on four wheels. Modern cars threaten the security of military bases",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/szpiedzy-na-czterech-kolkach-nowoczesne-samochody-zagrazaja-bezpieczenstwu-baz-wojskowych",
-      "published_date": "2026-10-13T15:15:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "He protected the Patriots and the NATO summit. The army is looking for a website for SKYctrl",
-      "source": "Defence24",
-      "url": "https://defence24.pl/przemysl/chronil-patrioty-i-szczyt-nato-wojsko-szuka-serwisu-dla-skyctrl",
-      "published_date": "2026-10-13T14:05:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Not just against drones. The Ministry of National Defense is looking for unmanned aerial vehicles to combat aircraft",
-      "source": "Defence24",
-      "url": "https://defence24.pl/przemysl/nie-tylko-przeciw-dronom-mon-szuka-bezzalogowcow-do-zwalczania-samolotow",
-      "published_date": "2026-10-13T13:47:38+00:00",
-      "category": "Military"
+      "url": "https://www.bankier.pl/wiadomosc/Litewski-minister-finansow-sceptyczny-wobec-mozliwosci-dodatkowego-opodatkowania-Orlen-Lietuva-9213498.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-15T18:34:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Orlen może odetchnąć. Świetne informacje od naftowego giganta",
@@ -417,11 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "PEJ and PGE have reached an agreement on the second nuclear power plant in Poland",
+      "title": "Waszyngton objął sankcjami Bank Handlowy Kuby",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/swiat/waszyngton-objal-sankcjami-bank-handlowy-kuby/5byveze",
+      "published_date": "2026-10-16T00:04:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Raty kredytów w górę. Bez żadnej decyzji ws. stóp procentowych",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/pej-i-pge-porozumialy-sie-ws-drugiej-elektrowni-jadrowej-podzial-zadan-prosto-z-ppej,1108490.html",
-      "published_date": "2026-10-13T12:24:41+00:00",
-      "category": "Energy"
+      "url": "https://www.wnp.pl/rynki/raty-kredytow-w-gore-bez-zadnej-decyzji-ws-stop-procentowych,1109347.html",
+      "published_date": "2026-10-15T19:42:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Karol Nawrocki użył weta. Zablokował trzy ustawy",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/prawo/weto-prezydenta-ustawa-miala-usprawnic-wykonywanie-wyrokow-strasburskiego-trybunalu/hr51jl7",
+      "published_date": "2026-10-15T17:01:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Uczą roboty w symulacji. Chcą obniżyć koszty",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/biznes/tech/chinski-startup-uczy-roboty-robia-kawe-i-obsluguja-klientow-st9289117?source=rss",
+      "published_date": "2026-10-15T16:54:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Spadki KGHM, Orlenu i CD Projekt, wzrosty Dino, Pepco i banków. Zmienna sesja na konto byków",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Spadki-KGHM-Orlenu-i-CD-Projekt-wzrosty-Dino-Pepco-i-bankow-Zmienna-sesja-na-konto-bykow-9213397.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-15T16:16:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Rząd kupuje czas dla rynku energii. Chodzi o 1,8 mld zł z VAT",
@@ -463,6 +498,13 @@
       "source": "Bankier.pl",
       "url": "https://www.bankier.pl/wiadomosc/Masz-firme-Bank-Pekao-daje-do-5000-zl-za-konto-Oto-warunki-promocji-dla-wyjadaczy-9213089.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "published_date": "2026-10-15T12:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Klientka oszukana, polski bank musi zwrócić pieniądze. Przełomowy wyrok",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-15/poklosie-sprawy-polskiego-banku-przelomowe-orzeczenie-trybunalu-sprawiedliwosci-ue/",
+      "published_date": "2026-10-15T11:56:00+00:00",
       "category": "Economy"
     },
     {
@@ -522,52 +564,94 @@
       "category": "Economy"
     },
     {
-      "title": "Komisja Europejska przeznaczyła dla Ukrainy 2,86 mld euro na uzbrojenie",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/swiat/komisja-europejska-przeznaczyla-dla-ukrainy-286-mld-euro-na-uzbrojenie/t1hjhnq",
-      "published_date": "2026-10-14T14:13:38+00:00",
-      "category": "Economy"
+      "title": "Maciej Berek przekonany o przełomie w TK. Sędzia odpowiedział prezydentowi",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-15/maciej-berek-przekonany-o-przelomie-w-tk-sedzia-odpowiedzial-prezydentowi/",
+      "published_date": "2026-10-15T21:05:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Boom kiedyś się skończy. Polska zbrojeniówka szuka pomysłu na przyszłość. Jeden przeważa",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/boom-kiedys-sie-skonczy-polska-zbrojeniowka-szuka-pomyslu-na-przyszlosc-nie-mozemy-sie-bac,1108554.html",
-      "published_date": "2026-10-14T13:58:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Członkini RPP nie chce zbyt szybko podnosić stóp procentowych. Stawia warunki",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/poradnik-finansowy/kredyty/gabriela-maslowska-ostrzega-przed-inflacja-podwyzka-stop-procentowych-mozliwa-w/90wz1ke",
-      "published_date": "2026-10-14T13:50:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Deficyt w wysokości miliarda euro dziennie. UE zmienia podejście do Chin",
+      "title": "Adam Bodnar: być może pojawi się wniosek w sprawie uchylenia immunitetu Bogdanowi Święczkowskiemu",
       "source": "TVN24",
-      "url": "https://tvn24.pl/biznes/ze-swiata/deficyt-w-wysokosci-miliarda-euro-dziennie-ue-zmienia-podejscie-do-chin-st9287057?source=rss",
-      "published_date": "2026-10-14T13:28:48+00:00",
-      "category": "Economy"
+      "url": "https://tvn24.pl/polska/adam-bodnar-byc-moze-pojawi-sie-wniosek-w-sprawie-uchylenia-immunitetu-bogdanowi-swieczkowskiemu-st9289524?source=rss",
+      "published_date": "2026-10-15T19:28:58+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "\"Domański oddaje Brukseli nadzór nad giełdą i bankami\". Czy na pewno",
-      "source": "TVN24",
-      "url": "https://konkret24.tvn24.pl/polska/domanski-oddaje-brukseli-nadzor-nad-gielda-i-bankami-czy-na-pewno-st9284135?source=rss",
-      "published_date": "2026-10-14T13:19:21+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Oto 100 liderów wzrostu na Dolnym Śląsku",
+      "title": "Nawrocki o ślubowaniu Berka: „Scenariusz istnego cyrku”. W przyszłym tygodniu decyzja ws. sędziów",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Oto-100-liderow-wzrostu-na-Dolnym-Slasku-9212578.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-14T13:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bankier.pl/wiadomosc/Nawrocki-o-slubowaniu-Berka-Scenariusz-istnego-cyrku-W-przyszlym-tygodniu-decyzja-ws-sedziow-9213503.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-15T18:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Decyzja ws. bazy USA jeszcze w 2026? Nawrocki: Liczę na szybką decyzję",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Decyzja-ws-bazy-USA-jeszcze-w-2026-Nawrocki-Licze-na-szybka-decyzje-9213493.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-15T18:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zmiany w wieku emerytalnym? \"Raczej w kierunku mężczyzn\"",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-15/nie-bedzie-minister-gorzko-o-zapowiedzi-macieja-berka/",
+      "published_date": "2026-10-15T18:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zjednoczona Prawica jednak razem? Kaczyński: PiS będzie dążyło do odbudowy",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Zjednoczona-Prawica-jednak-razem-Kaczynski-PiS-bedzie-dazylo-do-odbudowy-9213478.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-15T17:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Przełom w sprawie fabryki elektryków. Balczun: Wiosną pierwsza łopata, w 2029 r. pierwszy samochód",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-sprawie-fabryki-elektrykow-Balczun-Wiosna-pierwsza-lopata-w-2029-r-pierwszy-samochod-9213473.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-15T17:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Traktuję jako dyshonor\". Prezydent ostro odpowiedział Romanowi Giertychowi",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-15/prezydent-ostro-odpowiedzial-romanowi-giertychowi-nie-wypada-mi/",
+      "published_date": "2026-10-15T17:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Jeden przykład\". Karol Nawrocki odpowiedział Aleksandrowi Kwaśniewskiemu",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-15/jeden-przyklad-karol-nawrocki-odpowiedzial-aleksandrowi-kwasniewskiemu/",
+      "published_date": "2026-10-15T16:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "1000 dni cyfryzacji Polski. 13 milionów w mObywatelu i 50 mld zł na wielką transformację",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/1000-dni-cyfryzacji-Polski-13-milionow-w-mObywatelu-i-50-mld-zl-na-wielka-transformacje-9213385.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-15T16:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Takie osoby nie mogą być sędziami TK\". Nawrocki wprost o Berku",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-15/takie-osoby-nie-moga-byc-sedziami-tk-nawrocki-wprost-o-berku/",
+      "published_date": "2026-10-15T16:00:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Rusza inwestycja za ponad pół miliarda złotych. Na południu Polski powstanie baza dla latających gigantów",
       "source": "WNP.pl",
       "url": "https://www.wnp.pl/budownictwo/we-wroclawiu-rusza-budowa-bazy-dla-wojsk-usa-ladowac-w-niej-beda-legendarne-herculesy,1109434.html",
       "published_date": "2026-10-15T15:53:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jarosław Kaczyński zdecydował. \"Matka 500 plus\" ma być twarzą PiS",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gospodarka/tak-beata-szydlo-trafila-na-szczyt-i-z-niego-spadla/8c13frz",
+      "published_date": "2026-10-15T15:47:39+00:00",
       "category": "Local Events"
     },
     {
@@ -582,6 +666,20 @@
       "source": "Bankier.pl",
       "url": "https://www.bankier.pl/wiadomosc/Prezydent-zdecydowal-Twarde-weto-dla-zmian-politycznych-zielone-swiatlo-dla-energetyki-9213328.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "published_date": "2026-10-15T15:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Katarzyna Pełczyńska-Nałęcz w programie \"Gość Wydarzeń\"",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-15/katarzyna-pelczynska-nalecz-w-programie-gosc-wydarzen-3/",
+      "published_date": "2026-10-15T14:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kolejne weta prezydenta. Karol Nawrocki zdecydował",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-15/oswiadczenie-prezydenta-nawrocki-zawetowal-trzy-ustawy/",
+      "published_date": "2026-10-15T13:57:00+00:00",
       "category": "Local Events"
     },
     {
@@ -603,104 +701,6 @@
       "source": "Bankier.pl",
       "url": "https://www.bankier.pl/wiadomosc/Za-rok-idziemy-po-zwyciestwo-Wicepremier-rozlicza-3-lata-rzadow-od-mObywatela-do-zdrowia-9213243.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "published_date": "2026-10-15T13:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polscy czołgiści na Łotwie. Ćwiczenie ogniowe „OAK FIRE” z sojusznikami",
-      "source": "Defence24",
-      "url": "https://defence24.pl/sily-zbrojne/polscy-czolgisci-na-lotwie-cwiczenie-ogniowe-oak-fire-z-sojusznikami",
-      "published_date": "2026-10-15T12:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kolej na czas wojny. Czego Polska może nauczyć się od Ukrainy?",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/kolej-na-czas-wojny-czego-polska-moze-nauczyc-sie-od-ukrainy",
-      "published_date": "2026-10-15T09:18:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ślubowanie Macieja Berka. Minister Nawrockiego: Prezydent uznał, że musi być teraz w kraju",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33079426,slubowanie-macieja-berka-minister-nawrockiego-prezydent-uznal.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-15T09:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "„H” jak Health ma swoje miejsce w skrócie ESG. Medicover pokazuje, że wpływ biznesu na zdrowie można zmierzyć [WYWIAD]",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/biznes/h-jak-health-ma-swoje-miejsce-w-skrocie-esg-medicover-pokazuje-ze-wplyw-biznesu-na/7g75ms7",
-      "published_date": "2026-10-14T22:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zwrot w sprawie Starlinków w Ukrainie. \"Dziękujemy, Elonie Musku\"",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/swiat/ukraina-miala-problem-ze-starlinkami-jest-zwrot-w-sprawie/68j6s01",
-      "published_date": "2026-10-14T19:42:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Żurek o sytuacji w TK: wkrótce zobaczymy odbudowę. Sędziowie tworzą „masę krytyczną”",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/sady-i-trybunaly/art45337391-zurek-o-sytuacji-w-tk-wkrotce-zobaczymy-odbudowe-sedziowie-tworza-mase-krytyczna",
-      "published_date": "2026-10-14T19:35:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dobre wieści dla ukraińskiego wojska. „Przywracana jest łączność Starlink”",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45337261-dobre-wiesci-dla-ukrainskiego-wojska-przywracana-jest-lacznosc-starlink",
-      "published_date": "2026-10-14T19:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Głodówka trwa, rozmowy nie przynoszą efektów. Kryzys w sanockim szpitalu",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/rzeszow/sanok-glodowka-trwa-rozmowy-nie-przynosza-efektow-kryzys-w-szpitalu-st9287424?source=rss",
-      "published_date": "2026-10-14T18:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protest głodowy w sanockim szpitalu. Związkowcy: Mamy jeden postulat",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33078776,protest-glodowy-w-sanockim-szpitalu-zwiazkowcy-mamy-jeden.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-14T17:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Głęboko niepokojące\". Prezydencki minister o sytuacji w Trybunale Konstytucyjnym",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-14/gleboko-niepokojace-prezydencki-minister-zabral-glos/",
-      "published_date": "2026-10-14T16:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Premier studzi oczekiwania nauczycieli. „Zrobiło się bardzo ciasno w budżecie”",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Premier-studzi-oczekiwania-nauczycieli-Zrobilo-sie-bardzo-ciasno-w-budzecie-9212640.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-14T14:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karol Nawrocki przybył do Trybunału Konstytucyjnego",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-14/karol-nawrocki-przybyl-do-trybunalu-konstytucyjnego/",
-      "published_date": "2026-10-14T14:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Przepychanki w Trybunale Konstytucyjnym? \"Dotarły do mnie informacje\"",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-14/przepychanki-przed-siedziba-tk-dotarly-do-mnie-informacje/",
-      "published_date": "2026-10-14T13:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jacek Sasin w programie \"Gość Wydarzeń\"",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-14/jacek-sasin-w-programie-gosc-wydarzen-4/",
-      "published_date": "2026-10-14T13:31:00+00:00",
       "category": "Local Events"
     }
   ]
