@@ -1,8 +1,22 @@
 {
   "country": "Poland",
-  "last_updated": "2026-10-18T14:13:26.255717+00:00",
+  "last_updated": "2026-10-19T00:47:14.456735+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Spór o udział NATO w Afganistanie. Radosław Sikorski odpowiada sekretarzowi obrony USA",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45353891-spor-o-udzial-nato-w-afganistanie-radoslaw-sikorski-odpowiada-sekretarzowi-obrony-usa",
+      "published_date": "2026-10-18T18:45:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hegseth kwestionuje pomoc od sojuszników USA. Sikorski: Proszę to powiedzieć rodzinom żołnierzy",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-18/hegseth-kwestionuje-pomoc-od-sojusznikow-usa-sikorski-prosze-to-powiedziec-rodzinom-zolnierzy/",
+      "published_date": "2026-10-18T17:54:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "New data about Ukrainians in Europe. Poland with the largest decline in the EU",
       "source": "Bankier.pl",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Nawrocki's co-worker on relations with Ukraine: If I were Kiev, I would seek Warsaw",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33081508,wspolpracownik-nawrockiego-o-relacjach-z-ukraina-na-miejscu.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-16T07:56:00+00:00",
-      "category": "Diplomacy"
+      "title": "Przygotowania NATO do przyszłej wojny. Generał mówi m.in. o Polsce",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/przygotowania-nato-do-przyszlej-wojny-general-mowi-min-o-polsce",
+      "published_date": "2026-10-18T18:00:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Tusk met with Zelensky in Brussels. \"You are not alone\"",
+      "title": "Hegseth drwił z udziału NATO w Afganistanie. Sikorski: Powiedz to rodzinom polskich żołnierzy",
       "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33081085,tusk-spotkal-sie-z-zelenskim-w-brukseli-nie-jestescie-sami.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-15T20:01:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33084790,hegseth-drwil-z-udzialu-nato-w-afganistanie-sikorski-powiedz.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-18T16:25:00+00:00",
+      "category": "Military"
     },
     {
       "title": "New information regarding the search for a drone. Urgent announcement from the Operational Command",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Contract for EUR 130 million. Without it, Leopard 2 will not run",
-      "source": "Defence24",
-      "url": "https://defence24.pl/przemysl/kontrakt-na-130-mln-euro-bez-tego-leopard-2-nie-pojedzie",
-      "published_date": "2026-10-18T05:00:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two alerts and an army message. \"No space violation observed\"",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/polska/dwa-alerty-rcb-i-komunikat-wojska-nie-zaobserwowano-naruszenia-przestrzeni-st9292745?source=rss",
-      "published_date": "2026-10-18T04:38:45+00:00",
-      "category": "Military"
+      "title": "Orlen łączy sztukę z nauką. Nowe murale na obiektach wodorowych",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-laczy-sztuke-z-nauka-Nowe-murale-na-obiektach-wodorowych-9212754.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-18T18:00:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Giant data centers in Poland. Investors are looking for power now",
@@ -417,11 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Poland increases renewable energy capacity. Photovoltaics is growing much faster than wind",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-zwieksza-moce-OZE-Fotowoltaika-rosnie-znacznie-szybciej-niz-wiatr-9213915.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-16T14:00:00+00:00",
-      "category": "Energy"
+      "title": "Niezbędnik przedsiębiorcy: darmowa e-księga i JPK * sankcja za płatności poza białą listą * ryczałt a rozliczenie akcji z programu motywacyjnego * odliczenia VAT a piknik rodzinny oraz zmiana branży * umowa ze stażystą",
+      "source": "Rzeczpospolita",
+      "url": "https://pro.rp.pl/niezbednik-przedsiebiorcy/art45354021-niezbednik-przedsiebiorcy-darmowa-e-ksiega-i-jpk-sankcja-za-platnosci-poza-biala-lista-ryczalt-a-rozliczenie-akcji-z-programu-motywacyjnego-odliczenia-vat-a-piknik-rodzinny-oraz-zmiana-branzy-umowa-ze-stazysta",
+      "published_date": "2026-10-18T22:08:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Głos firm z regionów. Lokalne doświadczenia a dialog społeczny",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/glos-firm-z-regionow-lokalne-doswiadczenia-a-dialog-spoleczny/15brr8m",
+      "published_date": "2026-10-18T22:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Awans Odeon Tourism Türkiye, spółki z Coral Travel Group, w rankingu największych firm Turcji",
+      "source": "Rzeczpospolita",
+      "url": "https://turystyka.rp.pl/biura-podrozy/art45354141-awans-odeon-tourism-tuerkiye-spolki-z-coral-travel-group-w-rankingu-najwiekszych-firm-turcji",
+      "published_date": "2026-10-18T20:58:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Światowa fabryka ubrań musi przestawić energetykę. Biznesowe okno dla polskich firm",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/przemysl/swiatowa-fabryka-ubran-musi-przestawic-energetyke-biznesowe-okno-dla-polskich-firm,1108092.html",
+      "published_date": "2026-10-18T20:00:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Attack on a convoy with Polish diplomats. Netanyahu's office concerned about 'campaign to denigrate Israel'",
@@ -536,32 +564,18 @@
       "category": "Economy"
     },
     {
-      "title": "Protest in front of the Constitutional Tribunal. Convoy with Polish diplomats attacked in the West Bank [AT THE BEGINNING OF THE DAY]",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33084190,protest-pod-tk-konwoj-z-polskimi-dyplomatami-zaatakowany-na.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-18T03:50:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Attack on diplomats, including Poles, in the West Bank. Binyamin Netanyahu on the \"smear campaign\"",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/swiat/atak-izraelskich-osadnikow-na-dyplomatow-biuro-netanjahu-zabralo-glos/nhb21qd",
-      "published_date": "2026-10-17T20:03:58+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A gigantic turnaround in Microsoft's strategy. Nvidia could lose billions",
+      "title": "Minister energii USA tłumaczy porozumienie z Rosją. „Nie ma diesla na eksport”",
       "source": "Rzeczpospolita",
-      "url": "https://cyfrowa.rp.pl/globalne-interesy/art45326601-gigantyczny-zwrot-w-strategii-microsoftu-nvidia-moze-stracic-miliardy",
-      "published_date": "2026-10-17T20:02:00+00:00",
-      "category": "Economy"
+      "url": "https://energia.rp.pl/paliwa/art45353781-minister-energii-usa-tlumaczy-porozumienie-z-rosja-nie-ma-diesla-na-eksport",
+      "published_date": "2026-10-18T19:06:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "\"The biggest bubble of our lives.\" Billionaires warn of a meltdown",
+      "title": "\"Rosja nie ma diesla na eksport\". Zaskakujące uzasadnienie umowy Trumpa",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Najwieksza-banka-naszego-zycia-Miliarderzy-ostrzegaja-przed-krachem-9214052.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-17T20:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bankier.pl/wiadomosc/Rosja-nie-ma-diesla-na-eksport-Zaskakujace-uzasadnienie-umowy-Trumpa-9214473.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-18T18:45:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tusk announces a tough migration policy. \"Poland will not repeat the mistakes of other countries\"",
@@ -687,20 +701,6 @@
       "source": "Business Insider Polska",
       "url": "https://businessinsider.com.pl/praca/lesnictwo-i-etat-zaskakujacy-ranking-najlepiej-platnych-zawodow-w-polsce/mtg89yk",
       "published_date": "2026-10-18T12:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The soldiers noticed the body of a man on the road. Investigators are investigating what happened",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/bialystok/skieblewo-zolnierze-zauwazyli-na-jezdni-cialo-mezczyzny-sledczy-ustalaja-co-sie-stalo-st9293186?source=rss",
-      "published_date": "2026-10-18T11:48:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pediatric oncology without chemotherapy. Parents: That's not what we meant",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/katowice/katowice-onkologia-dziecieca-bez-chemioterapii-nie-o-to-nam-chodzilo-st9288053?source=rss",
-      "published_date": "2026-10-18T11:23:04+00:00",
       "category": "Local Events"
     }
   ]
