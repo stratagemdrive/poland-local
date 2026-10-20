@@ -1,8 +1,22 @@
 {
   "country": "Poland",
-  "last_updated": "2026-10-20T01:28:49.677434+00:00",
+  "last_updated": "2026-10-20T15:33:38.118227+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Sikorski: wolałbym, żeby decyzja ws. powstania bazy w Polsce zapadła przed wyborami w USA",
+      "source": "Defence24",
+      "url": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/sikorski-wolalbym-zeby-decyzja-ws-powstania-bazy-w-polsce-zapadla-przed-wyborami-w-usa",
+      "published_date": "2026-10-20T12:15:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "\"Nastał moment, by to wykorzystać\". Sikorski apeluje do Nawrockiego w sprawie Trumpa",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33088089,nastal-moment-by-to-wykorzystac-sikorski-apeluje-do-nawrockiego.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-20T11:14:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Radosław Sikorski: I believe that the president is already assembling a coalition with Grzegorz Braun",
       "source": "TVN24",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Attack by Israeli settlers on a diplomatic convoy. There were Poles there",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/swiat/atak-izraelskich-osadnikow-na-konwoj-dyplomatyczny-byli-w-nim-polacy-st9292545?source=rss",
-      "published_date": "2026-10-17T15:56:42+00:00",
-      "category": "Diplomacy"
+      "title": "Pociski o większym zasięgu dla wyrzutni HIMARS i MLRS bliżej produkcji",
+      "source": "Defence24",
+      "url": "https://defence24.pl/przemysl/pociski-o-wiekszym-zasiegu-dla-wyrzutni-himars-i-mlrs-blizej-produkcji",
+      "published_date": "2026-10-20T14:30:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Donald Trump's decision changes the US course towards Russia. Sikorski comments on the Kremlin's reaction",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/trump-zawiesza-czesc-sankcji-wobec-rosji-sikorski-reaguje-krotko/1mdbq9y",
-      "published_date": "2026-10-17T15:26:24+00:00",
-      "category": "Diplomacy"
+      "title": "Kolektywna obrona NATO to mit? Jednoznaczna odpowiedź przedstawiciela Sojuszu",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/kolektywna-obrona-nato-to-mit-jednoznaczna-odpowiedz-wywiad",
+      "published_date": "2026-10-20T13:25:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Amerykański skok na produkcję. Polska czeka na broń dla Apache i Sanu",
+      "source": "Defence24",
+      "url": "https://defence24.pl/przemysl/amerykanski-skok-na-produkcje-polska-czeka-na-bron-dla-apache-i-sanu",
+      "published_date": "2026-10-20T11:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Litwa chce zmienić procedury zestrzeliwania dronów. Będą konsultacje z NATO",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33088086,litwa-chce-zmienic-procedury-zestrzeliwania-dronow-beda-konsultacje.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-20T10:09:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "J.D. Vance nie chce Ukrainy w NATO. \"Stanowiska będą rozbieżne\"",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33087792,j-d-vance-nie-chce-ukrainy-w-nato-stanowiska-beda-rozbiezne.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-20T09:21:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Vance: Ukraina nie powinna wstępować do NATO",
+      "source": "Defence24",
+      "url": "https://defence24.pl/geopolityka/vance-ukraina-nie-powinna-wstepowac-do-nato",
+      "published_date": "2026-10-20T08:55:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Media: Poland's important role. This week's key talks about the end of the war",
@@ -242,46 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "NATO begins negotiations on defense capabilities for 2029. Five goals",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/nato-rozpoczyna-negocjacje-o-zdolnosciach-obronnych-na-2029-r-piec-celow",
-      "published_date": "2026-10-19T15:10:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Irish paradox. Europe's technological giant and military outsider",
+      "title": "Kilkumilionowa inwestycja na Dolnym Śląsku. Pracę w nowej fabryce znajdzie ponad 100 osób",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/rynki/irlandzki-paradoks-technologiczny-gigant-europy-i-wojskowy-outsider,1110424.html",
-      "published_date": "2026-10-19T15:05:00+00:00",
-      "category": "Military"
+      "url": "https://www.wnp.pl/energia/w-walbrzychu-otwarto-fabryke-inteligentnych-licznikow-energii-w-planach-duzy-eksport,1110952.html",
+      "published_date": "2026-10-20T15:25:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Drone incursions. Will Poland have enough radars to monitor the sky? [REPORT]",
-      "source": "Defence24",
-      "url": "https://defence24.pl/sily-zbrojne/wtargniecia-dronow-czy-polsce-wystarczy-radarow-do-monitorowania-nieba-raport",
-      "published_date": "2026-10-19T14:37:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poles assessed Donald Trump's actions regarding ending the war in Ukraine",
+      "title": "Coal Energy z kontraktami dla Jastrzębskiej Spółki Węglowej",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/polacy-ocenili-dzialania-donalda-trumpa-ws-zakonczenia-wojny-na-ukrainie,1110438.html",
-      "published_date": "2026-10-19T13:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Polish manufacturer with a new order for the NATO army. The contract may double",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/polski-producent-z-nowym-zamowieniem-dla-armii-nato-kontrakt-moze-sie-podwoic,1110427.html",
-      "published_date": "2026-10-19T12:20:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A soldier suspected of espionage. Tomczyk: We will settle accounts with an iron hand",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33085971,zolnierz-podejrzany-o-szpiegostwo-tomczyk-bedziemy-rozliczac.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-19T12:18:00+00:00",
-      "category": "Military"
+      "url": "https://www.wnp.pl/energia/coal-energy-z-kontraktami-dla-jastrzebskiej-spolki-weglowej,1110962.html",
+      "published_date": "2026-10-20T15:05:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "They will create one of the deepest lakes in Poland. On the site of today's open-pit mine",
@@ -410,18 +424,81 @@
       "category": "Energy"
     },
     {
-      "title": "The president made a decision. Half of gas imports may be eliminated",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/budownictwo/prezydent-podjal-decyzje-polowa-importu-gazu-moze-zostac-zlikwidowana,1110393.html",
-      "published_date": "2026-10-19T10:18:31+00:00",
-      "category": "Energy"
+      "title": "Prezes Pekao o zmianie nazwy banku. Potwierdza ustalenia Business Insidera",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/biznes/bank-pekao-zmieni-nazwe-prezes-jestesmy-myleni-z-pko-bp/wbdqljn",
+      "published_date": "2026-10-20T14:53:36+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Orlen łączy sztukę z nauką. Nowe murale na obiektach wodorowych",
+      "title": "Amerykański gigant zwiększa udział w największym polskim banku. Jasny sygnał dla warszawskiej giełdy",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/rynki/amerykanski-gigant-zwieksza-udzial-w-najwiekszym-polskim-banku-jasny-sygnal-dla-warszawskiej-gieldy,1110928.html",
+      "published_date": "2026-10-20T14:48:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Dawna siedziba PKO w Krakowie zmieni się w hotel. Luksusowa sieć wchodzi do Polski",
+      "source": "Rzeczpospolita",
+      "url": "https://sukces.rp.pl/hotele/art41835261-dawna-siedziba-pko-w-krakowie-zmieni-sie-w-hotel-luksusowa-siec-wchodzi-do-polski",
+      "published_date": "2026-10-20T14:44:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gigant e-commerce wyda 16 mld euro w Niemczech",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/tech/amazon-wyda-16-mld-euro-w-niemczech-rozbuduje-chmure-oraz-ai,1110861.html",
+      "published_date": "2026-10-20T14:23:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Włamywali się do hurtowni po włosy. Ukradli towar za ponad milion złotych",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/wydarzenia/art45366231-wlamywali-sie-do-hurtowni-po-wlosy-ukradli-towar-za-ponad-milion-zlotych",
+      "published_date": "2026-10-20T14:17:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rekordowe banki w Europie Środkowej. Polska odpowiada za 40 proc. zysków",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-laczy-sztuke-z-nauka-Nowe-murale-na-obiektach-wodorowych-9212754.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-18T18:00:00+00:00",
-      "category": "Energy"
+      "url": "https://www.bankier.pl/wiadomosc/Banki-w-Europie-Srodkowej-bije-na-glowe-strefe-euro-Polska-odpowiada-za-blisko-40-proc-zyskow-9215430.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-20T12:34:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ING rozdaje nawet 4200 zł premii dla firm. Prześwietlamy flagową ofertę dla przedsiębiorców",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/ING-rozdaje-nawet-4200-zl-premii-dla-firm-Przeswietlamy-flagowa-oferte-dla-przedsiebiorcow-9215322.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-20T12:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Polski system emerytalny oceniony najwyżej od 15. lat. Zaleceniem wciąż wydłużenie aktywności zawodowej",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Ranking-systemow-emerytalnych-na-swiecie-Polska-z-najwyzszym-wynikiem-od-15-lat-9215375.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-20T12:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Zapisz się na codzienne informacje o finansach, giełdzie i gospodarce. Kluczowe sygnały",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gospodarka/otwieram-dzien-w-swiecie-finansow-twoj-przewodnik-po-natloku-informacji/04yy830",
+      "published_date": "2026-10-20T11:07:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Premier Tusk leci po kontrakty do Indii. Na pokładzie nawet 80 polskich firm",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/rynki/premier-tusk-leci-do-indii-na-pokladzie-nawet-80-polskich-firm,1110634.html",
+      "published_date": "2026-10-20T09:47:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Realne płace rosną najwolniej od czasów rządu Morawieckiego. W tym roku ubyło już prawie 50 tys. etatów",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Realne-place-rosna-najwolniej-od-czasow-rzadu-Morawieckiego-W-tym-roku-ubylo-juz-prawie-50-tys-etatow-9215186.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-20T08:50:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Will Pekao change its name? Here's the proposition",
@@ -487,81 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Higher benefit. Important announcement from ZUS",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/biznes/pieniadze/wyzsze-swiadczenie-wazny-komunikat-zus-st9295005?source=rss",
-      "published_date": "2026-10-19T19:07:46+00:00",
-      "category": "Economy"
+      "title": "Francja po zamieszkach. Minister sprawiedliwości ostrzega przed samosądami",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/spoleczenstwo/art45367221-francja-po-zamieszkach-minister-sprawiedliwosci-ostrzega-przed-samosadami",
+      "published_date": "2026-10-20T14:37:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The listed company is getting rid of locomotives. Over a hundred of them have already been sold, and that's not all",
+      "title": "140 połączeń do 37 krajów. Nowa zimowa oferta największego lotniska regionalnego",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/logistyka/gieldowa-spolka-pozbywa-sie-lokomotyw-sprzedano-ich-juz-ponad-setke-a-to-jeszcze-nie-koniec,1110639.html",
-      "published_date": "2026-10-19T18:57:00+00:00",
-      "category": "Economy"
+      "url": "https://www.wnp.pl/logistyka/140-polaczen-do-37-krajow-nowa-zimowa-oferta-najwiekszego-lotniska-regionalnego,1110945.html",
+      "published_date": "2026-10-20T14:29:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Billions for armaments are to stay in Poland. Industry warns of failure",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/miliardy-na-zbrojenia-maja-zostac-w-polsce-przemysl-ostrzega-przed-porazka,1109180.html",
-      "published_date": "2026-10-19T18:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "PLN 564 million in payments and million-dollar dividends. Siepomaga's finances under the microscope",
+      "title": "Tusk zabrał głos po incydencie z ukraińskim dronem. „Będę bardzo natarczywy”",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/564-mln-zl-wplat-i-milionowe-dywidendy-Finanse-Siepomaga-pod-lupa-9214952.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-19T18:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bankier.pl/wiadomosc/Tusk-zabral-glos-po-incydencie-z-ukrainskim-dronem-Bede-bardzo-natarczywy-9215413.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-20T12:20:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The domestic component in the Polish arms industry alone will not be enough. \"We need a Copernican revolution\"",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/sam-komponent-krajowy-w-polskiej-zbrojeniowce-nie-wystarczy-potrzebna-rewolucja-kopernikanska,1109180.html",
-      "published_date": "2026-10-19T18:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Polish billionaire's companies stopped production. \"We are unable to ensure security\"",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/biznes/firmy-michala-solowowa-wstrzymaly-produkcje-w-ukrainie-cersanit-i-barlinek-celem/lgcqg1k",
-      "published_date": "2026-10-19T17:57:07+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A Chinese hacker used AI to break into over 100 companies",
+      "title": "Hegseth znowu zakpił z sojuszników w Afganistanie. Tusk zabiera głos",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Reuters-haker-wykorzystal-AI-do-wlamania-sie-do-ponad-100-firm-9214994.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-19T17:38:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bankier.pl/wiadomosc/Hegseth-znowu-zakpil-z-sojusznikow-w-Afganistanie-Tusk-zabiera-glos-9215378.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-20T11:50:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "WIG20 dropped from the top. Banks and KGHM dragged the market down",
+      "title": "Kryzys wokół TK. Niemieckie media: Tusk nie może grać w szachy, gdy przeciwnik trzyma kij bejsbolowy",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/WIG20-zszedl-ze-szczytu-Banki-i-KGHM-pociagnely-rynek-w-dol-9214896.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-19T16:15:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bankier.pl/wiadomosc/Kryzys-wokol-TK-Niemieckie-media-Tusk-nie-moze-grac-w-szachy-gdy-przeciwnik-trzyma-kij-bejsbolowy-9215284.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-20T10:18:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "AI and trade secrets. Where is the limit of trust in technology?",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/biznes/ai-a-tajemnice-przedsiebiorstwa-gdzie-lezy-granica-zaufania-do-technologii/67bd4dw",
-      "published_date": "2026-10-19T15:25:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Żubr may disappear from the Bank Pekao logo. Changing the bank's name is also on the table",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/biznes/bank-pekao-bez-zubra-w-logo-trwaja-prace-nad-nowym-wizerunkiem/9cdzvgj",
-      "published_date": "2026-10-19T15:13:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "European giants will buy a bankrupt shipyard. Production of warships will begin soon",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/europejscy-giganci-kupia-stoczniowego-bankruta-wkrotce-ruszy-produkcja-okretow-wojennych,1110519.html",
-      "published_date": "2026-10-19T15:09:00+00:00",
-      "category": "Economy"
+      "title": "Pellet drożeje i brak wsparcia dla autogazu. Minister energii wyjaśnia sytuację",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Pellet-drozeje-i-brak-wsparcia-dla-autogazu-Minister-energii-wyjasnia-sytuacje-9215265.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-20T10:00:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Restructuring hospitals will not fix the system and may deepen its problems",
@@ -659,48 +701,6 @@
       "source": "TVN24",
       "url": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-rpo-przyjrzy-sie-sprawie-zatrzymania-mezczyzny-na-marszalkowskiej-st9295229?source=rss",
       "published_date": "2026-10-19T18:33:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will Poland avoid the problems of the West? Tusk shows migration data. \"This is the result of our work\"",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Czy-Polska-uniknie-problemow-Zachodu-Tusk-pokazuje-dane-o-migracji-To-skutek-naszej-pracy-9215006.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-19T18:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Boy, give up your ticket.\" Dominika Długosz without mercy for Michał Kołodziejczak",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/tylko-w-onecie/naczelni-afera-wokol-michala-kolodziejczaka-ostre-slowa-dominiki-dlugosz/k82tpre",
-      "published_date": "2026-10-19T18:07:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The case of Piotr W.'s detention. TVP Info publishes photos from the protest in front of the Constitutional Tribunal. \"He attacked the police\"",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33087075,sprawa-zatrzymania-piotra-w-tvp-info-publikuje-zdjecia-z-protestu.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-19T17:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nighttime incident involving prosecutor Zbigniew Ziobro. \"I got the wrong door\"",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/warszawa/nocny-incydent-z-udzialem-prokuratora-andrzeja-golca-pomylilem-sie/8gjzeyw",
-      "published_date": "2026-10-19T17:48:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "They evacuate the inhabitants and stop the railway. A large sappers operation in Wrocław",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-19/ewakuuja-mieszkancow-zatrzymaja-kolej-wielka-akcja-saperow-we-wroclawiu/",
-      "published_date": "2026-10-19T17:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"He fatally stabbed his mother.\" Charge and arrest",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/krakow/zagorze-zarzuty-i-areszt-dla-mezczyzny-podejrzanego-o-zabojstwo-matki-st9295203?source=rss",
-      "published_date": "2026-10-19T17:07:58+00:00",
       "category": "Local Events"
     }
   ]
