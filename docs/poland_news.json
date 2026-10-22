@@ -1,8 +1,15 @@
 {
   "country": "Poland",
-  "last_updated": "2026-10-21T15:45:29.329545+00:00",
+  "last_updated": "2026-10-22T01:14:01.271222+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Chciał roku UPA, do Polski nie wjedzie. Sikorski podpisał wniosek",
+      "source": "Defence24",
+      "url": "https://defence24.pl/geopolityka/chcial-roku-upa-do-polski-nie-wjedzie-sikorski-podpisal-wniosek",
+      "published_date": "2026-10-21T18:30:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "KO MEPs after meeting with Ursula von der Leyen. There is a declaration on household appliances",
       "source": "Rzeczpospolita",
@@ -50,6 +57,13 @@
       "source": "Bankier.pl",
       "url": "https://www.bankier.pl/wiadomosc/Polska-uznaje-radnego-Lwowa-za-osobe-niepozadana-za-czczenie-UPA-Sikorski-reaguje-na-upamietnienie-Szuchewycza-9215985.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "published_date": "2026-10-21T10:05:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Izraelska artyleria rakietowa za niemal ćwierć miliarda USD. Tajemniczy klient z Europy",
+      "source": "Defence24",
+      "url": "https://defence24.pl/sily-zbrojne/izraelska-artyleria-rakietowa-za-niemal-cwierc-miliarda-usd-tajemniczy-klient-z-europy",
+      "published_date": "2026-10-21T09:55:49+00:00",
       "category": "Diplomacy"
     },
     {
@@ -130,18 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Radosław Sikorski: Vladimir Putin has been dreaming about this for decades",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/polska/radoslaw-sikorski-wladimir-putin-chcialby-odgrywac-role-jednego-z-podmiotow-triumwiratu-ktory-rzadzi-swiatem-st9295234?source=rss",
-      "published_date": "2026-10-19T18:13:49+00:00",
-      "category": "Diplomacy"
+      "title": "Odsiecz NATO dla Polski utknie w korkach. Pomoc może okazać się niemożliwa",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/bezpieczenstwo/odsiecz-nato-dla-polski-utknie-w-korkach-pomoc-moze-okazac-sie-niemozliwa,1111554.html",
+      "published_date": "2026-10-21T20:30:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Radosław Sikorski about the attack by Israeli settlers in the West Bank. \"Unacceptable\"",
+      "title": "Obiekt wojsk NATO spadł na Podkarpaciu. Żandarmeria Wojskowa wyjaśnia",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-21/obiekt-wojsk-nato-spadl-na-podkarpaciu-zandarmeria-wojskowa-wyjasnia/",
+      "published_date": "2026-10-21T18:35:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mówi o wojnie i artykule 5. NATO. Premier Litwy reaguje na wydarzenia w Polsce",
+      "source": "Defence24",
+      "url": "https://defence24.pl/geopolityka/mowi-o-wojnie-i-artykule-5-nato-premier-litwy-reaguje-na-wydarzenia-w-polsce",
+      "published_date": "2026-10-21T18:00:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Płatowiec wojsk NATO spadł na Podkarpaciu. Jest komunikat Żandarmerii Wojskowej",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/swiat/radoslaw-sikorski-ostrzega-izrael-swiat-nie-bedzie-w-tej-sprawie-milczal/09cj9sb",
-      "published_date": "2026-10-19T16:29:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://wiadomosci.onet.pl/kraj/platowiec-nato-spadl-na-podkarpaciu-zandarmeria-wojskowa-wydala-komunikat/z8xdwy3",
+      "published_date": "2026-10-21T17:57:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Incydent na lotnisku w Lipsku początkiem kampanii Rosji przeciw NATO? Media o \"tajnej wojnie\"",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/swiat/incydent-na-lotnisku-w-lipsku-jednym-z-pierwszych-strzalow-przeciw-nato-rosja-ma-planowac-dalsze-ataki-st9299220?source=rss",
+      "published_date": "2026-10-21T17:53:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sabotaż w Lipsku miał być dopiero początkiem. \"WSJ\" ujawnia plan Moskwy",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/swiat/rosja-szykuje-nowa-fale-atakow-w-krajach-nato-amerykanski-wywiad-alarmuje/0pw5l67",
+      "published_date": "2026-10-21T17:45:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rosja otacza bazy NATO? Polski wątek wskazany w śledztwie",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/rosja-otacza-bazy-nato-polski-watek-wskazany-w-sledztwie",
+      "published_date": "2026-10-21T17:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "\"WSJ\": Wywiad USA twierdzi, że atak na lotnisko w Lipsku był początkiem kampanii Rosji przeciwko NATO",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33091464,wsj-wywiad-usa-twierdzi-ze-atak-na-lotnisko-w-lipsku-byl.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-21T16:50:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Sentence regarding the shooting of a migrant, the head of the Ministry of National Defense reacts. \"A soldier cannot be left alone\"",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "For years, we did not make any money from the defense sector",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/przemysl-dla-obronnosci/art45373141-przez-lata-nie-zarabialismy-na-sektorze-defence",
-      "published_date": "2026-10-21T14:12:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The court acquitted the soldier who shot the migrant. The head of the Ministry of National Defense reacts",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/uniewinnienie-zolnierza-po-postrzeleniu-migranta-kosiniak-kamysz-komentuje/8q42stm",
-      "published_date": "2026-10-21T13:58:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A Russian Su-30 crashed near Poland",
+      "title": "Prawie miliard dofinansowania na projekt Orlenu",
       "source": "TVN24",
-      "url": "https://tvn24.pl/biznes/ze-swiata/rosyjski-su-30-rozbil-sie-niedaleko-polski-st9299041?source=rss",
-      "published_date": "2026-10-21T13:51:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The war for Domański's promotion. Tusk warns Nawrocki against \"breaking the constitution\"",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Wojna-o-awans-Domanskiego-Tusk-ostrzega-Nawrockiego-przed-lamaniem-konstytucji-9216175.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-21T13:48:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poland will shoot down a Russian aircraft. The general has no doubts",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/polska-zestrzeli-rosyjski-statek-powietrzny-general-nie-ma-zadnych-watpliwosci,1111382.html",
-      "published_date": "2026-10-21T13:26:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Barbara delayed and a billion cheaper. We know the details",
-      "source": "Defence24",
-      "url": "https://defence24.pl/sily-zbrojne/barbara-z-opoznieniem-i-tansza-o-miliard-znamy-szczegoly",
-      "published_date": "2026-10-21T13:20:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia lost a combat aircraft. Su-30 crashed in the Königsberg region",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33091155,rosja-stracila-samolot-bojowy-su-30-rozbil-sie-w-obwodzie-krolewieckim.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-21T12:53:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "It was supposed to be Ottokar-Brzoza, but it is Gladius. Soldiers from Suwałki with a new delivery",
-      "source": "Defence24",
-      "url": "https://defence24.pl/sily-zbrojne/mial-byc-ottokar-brzoza-jest-gladius-suwalscy-zolnierze-z-nowa-dostawa",
-      "published_date": "2026-10-21T12:24:54+00:00",
-      "category": "Military"
+      "url": "https://tvn24.pl/biznes/ze-swiata/prawie-miliard-dofinansowania-na-projekt-orlenu-st9299210?source=rss",
+      "published_date": "2026-10-21T18:00:59+00:00",
+      "category": "Energy"
     },
     {
       "title": "Another photovoltaic farm on the balancing market. Respect Energy is the operator for the Danish farm",
@@ -417,17 +424,17 @@
       "category": "Energy"
     },
     {
-      "title": "Fuel tourism to Poland has started. Due to differences of PLN 1.08 on fuel and PLN 0.52 on diesel",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/zaczela-sie-turystyka-paliwowa-do-polski-przez-roznice-rzedu-1-08-zl-na-paliwie-i-52-gr-na-dieslu,1110654.html",
-      "published_date": "2026-10-19T20:00:00+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Market leader in diagnostic imaging with reduced pricing",
       "source": "WNP.pl",
       "url": "https://www.wnp.pl/rynki/lider-rynku-diagnostyki-obrazowej-z-obnizona-wycena,1111441.html",
       "published_date": "2026-10-21T16:57:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hype na GPW. 100 procent na jednej sesji przy rekordach głównych indeksów",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Hype-na-GPW-100-procent-na-jednej-sesji-przy-rekordach-glownych-indeksow-9216331.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-21T16:30:00+00:00",
       "category": "Economy"
     },
     {
@@ -557,11 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Prices have skyrocketed. Poland at the forefront of Europe",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/biznes/rynki/ceny-poszybowaly-polska-w-czolowce-europy-st9298258?source=rss",
-      "published_date": "2026-10-21T12:35:47+00:00",
-      "category": "Economy"
+      "title": "Ciężarówki bez zezwoleń przewoziły potężne ładunki. Każda ważyła blisko 60 ton",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/warszawa/ciezarowki-wazyly-60-ton-inspektorzy-itd-zatrzymali-nielegalny-przewoz/5nf590l",
+      "published_date": "2026-10-21T23:14:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wrocław wprowadza zakaz dla samochodów z Chin. Znane marki nie wjadą na parking",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/logistyka/wroclaw-wprowadza-zakaz-dla-samochodow-z-chin-znane-marki-nie-wjada-na-parking,1111565.html",
+      "published_date": "2026-10-21T20:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Na dwóch lotniskach w Kalabrii zabrakło paliwa. Nie dojechało, z powodu protestu",
+      "source": "Rzeczpospolita",
+      "url": "https://turystyka.rp.pl/lotniska/art45376411-na-dwoch-lotniskach-w-kalabrii-zabraklo-paliwa-nie-dojechalo-z-powodu-protestu",
+      "published_date": "2026-10-21T20:15:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kraków odpowiada na \"rok UPA\". Gibała stawia mera Lwowa przed wyborem",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gospodarka/stanowcza-reakcja-gibaly-krakow-grozi-zawieszeniem-partnerstwa-ze-lwowem/xfn0hjh",
+      "published_date": "2026-10-21T19:49:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Wielu posłów PiS połknęło swoje języki\". Posłanka o głosowaniu nad ustawą o aborcji",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/gosc-wydarzen/2026-10-21/wielu-poslow-pis-polknelo-swoje-jezyki-poslanka-o-glosowaniu-nad-ustawa-o-aborcji/",
+      "published_date": "2026-10-21T17:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nawrocki uderza w rząd i awans Domańskiego: Dziury budżetowej nie naprawia się awansem",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Nawrocki-uderza-w-rzad-i-awans-Domanskiego-Dziury-budzetowej-nie-naprawia-sie-awansem-9216369.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-21T17:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nawrocki apeluje do Tuska, padły gorzkie słowa. \"Ja nie jestem pierwszy\"",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-21/nawrocki-apeluje-do-tuska-padly-gorzkie-slowa-ja-nie-jestem-pierwszy/",
+      "published_date": "2026-10-21T16:29:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Deportation for promoting UPA? Rozwoju Plus demands penalties for Banderism",
@@ -652,55 +701,6 @@
       "source": "Business Insider Polska",
       "url": "https://businessinsider.com.pl/biznes/tak-rafal-brzoska-odpowiedzial-prezesowi-dhl-szybko-poszlo/43kzgrp",
       "published_date": "2026-10-21T14:40:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Beware of evil women from the neighboring village - excerpt from the book",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/plus-minus/art45371371-uwaga-na-zle-kobiety-z-sasiedniej-wsi-fragment-ksiazki",
-      "published_date": "2026-10-21T14:40:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Specialists available remotely throughout Poland. Oncology and cardiology come first",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Specjalisci-dostepni-zdalnie-w-calej-Polsce-Onkologia-i-kardiologia-na-pierwszy-ogien-9216215.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-21T14:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "He shot a migrant while on duty at the border. There is a court verdict",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/tvnwarszawa/srodmiescie/postrzelil-migranta-podczas-sluzby-na-granicy-jest-wyrok-sadu-st9299117?source=rss",
-      "published_date": "2026-10-21T14:21:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "128 trains will stop at the new stop",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/tvnwarszawa/wola/warszawa-ulrychow-na-nowym-przystanku-zatrzyma-sie-prawie-130-pociagow-st9298964?source=rss",
-      "published_date": "2026-10-21T14:12:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rusty fangs in Königsberg. A Russian Su-30 fell to the ground near the border with Poland.",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Zardzewiale-kly-w-Krolewcu-Rosyjski-Su-30-runal-na-ziemie-przy-granicy-z-Polska-9216201.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-21T14:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Piątkowska climbed to the podium and turned to Gibała. \"A little cringe\"",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/krakow/krakow-piatkowska-weszla-na-mownice-i-zwrocila-sie-do-gibaly-troche-cringe-owe-st9298422?source=rss",
-      "published_date": "2026-10-21T14:03:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "There are no papers on them, people live inside. Krakow's lawlessness is waiting to be demolished",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/W-papierach-ich-nie-ma-w-srodku-mieszkaja-ludzie-Krakowska-samowola-czeka-na-wyburzenie-9216014.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-21T14:00:00+00:00",
       "category": "Local Events"
     }
   ]
