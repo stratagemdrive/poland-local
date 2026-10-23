@@ -1,8 +1,22 @@
 {
   "country": "Poland",
-  "last_updated": "2026-10-22T15:44:48.284413+00:00",
+  "last_updated": "2026-10-23T01:09:45.457539+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Poland's sharp reaction after the UPA row, women's strikes in many cities, PiS starts the Independence March. Here are the key takeaways from the day",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/ostra-reakcja-polski-po-awanturze-o-upa-warszawa-wysyla-mocny-sygnal/xmc5f49",
+      "published_date": "2026-10-22T18:10:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PESA is entering a huge market. The Polish manufacturer signed a contract in India",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/PESA-wchodzi-na-ogromny-rynek-Polski-producent-podpisal-umowe-w-Indiach-9216876.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-22T18:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "TVN24 unofficially: Poland may be exempt from the solidarity mechanism",
       "source": "TVN24",
@@ -130,18 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sikorski: wolałbym, żeby decyzja ws. powstania bazy w Polsce zapadła przed wyborami w USA",
-      "source": "Defence24",
-      "url": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/sikorski-wolalbym-zeby-decyzja-ws-powstania-bazy-w-polsce-zapadla-przed-wyborami-w-usa",
-      "published_date": "2026-10-20T12:15:02+00:00",
-      "category": "Diplomacy"
+      "title": "Polish defense needs the best software",
+      "source": "Rzeczpospolita",
+      "url": "https://radar.rp.pl/przemysl-obronny/art45382701-polska-obronnosc-potrzebuje-najlepszego-oprogramowania",
+      "published_date": "2026-10-22T22:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "\"Nastał moment, by to wykorzystać\". Sikorski apeluje do Nawrockiego w sprawie Trumpa",
+      "title": "Volodymyr Zelensky's people are angry about the deterioration of relations with Poland. \"Disaster\"",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/wladze-w-kijowie-rozgoryczone-decyzja-lwowskiego-samorzadu-katastrofa/jm5yrc4",
+      "published_date": "2026-10-22T20:02:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "An innovative idea for detecting drones. This is supposed to be super-protection for Poland",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/tech/nowatorski-pomysl-na-wykrywanie-dronow-to-ma-byc-superochrona-dla-polski,1111714.html",
+      "published_date": "2026-10-22T20:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Maria Zakharova mocks Poland and Lithuania. \"We are looking forward to it\"",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/swiat/maria-zacharowa-kpi-po-incydencie-z-dronem-na-litwie-uderza-w-polske/hzsm809",
+      "published_date": "2026-10-22T19:48:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A good Pole is a heretic, a rebellious type",
+      "source": "Rzeczpospolita",
+      "url": "https://historia.rp.pl/historia-polski/art45380841-dobry-polak-to-heretyk-typ-niepokorny",
+      "published_date": "2026-10-22T19:31:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Sejm rejected the PSL project. Kosiniak-Kamysz announces the next step. He talks about the limit for MPs",
       "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33088089,nastal-moment-by-to-wykorzystac-sikorski-apeluje-do-nawrockiego.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-20T11:14:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33093240,sejm-odrzucil-projekt-psl-kosiniak-kamysz-zapowiada-kolejny.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-22T19:23:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Poland will spend billions on the army. The Sejm committee assessed the defense budget for 2027",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/bezpieczenstwo/polska-wyda-miliardy-na-wojsko-sejmowa-komisja-ocenila-budzet-obronny-na-2027-rok,1111933.html",
+      "published_date": "2026-10-22T19:04:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A member of the Gray Ranks and a Home Army soldier are dead. Marek Dunin-Wąsowicz was 100 years old",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/nie-zyje-byly-zolnierz-ak-marek-dunin-wasowicz-mial-100-lat/g8r48z1",
+      "published_date": "2026-10-22T18:27:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Then the most dangerous moment of the war will come. Former intelligence officer points to the deadline",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/wtedy-nadejdzie-najgrozniejszy-moment-wojny-byly-oficer-wywiadu-wskazuje-termin",
+      "published_date": "2026-10-22T18:00:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Norwegian Kongsberg will supply weapons for K2PL tanks. Questions have arisen about the Polish arms industry",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/bezpieczenstwo/norweski-kongsberg-dostarczy-uzbrojenie-do-czolgow-k2pl-pojawily-sie-pytania-o-polska-zbrojeniowke,1111917.html",
+      "published_date": "2026-10-22T17:58:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A member of the Gray Ranks and a witness to history. Marek Dunin-Wąsowicz has died",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/tvnwarszawa/zoliborz/w-wieku-100-lat-zmarl-marek-dunin-wasowicz-st9301413?source=rss",
+      "published_date": "2026-10-22T17:54:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "\"Irrational.\" A PiS politician on the actions of Ukrainians",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/gosc-wydarzen/2026-10-22/irracjonalne-polityk-pis-o-dzialaniach-ukraincow/",
+      "published_date": "2026-10-22T17:50:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "He flew into Poland and landed in Moscow. Algerian forces plane in the airspace",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/wlecial-do-polski-i-wyladowal-w-moskwie-samolot-algierskich-sil-w-przestrzeni-powietrznej",
+      "published_date": "2026-10-22T17:00:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russian spy detained at the border with Poland. German prosecutor's office: He collected military data",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33093020,rosyjski-szpieg-zatrzymany-przy-granicy-z-polska-niemiecka.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-22T16:35:00+00:00",
+      "category": "Military"
     },
     {
       "title": "This could be a breakthrough on the battlefield. Eight predictions",
@@ -186,102 +284,46 @@
       "category": "Military"
     },
     {
-      "title": "Kongsberg will supply weapons for Polish K2 tanks",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Kongsberg-dostarczy-uzbrojenie-do-polskich-czolgow-K2-9216834.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-22T14:02:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russian spies are getting closer to Poland. Germany reveals what Moscow was looking for",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/swiat/art45379731-rosyjscy-szpiedzy-coraz-blizej-polski-niemcy-ujawniaja-czego-szukala-moskwa",
-      "published_date": "2026-10-22T13:22:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In Gdańsk they are building a ship for the navy. But not Polish",
-      "source": "Defence24",
-      "url": "https://defence24.pl/przemysl/w-gdansku-buduja-okret-dla-marynarki-wojennej-ale-nie-polskiej",
-      "published_date": "2026-10-22T13:21:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A gigantic contract for the F-35. The US plans to deliver 850 aircraft",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Gigantyczny-kontrakt-na-F-35-USA-planuja-dostawy-850-samolotow-9216792.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-22T13:20:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone, brainrot or deepfake? Voting for the Technology Word of the Year 2026 is starting",
-      "source": "Rzeczpospolita",
-      "url": "https://cyfrowa.rp.pl/technologie/art45379941-dron-brainrot-czy-deepfake-rusza-glosowanie-na-technologiczne-slowo-roku-2026",
-      "published_date": "2026-10-22T13:15:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A military unit was opened in Wielbark. Equipped with, among others: Homar-K rocket launchers",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/W-Wielbarku-otwarto-jednostke-wojskowa-Na-wyposazeniu-m-in-wyrzutnie-rakiet-Homar-K-9216729.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-22T12:27:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UPA on a pedestal, Poland outraged. Who is pulling the strings in Lviv Oblast?",
-      "source": "Defence24",
-      "url": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/upa-na-piedestale-polska-oburzona-kto-pociaga-za-sznurki-w-obwodzie-lwowskim",
-      "published_date": "2026-10-22T11:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A weapon that accuses its own soldiers. It's time to send the Glauberites back to the museum",
-      "source": "Defence24",
-      "url": "https://defence24.pl/sily-zbrojne/bron-ktora-oskarza-wlasnych-zolnierzy-czas-odeslac-glauberyty-do-muzeum",
-      "published_date": "2026-10-22T11:33:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mobile networks will protect us from drones. Poland can convert them into radars",
+      "title": "Orlen is writing down assets worth PLN 1.6 billion",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/tech/sieci-komorkowe-ochronia-nas-przed-dronami-polska-moze-przerobic-je-na-radary,1111455.html",
-      "published_date": "2026-10-22T11:16:55+00:00",
-      "category": "Military"
+      "url": "https://www.wnp.pl/energia/orlen-robi-odpisy-wartosci-majatku-w-wysokosci-1-6-miliarda-zl,1112037.html",
+      "published_date": "2026-10-22T21:55:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Anti-aircraft shield without tents. The US Army follows in Poland's footsteps",
+      "title": "An important investment is starting in Jastrzębie. JSW will also benefit",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/rusza-wazna-inwestycja-w-jastrzebiu-skorzysta-takze-jsw,1112018.html",
+      "published_date": "2026-10-22T21:03:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "We know the results of the tender offer for the sale of shares of a company from the steel and renewable energy sectors",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/znamy-wyniki-wezwania-na-sprzedaz-akcji-spolki-z-branzy-stalowej-i-oze,1111997.html",
+      "published_date": "2026-10-22T20:27:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Incineration plants: between waste and energy",
+      "source": "Rzeczpospolita",
+      "url": "https://energia.rp.pl/nowa-energia/art45382871-spalarnie-miedzy-odpadami-a-energetyka",
+      "published_date": "2026-10-22T19:14:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The mining industry is in the red for the third year in a row",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/po-osmiu-miesiacach-prawie-2-5-mld-zl-straty-gornictwo-trzeci-rok-z-rzedu-jedzie-na-minusie,1111846.html",
+      "published_date": "2026-10-22T17:45:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Poland and the USA are strengthening their strategic partnership. $1.5 billion within Kashubia",
       "source": "Defence24",
-      "url": "https://defence24.pl/sily-zbrojne/przeciwlotnicza-tarcza-bez-namiotow-us-army-idzie-w-slady-polski",
-      "published_date": "2026-10-22T10:34:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New weapons for the Ghost Shark underwater drone. Anduril showed the recording",
-      "source": "Defence24",
-      "url": "https://defence24.pl/sily-zbrojne/nowe-uzbrojenie-dla-podwodnego-drona-ghost-shark-anduril-pokazal-nagranie",
-      "published_date": "2026-10-22T09:24:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hyundai buys weapons modules for Polish K2. There's a deal",
-      "source": "Defence24",
-      "url": "https://defence24.pl/przemysl/k2pl-z-modulami-kongsberga",
-      "published_date": "2026-10-22T08:19:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "A mysterious object found in Lubaczów. We know the preliminary findings of the services",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33091968,tajemniczy-obiekt-znaleziony-w-lubaczowie-znamy-wstepne-ustalenia.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-22T07:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What American troops does Poland want? Gen. Rzeczkowski from the National Security Bureau lists key capabilities [INTERVIEW]",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/jakich-amerykanskich-wojsk-chce-polska-gen-rzeczkowski-z-bbn-wymienia-kluczowe-zdolnosci-wywiad",
-      "published_date": "2026-10-22T06:00:01+00:00",
-      "category": "Military"
+      "url": "https://defence24.pl/polityka-obronna/polska-i-usa-wzmacniaja-partnerstwo-strategiczne-15-mld-dol-w-ramach-kaszubii",
+      "published_date": "2026-10-22T17:28:06+00:00",
+      "category": "Energy"
     },
     {
       "title": "These numbers show the problem of the Polish energy sector. A big challenge is coming for PSE",
@@ -382,52 +424,129 @@
       "category": "Energy"
     },
     {
-      "title": "Norwegian ORLEN project with EU funding for innovative climate technologies",
+      "title": "Holidays different than usual. The study shows what tourists want in 2027",
+      "source": "Rzeczpospolita",
+      "url": "https://turystyka.rp.pl/nowe-trendy/art45379831-wakacje-inne-niz-zwykle-badanie-pokazuje-czego-zapragna-turysci-w-2027-roku",
+      "published_date": "2026-10-22T23:01:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Volkswagen Crafter: 600 thousand cars from a Polish factory work for business",
+      "source": "Rzeczpospolita",
+      "url": "https://moto.rp.pl/na-drodze/art45382671-volkswagen-crafter-600-tys-aut-z-polskiej-fabryki-pracuje-dla-biznesu",
+      "published_date": "2026-10-22T22:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Imports of risky cars are decreasing",
+      "source": "Rzeczpospolita",
+      "url": "https://moto.rp.pl/tu-i-teraz/art45382821-topnieje-import-ryzykownych-aut",
+      "published_date": "2026-10-22T22:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PAIH has built a bridge between Poland and Taiwan",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/biznes/art45382771-paih-zbudowala-pomost-pomiedzy-polska-a-tajwanem",
+      "published_date": "2026-10-22T22:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Strong declines on the Nasdaq. Meta severely punished by investors",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Mocne-spadki-na-Nasdaqu-Meta-srodze-ukarana-przez-inwestorow-9217106.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-22T21:05:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "They are eliminating PIT tax relief. In 2027, last chance to take advantage. The smart ones will do it twice",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/norweski-projekt-orlenu-z-unijnym-dofinansowaniem-dla-innowacyjnych-technologii-klimatycznych,1111457.html",
-      "published_date": "2026-10-21T15:46:00+00:00",
-      "category": "Energy"
+      "url": "https://www.wnp.pl/rynki/likwiduja-ulge-w-pit-w-2027-r-ostatnia-szansa-by-skorzystac-sprytni-zrobia-to-dwa-razy,1112033.html",
+      "published_date": "2026-10-22T20:48:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "A new heat and power plant will be built in Tarnów. Unibep is close to a huge contract",
+      "title": "Refund of up to over PLN 700 in tax. One of the PIT reliefs will increase by 100%.",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/nowa-elektrocieplownia-powstanie-w-tarnowie-unibep-blisko-poteznego-kontraktu,1111420.html",
-      "published_date": "2026-10-21T15:43:00+00:00",
-      "category": "Energy"
+      "url": "https://www.wnp.pl/rynki/zwrot-nawet-ponad-700-zl-z-podatku-jedna-z-ulg-w-pit-wzrosnie-o-100-proc,1112006.html",
+      "published_date": "2026-10-22T20:02:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The Polish nuclear contractor will invest one billion dollars. The first such project in half a century",
+      "title": "Polish companies are re-entering the Indian market",
+      "source": "Rzeczpospolita",
+      "url": "https://logistyka.rp.pl/szynowy/art45383561-polskie-firmy-wchodza-powtornie-na-indyjski-rynek",
+      "published_date": "2026-10-22T19:47:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "German business will meet with the Polish government. Domański: There will be a Polish-German economic summit on Monday",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Niemiecki-biznes-spotka-sie-z-polskim-rzadem-Domanski-W-poniedzialek-polsko-niemiecki-szczyt-gospodarczy-9217064.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-22T19:18:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PLN 34.3 million for a Polish company as part of aid for energy-intensive companies",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/pierwsza-taka-inwestycja-od-ponad-50-lat-westinghouse-wyda-miliard-dolarow,1111423.html",
-      "published_date": "2026-10-21T15:25:00+00:00",
-      "category": "Energy"
+      "url": "https://www.wnp.pl/energia/34-3-mln-zlotych-dla-polskiej-firmy-w-ramach-pomocy-dla-firm-energochlonnych,1111957.html",
+      "published_date": "2026-10-22T18:49:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Orlen's \"Atlas\" project will receive millions from EU funds. This is an unusual investment",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/biznes/projekt-atlas-orlenu-z-unijnym-wsparciem-co2-trafi-pod-dno-morza-polnocnego/ptn5pem",
-      "published_date": "2026-10-21T14:43:24+00:00",
-      "category": "Energy"
+      "title": "The pearl of Polish exports is fading. Due to declining results, layoffs and China",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/przemysl/perla-polskiego-eksportu-blaknie-przez-spadki-wynikow-zwolnienia-i-chiny,1111965.html",
+      "published_date": "2026-10-22T18:40:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Up to PLN 19,000 for owners of photovoltaics. A new subsidy program is starting",
+      "title": "The tax office will lose some of its powers. The Sejm restricted access to bank accounts",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Skarbowka-straci-czesc-uprawnien-Sejm-ograniczyl-dostep-do-kont-bankowych-9217039.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-22T18:34:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "KGHM sold less copper. The company gave the reason",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/kghm-sprzedal-mniej-miedzi-koncern-podal-przyczny,1111937.html",
+      "published_date": "2026-10-22T18:06:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Excise tax on alcohol has gone up significantly. The Sejm decided on new rates",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Akcyza-na-alkohol-mocno-w-gore-Sejm-zdecydowal-o-nowych-stawkach-9216986.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-22T17:17:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Sejm passed the Act on medical salary limits",
       "source": "TVN24",
-      "url": "https://tvn24.pl/biznes/z-kraju/nawet-19-tysiecy-zlotych-dla-wlascicieli-fotowoltaiki-rusza-nowy-program-doplat-st9298567?source=rss",
-      "published_date": "2026-10-21T14:24:10+00:00",
-      "category": "Energy"
+      "url": "https://tvn24.pl/polska/sejm-uchwalil-ustawe-o-limitach-wynagrodzen-medykow-w-tym-lekarzy-st9301387?source=rss",
+      "published_date": "2026-10-22T17:16:33+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Energy storage for PGE. Contract for over PLN 400 million",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/kontrakt-na-ponad-400-mln-zl-w-energetyce-pge-eo-wybrala-wykonawce-magazynow-energii,1111325.html",
-      "published_date": "2026-10-21T13:57:00+00:00",
-      "category": "Energy"
+      "title": "A revolution in tax brackets. The Sejm adopted the act",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Rewolucja-w-progach-podatkowych-Sejm-przyjal-ustawe-9216968.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-22T17:16:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "The Polish train manufacturer is entering one of the most promising markets in the world",
       "source": "WNP.pl",
       "url": "https://www.wnp.pl/przemysl/polski-producent-pociagow-wjezdza-na-jeden-z-najbardziej-obiecujacych-rynkow-swiata,1111899.html",
       "published_date": "2026-10-22T17:07:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Parliament decided to increase the tax threshold. Dudek: it was painful",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/biznes/pieniadze/zmiany-w-pit-sejm-podnosi-prog-podatkowy-i-wprowadza-nowa-stawke-slawomir-dudek-to-bylo-bolesne-st9301337?source=rss",
+      "published_date": "2026-10-22T17:01:48+00:00",
       "category": "Economy"
     },
     {
@@ -445,262 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Scooters treated like cars. This would be a revolution on Polish roads",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/logistyka/hulajnogi-traktowane-jak-samochody-to-bylaby-rewolucja-na-polskich-drogach,1111893.html",
-      "published_date": "2026-10-22T16:05:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Financial institutions need more time to simplify the termination of contracts",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/prawo-dla-ciebie/art45379661-instytucje-finansowe-potrzebuja-wiecej-czasu-by-uproscic-wypowiadanie-umow",
-      "published_date": "2026-10-22T15:30:08+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Pole will manage a key area at ESA",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Polak-pokieruje-kluczowym-obszarem-w-ESA-9216907.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-22T15:20:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Experts: Poland has a tax problem. And it's not about their height",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/opinie-ekonomiczne/art45372051-eksperci-polska-ma-problem-z-podatkami-i-nie-chodzi-o-ich-wysokosc",
-      "published_date": "2026-10-22T15:07:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Group layoffs in a large bank. It's about several thousand people",
+      "title": "\"A total surprise.\" What stands behind Pełczyńska-Nałęcz's decision?",
       "source": "TVN24",
-      "url": "https://tvn24.pl/biznes/ze-swiata/zwolnienia-grupowe-w-wielkim-banku-chodzi-o-kilka-tysiecy-osob-st9300219?source=rss",
-      "published_date": "2026-10-22T15:06:44+00:00",
-      "category": "Economy"
+      "url": "https://tvn24.pl/polska/katarzyna-pelczynska-nalecz-odchodzi-z-rzadu-kim-jest-dlaczego-odchodzi-st9301580?source=rss",
+      "published_date": "2026-10-22T22:02:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "They cut down thousands of trees and bushes. We know who will design the greenery from scratch",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/tvnwarszawa/wawer/warszawa-modernizacja-linii-otwockiej-kolejarze-wycieli-tysiace-drzew-wiadomo-kto-zaprojektuje-nowa-zielen-st9300548?source=rss",
-      "published_date": "2026-10-22T14:46:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A Pole takes up an important position in ESA. \"Area of strategic importance\"",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/wiadomosci/polak-zostal-dyrektorem-w-esa-kim-jest-andrzej-banasiak/yrqp147",
-      "published_date": "2026-10-22T14:44:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "This industry in the EU is losing. Competition is growing under her nose, but the biggest \"enemy\" is elsewhere",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/przemysl/ta-branza-w-ue-traci-pod-jej-nosem-rosnie-konkurencja-ale-najwieksze-zagrozenie-jest-gdzie-indziej,1111648.html",
-      "published_date": "2026-10-22T14:35:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Michał Sołowow stops in Poland. He gained a partner for a nuclear project abroad",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/michal-solowow-na-polsce-sie-na-zatrzymuje-zyskal-partnera-do-atomowego-projektu-za-granica,1111793.html",
-      "published_date": "2026-10-22T14:26:57+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Interest rate voting results. The MPC is not unanimous",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/finanse/jastrzab-w-rpp-chce-podwyzki-stop-w-radzie-narastaja-emocje/3wwpfn8",
-      "published_date": "2026-10-22T14:24:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Gorzów will once again become the capital of entrepreneurship! The 8th Gorzów Economic Forum will take place on November 20",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/gorzow-ponownie-stanie-sie-stolica-przedsiebiorczosci-viii-gorzowskie-forum/96esped",
-      "published_date": "2026-10-22T14:10:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "13th and 14th pension to be liquidated. \"Senseless in every possible way\"",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/rynki/13-i-14-emerytura-do-likwidacji-bezsensowne-pod-kazdym-mozliwym-wzgledem,1111830.html",
-      "published_date": "2026-10-22T14:08:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Polish brand conquers foreign markets. \"We are more popular in Lithuania than in Poland\"",
+      "title": "The government will not fall. Pełczyńska-Nałęcz's departure does not mean Poland 2050 will leave the coalition",
       "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/podcasty/art45378531-polska-marka-podbija-zagraniczne-rynki-na-litwie-jestesmy-bardziej-popularni-niz-w-polsce",
-      "published_date": "2026-10-22T14:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The bank paid the student PLN 120,000. euro instead of 13 thousand",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/wiadomosci/student-z-gruzji-przypadkowo-wyniosl-z-banku-majatek-nietypowy-final-akcji/07kdn6m",
-      "published_date": "2026-10-22T13:47:07+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A company from the JSW group will present solutions for a critical industry",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/przemysl/spolka-z-grupy-jsw-wskaze-na-rozwiazania-dla-newralgicznej-branzy,1111794.html",
-      "published_date": "2026-10-22T13:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Huge money for the defense industry. Companies can now draw from many sources",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/potezne-pieniadze-na-przemysl-obronny-firmy-moga-juz-czerpac-z-wielu-zrodel,1110318.html",
-      "published_date": "2026-10-22T13:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Gantner: ROP cannot be governed by the president of the National Fund for Environmental Protection and Water Management. Dispute over UC100 and billions of zlotys",
-      "source": "Rzeczpospolita",
-      "url": "https://pro.rp.pl/magazyn-o-biznesie/art45379701-gantner-rop-em-nie-moze-rzadzic-prezes-nfosigw-spor-o-uc100-i-miliardy-zlotych",
-      "published_date": "2026-10-22T13:10:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The expressway is to connect two highways. \"Old Polish Trail\" with increasing support",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/logistyka/ekspresowka-ma-polaczyc-dwie-autostrady-szlak-staropolski-z-coraz-wiekszym-poparciem,1111923.html",
-      "published_date": "2026-10-22T17:09:00+00:00",
+      "url": "https://www.rp.pl/polityka/art45383481-rzad-nie-upadnie-odejscie-pelczynskiej-nalecz-nie-oznacza-wyjscia-polski-2050-z-koalicji",
+      "published_date": "2026-10-22T21:23:24+00:00",
       "category": "Local Events"
     },
     {
-      "title": "TV Republika under the microscope of the prosecutor's office. Investigation after the events before the Constitutional Tribunal",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/TV-Republika-pod-lupa-prokuratury-Sledztwo-po-wydarzeniach-przed-TK-9216937.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-22T16:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Another ABB and another discount on the WSE. The indices reversed from their peaks",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Kolejne-ABB-i-kolejna-przecena-na-GPW-Indeksy-zrobily-w-tyl-zwrot-ze-szczytow-9216934.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-22T16:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Critical security vulnerabilities, some public websites disabled. Effects for years",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/tech/krytyczna-podatnosc-czesc-publicznych-stron-wylaczona-skutki-na-lata,1111806.html",
-      "published_date": "2026-10-22T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Do MPs from the ruling coalition go to the abortion protest? We have the answers",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33092975,czy-poslanki-z-koalicji-rzadzacej-ida-na-protest-aborcyjny.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-22T15:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A knifeman from the center of Warsaw arrested. Marcin Kierwiński comments",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/nozownik-z-centrum-warszawy-zatrzymany-marcin-kierwinski-komentuje/wckhjdm",
-      "published_date": "2026-10-22T15:32:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Knife attack in Warsaw. The police arrested the suspect",
+      "title": "The PiS MP has a positive opinion about the departing minister. \"We are open\"",
       "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-22/atak-nozownika-w-warszawie-policja-zatrzymala-sprawce/",
-      "published_date": "2026-10-22T15:30:00+00:00",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-22/posel-pis-pozytywnie-o-odchodzacej-minister-jestesmy-otwarci/",
+      "published_date": "2026-10-22T21:11:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The court acquitted the \"king of psychoactive substances\". These are the charges of inciting the murder of Zbigniew Ziobro",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/sad-uniewinnil-krola-dopalaczy-chodzi-o-podzeganie-do-zabojstwa-zbigniewa-ziobry/zhvzlxf",
-      "published_date": "2026-10-22T15:20:02+00:00",
+      "title": "Women's strikes all over Poland. There were red cards, black umbrellas and a dispute over abortion",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33094235,strajki-kobiet-w-calej-polsce-byly-czerwone-kartki-czarne.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-22T21:05:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Strong earthquake in Tibet",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/tvnmeteo/swiat/silne-trzesienie-ziemi-w-tybecie-st9301232?source=rss",
-      "published_date": "2026-10-22T15:17:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "He saved 17 people from the fire and lost his health himself. The Prime Minister granted him the benefit",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Uratowal-17-osob-z-pozaru-sam-stracil-zdrowie-Premier-przyznal-mu-swiadczenie-9216891.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-22T15:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will Poland avoid relocation of migrants? There is an announcement from Brussels",
+      "title": "“The vein could have burst.” New details about the botched execution of Christa Pike",
       "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/polityka/art45381471-polska-uniknie-relokacji-migrantow-jest-zapowiedz-z-brukseli",
-      "published_date": "2026-10-22T15:13:00+00:00",
+      "url": "https://www.rp.pl/przestepczosc/art45383591-zyla-mogla-peknac-nowe-szczegoly-ws-nieudanej-egzekucji-christy-pike",
+      "published_date": "2026-10-22T20:34:13+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Atlantic storm and Balkan high. There will be something happening with the weather in Poland",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/tvnmeteo/prognoza/atlantycki-sztorm-i-balkanski-wyz-w-pogodzie-w-polsce-bedzie-sie-dzialo-st9301169?source=rss",
-      "published_date": "2026-10-22T15:09:20+00:00",
+      "title": "\"We were different.\" Hołownia reacts to Pełczyńska-Nałęcz's resignation",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-22/roznilismy-sie-holownia-reaguje-na-rezygnacje-pelczynskiej-nalecz/",
+      "published_date": "2026-10-22T20:10:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "\"The founder and leader of the band - Mietek Wróbel, passed away. The news came like a thunderbolt\"",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/trojmiasto/odszedl-od-nas-zalozyciel-i-lider-zespolu-mietek-wrobel-wiadomosc-przyszla-jak-grom-st9301167?source=rss",
-      "published_date": "2026-10-22T15:05:27+00:00",
+      "title": "Hołownia reacts to Pełczyńska-Nałęcz's decision. \"Poland 2050 stays in the coalition\"",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/polityka/art45383571-holownia-reaguje-na-decyzje-pelczynskiej-nalecz-polska-2050-zostaje-w-koalicji",
+      "published_date": "2026-10-22T19:46:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The deputy minister challenged Sławomir Mentzen. \"Is it dishonorable with a woman?\"",
+      "title": "Szymon Hołownia reacts to the minister's decision. \"We found out from the media\"",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/wiceministra-rzucila-wyzwanie-slawomirowi-mentzenowi-z-kobieta-to-dyshonor/6bb27cv",
-      "published_date": "2026-10-22T15:02:07+00:00",
+      "url": "https://wiadomosci.onet.pl/kraj/szymon-holownia-reaguje-na-decyzje-ministry-dowiedzielismy-sie-z-mediow/266nhem",
+      "published_date": "2026-10-22T19:41:35+00:00",
       "category": "Local Events"
     },
     {
-      "title": "EU migration pact. Poland will avoid relocation of migrants and fees",
+      "title": "\"They started running away\", \"Thank you\", \"I say goodbye coldly\". A wave of comments after the minister's decision",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-22/politycy-reaguja-na-decyzje-pelczynskiej-nalecz-zaczeli-uciekac/",
+      "published_date": "2026-10-22T19:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"A self-serving, populist move.\" A voice from the government after the minister's departure",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/pelczynska-nalecz-odchodzi-z-rzadu-hennig-kloska-mowi-o-wyrachowaniu/qxe6vnt",
+      "published_date": "2026-10-22T19:40:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pełczyńska-Nałęcz leaves the government. A blunt comment by a politician from KO",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-22/pelczynska-nalecz-odchodzi-z-rzadu-dosadny-komentarz-polityk-z-ko/",
+      "published_date": "2026-10-22T19:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Katarzyna Pełczyńska-Nałęcz leaves the government. \"Values are more important to me than stools\"",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Pakt-migracyjny-UE-Polska-uniknie-relokacji-migrantow-i-oplat-9216888.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-22T15:01:00+00:00",
+      "url": "https://www.bankier.pl/wiadomosc/Katarzyna-Pelczynska-Nalecz-odchodzi-z-rzadu-9217071.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-22T19:23:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Massive hacker attack in France. Millions of users had no access to the network",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/tech/zmasowany-atak-hakerow-we-francji-miliony-uzytkownikow-nie-mialy-dostepu-do-sieci,1111849.html",
-      "published_date": "2026-10-22T14:53:00+00:00",
+      "title": "He leaves Donald Tusk's government. Here is the ministry's property",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/finanse/katarzyna-pelczynska-nalecz-odchodzi-z-rzadu-donalda-tuska-oto-jej-oswiadczenie/4gzxjsz",
+      "published_date": "2026-10-22T19:12:43+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Diagnosis faster and more accurate. The National Health Fund will pay for modern tests",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/zdrowie/wazna-zmiana-dla-pacjentow-od-2027-roku-nowe-badania-na-nfz-st9301034?source=rss",
-      "published_date": "2026-10-22T14:49:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The prosecutor's office's move after the reports of TV Republika. In the background there is an attack on the police and the prime minister's story",
+      "title": "The minister leaves Donald Tusk's government. Coalition colleagues say goodbye to her \"coldly\"",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/szczecin/awantura-w-poblizu-tk-pod-lupa-prokuratury-ruch-po-relacjach-tv-republika/45lmk63",
-      "published_date": "2026-10-22T14:45:31+00:00",
+      "url": "https://wiadomosci.onet.pl/kraj/katarzyna-pelczynska-nalecz-odchodzi-z-rzadu-fala-komentarzy/p9n4jjn",
+      "published_date": "2026-10-22T19:12:19+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Another motion to dismiss Marcin Kierwiński submitted by PiS",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/polska/pis-zlozylo-kolejny-wniosek-o-wotum-nieufnosci-dla-marcina-kierwinskiego-st9301107?source=rss",
-      "published_date": "2026-10-22T14:42:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New information on the trial of Michał Woś. The court questioned one of the allegations",
+      "title": "Onet sources: two reasons for Katarzyna Pełczyńska-Nałęcz leaving the government",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/sad-podwaza-dowody-prokuratury-niespodziewana-decyzja-w-sprawie-michala-wosia/w1hf6mg",
-      "published_date": "2026-10-22T14:37:17+00:00",
+      "url": "https://wiadomosci.onet.pl/kraj/zrodla-onetu-dwa-powody-odejscia-pelczynskiej-nalecz-z-rzadu/0mgch9m",
+      "published_date": "2026-10-22T19:10:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Red card for abortion.\" Demonstration in front of the Sejm and police intervention",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/tvnwarszawa/srodmiescie/demonstracja-przed-sejmem-pod-haslem-czerwona-kartka-za-aborcje-st9301472?source=rss",
+      "published_date": "2026-10-22T19:06:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The verdict for the tragedy on A1 caused a reaction. Activists want the law to be tightened",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Wyrok-za-tragedie-na-A1-wywolal-reakcje-Aktywisci-chca-zaostrzenia-prawa-9216768.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-22T19:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Parliament in favor of higher excise duty on alcohol. The money is to go to the National Health Fund",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/biznes/pieniadze/podwyzka-akcyzy-na-alkohol-w-2027-roku-sejm-uchwalil-ustawe-to-jest-kolejne-podejscie-st9301450?source=rss",
+      "published_date": "2026-10-22T18:45:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eastern Poland needs money. The European Parliament is calling for special funds",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Wschodnia-Polska-potrzebuje-pieniedzy-Europarlament-apeluje-o-specjalne-fundusze-9217043.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-22T18:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dispute over two terms. \"A mixture of rationalism and populism\"",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/spor-o-dwukadencyjnosc-starcie-polityka-psl-z-senatorem-ko-st9301388?source=rss",
+      "published_date": "2026-10-22T18:39:29+00:00",
       "category": "Local Events"
     }
   ]
