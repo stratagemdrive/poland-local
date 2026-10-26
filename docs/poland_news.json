@@ -1,8 +1,43 @@
 {
   "country": "Poland",
-  "last_updated": "2026-10-25T14:41:00.249341+00:00",
+  "last_updated": "2026-10-26T01:01:25.113920+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Radosław Sikorski zaczepił prezydenta. \"Ciekawe, kto sufluje Karolowi Nawrockiemu\"",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/radoslaw-sikorski-reaguje-na-slowa-karola-nawrockiego-poszlo-o-slowa-o-rosji/bqxwkc7",
+      "published_date": "2026-10-25T20:55:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Radosław Sikorski: trzeba wywierać większą presję na Władimira Putina",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/swiat/radoslaw-sikorski-trzeba-wywierac-wieksza-presje-na-wladimira-putina/00vwdl6",
+      "published_date": "2026-10-25T18:41:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Radosław Sikorski ostrzega w CNN. \"Wiemy, że planują eskalację\"",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/radoslaw-sikorski-ostrzega-w-cnn-wiemy-ze-planuja-eskalacje-st9305136?source=rss",
+      "published_date": "2026-10-25T18:26:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sikorski w CNN ostrzega przed Rosją. \"Wiemy, że planują eskalację\"",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33098105,sikorski-w-cnn-ostrzega-przed-rosja-wiemy-ze-planuja-eskalacje.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-25T17:54:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sikorski ostrzega przed Rosją. „Wiemy, że planują eskalację”",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Sikorski-ostrzega-przed-Rosja-Wiemy-ze-planuja-eskalacje-9218019.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-25T16:45:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Poles are more active than the rest of the EU. PIE points to an important factor",
       "source": "Bankier.pl",
@@ -109,39 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Poland's sharp reaction after the UPA row, women's strikes in many cities, PiS starts the Independence March. Here are the key takeaways from the day",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/ostra-reakcja-polski-po-awanturze-o-upa-warszawa-wysyla-mocny-sygnal/xmc5f49",
-      "published_date": "2026-10-22T18:10:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "PESA is entering a huge market. The Polish manufacturer signed a contract in India",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/PESA-wchodzi-na-ogromny-rynek-Polski-producent-podpisal-umowe-w-Indiach-9216876.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-22T18:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "TVN24 unofficially: Poland may be exempt from the solidarity mechanism",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/swiat/tvn24-nieoficjalnie-polska-moze-liczyc-na-zwolnienie-z-mechanizmu-solidarnosciowego-w-ramach-paktu-migracyjnego-st9300866?source=rss",
-      "published_date": "2026-10-22T14:00:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mentzen: We need to cut social spending",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Mentzen-Trzeba-ciac-wydatki-socjalne-9216739.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-22T12:52:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tusk in India: We want Poland to be India's gateway to Europe, and India a gateway to Asia",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Cel-podwoic-wymiane-handlowa-Padla-jasna-deklaracja-o-wojnie-i-zaufanych-dostawach-9216608.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-22T08:49:00+00:00",
-      "category": "Diplomacy"
+      "title": "Rosja rozmieszcza czołgi przy granicy NATO. Działania sprzed ataku na Ukrainę?",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/rosja-rozmieszcza-czolgi-przy-granicy-nato-dzialania-sprzed-ataku-na-ukraine",
+      "published_date": "2026-10-25T17:30:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Rzeszów: construction of the plant begins. Production for Airbus and F-35",
@@ -169,6 +176,13 @@
       "source": "Rzeczpospolita",
       "url": "https://www.rp.pl/konflikty-zbrojne/art45391881-nocne-ataki-dronow-w-kraju-permskim-i-obwodzie-bielgorodzkim-sa-ofiary",
       "published_date": "2026-10-25T09:04:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Obronić wybrzeże. Jest zamówienie na kluczowe pociski",
+      "source": "Defence24",
+      "url": "https://defence24.pl/sily-zbrojne/obronic-wybrzeze-jest-zamowienie-na-kluczowe-pociski",
+      "published_date": "2026-10-25T08:00:02+00:00",
       "category": "Military"
     },
     {
@@ -242,6 +256,13 @@
       "category": "Military"
     },
     {
+      "title": "Roboty na polu walki po amerykańsku. US Army szuka autonomicznych pojazdów lądowych",
+      "source": "Defence24",
+      "url": "https://defence24.pl/przemysl/roboty-na-polu-walki-po-amerykansku-us-army-szuka-autonomicznych-pojazdow-ladowych",
+      "published_date": "2026-10-24T10:00:01+00:00",
+      "category": "Military"
+    },
+    {
       "title": "\"I won't make a circus performer out of myself.\" Mentzen on Sobkowiak's proposal",
       "source": "Defence24",
       "url": "https://defence24.pl/geopolityka/nie-bede-robil-z-siebie-cyrkowca-mentzen-o-propozycji-sobkowiak",
@@ -260,27 +281,6 @@
       "source": "Onet",
       "url": "https://wiadomosci.onet.pl/swiat/atak-terrorystyczny-w-jordanii-ucierpiala-polsko-jordanska-rodzina/ynhy92g",
       "published_date": "2026-10-23T17:38:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "\"There is no escape from war.\" The general on whether Russia will attack Poland",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/przed-wojna-nie-ma-ucieczki-general-o-tym-czy-rosja-zaatakuje-polske",
-      "published_date": "2026-10-23T17:30:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Broń odporna na zagłuszanie. Czesi pokazują nową opcję dla Polski i NATO",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/bron-odporna-na-zagluszanie-czesi-pokazuja-nowa-opcje-dla-polski-i-nato,1112369.html",
-      "published_date": "2026-10-23T17:17:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NATO i firmy lotnicze napędzają biznes francuskiego koncernu",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/przemysl/nato-i-firmy-lotnicze-napedzaja-biznes-francuskiego-koncernu,1112388.html",
-      "published_date": "2026-10-23T17:09:00+00:00",
       "category": "Military"
     },
     {
@@ -344,6 +344,13 @@
       "source": "WNP.pl",
       "url": "https://www.wnp.pl/budownictwo/15-mln-polakow-czeka-zmiana-wegiel-do-wymiany-na-gaz,1112645.html",
       "published_date": "2026-10-24T19:43:14+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Rosja miała potajemnie finansować projekt gazowy na Alasce. Były prezes ujawnia informacje",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/prawo/rosyjskie-pieniadze-na-alasce-byly-prezes-czulem-sie-nieswojo/181th0v",
+      "published_date": "2026-10-24T14:51:30+00:00",
       "category": "Energy"
     },
     {
@@ -417,17 +424,66 @@
       "category": "Energy"
     },
     {
-      "title": "Orlen decided. A turnaround in petrol prices, bad news for diesel drivers",
+      "title": "Technologia i rynek pracy. Nowe wyzwania dla dialogu społecznego",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/biznes/technologia-i-rynek-pracy-nowe-wyzwania-dla-dialogu-spolecznego/kqxjdmw",
+      "published_date": "2026-10-26T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Niezbędnik przedsiębiorcy: PIT i ryczałt zmienione * kary za niestosowanie KSeF * odliczanie VAT od auta elektrycznego * domowy prąd do firmowego auta a KUP * uprawnienia fiskusa do sprawdzania firmowych kont * zakaz reklamowania się aptek * reforma PIP",
+      "source": "Rzeczpospolita",
+      "url": "https://pro.rp.pl/niezbednik-przedsiebiorcy/art45394101-niezbednik-przedsiebiorcy-pit-i-ryczalt-zmienione-kary-za-niestosowanie-ksef-odliczanie-vat-od-auta-elektrycznego-domowy-prad-do-firmowego-auta-a-kup-uprawnienia-fiskusa-do-sprawdzania-firmowych-kont-zakaz-reklamowania-sie-aptek-reforma-pip",
+      "published_date": "2026-10-25T23:27:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Cyfrowa rewolucja w HR: rynek dwóch prędkości",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/praca/art45393561-cyfrowa-rewolucja-w-hr-rynek-dwoch-predkosci",
+      "published_date": "2026-10-25T23:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Studencki boom nie napędza rynku. Miliardowe długi w sektorze najmu",
+      "source": "Rzeczpospolita",
+      "url": "https://regiony.rp.pl/z-regionow/art45393461-studencki-boom-nie-napedza-rynku-miliardowe-dlugi-w-sektorze-najmu",
+      "published_date": "2026-10-25T23:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Surowcowa superhossa i złota gorączka. NBP na czele wyścigu",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/orlen-zdecydowal-zwrot-w-cenach-benzyny-fatalna-wiadomosc-dla-kierowcow-diesla,1112536.html",
-      "published_date": "2026-10-24T07:41:00+00:00",
-      "category": "Energy"
+      "url": "https://www.wnp.pl/rynki/surowcowa-superhossa-i-zlota-goraczka-nbp-na-czele-wyscigu,1112794.html",
+      "published_date": "2026-10-25T21:03:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Polexit kosztowałby Polskę miliardy euro rocznie. Są nowe wyliczenia",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/biznes/polexit-polska-stracilaby-90-mld-euro-rocznie-zpp-podaje-wyliczenia/szv7v2r",
+      "published_date": "2026-10-25T18:21:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ponad 500 euro kary za udział w zamieszkach. Albania zmienia przepisy",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Ponad-500-euro-kary-za-udzial-w-zamieszkach-Albania-zmienia-przepisy-9218025.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-25T17:32:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "A new promised land for Polish companies. This exotic destination can play a key role",
       "source": "WNP.pl",
       "url": "https://www.wnp.pl/rynki/polska-potrzebuje-nowych-technologii-ten-kierunek-moze-odegrac-kluczowa-role,1112060.html",
       "published_date": "2026-10-25T14:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Polexit kosztowałby Polskę 90 mld euro rocznie",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Polexit-kosztowalby-Polske-90-mld-euro-rocznie-9218005.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-25T13:31:00+00:00",
       "category": "Economy"
     },
     {
@@ -466,6 +522,13 @@
       "category": "Economy"
     },
     {
+      "title": "Nawet połowa dziennikarzy może stracić pracę. Media czeka trudna dekada",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Nawet-polowa-dziennikarzy-moze-stracic-prace-Media-czeka-trudna-dekada-9216725.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-25T11:59:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Poland is a furniture tycoon. One third of exports goes to Germany",
       "source": "Bankier.pl",
       "url": "https://www.bankier.pl/wiadomosc/Polska-meblarskim-potentatem-Jedna-trzecia-eksportu-trafia-do-Niemiec-9217974.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -501,67 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "They want to multiply their money quickly, they may lose it. The president of Millennium TFI warns investors",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/poradnik-finansowy/inwestowanie/dzwignia-finansowa-ekspert-ostrzega-przed-ryzykiem-utraty-kapitalu/zdx383f",
-      "published_date": "2026-10-25T08:07:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "How much does it cost to raise a child? We compare the budgets of couples without children and couples with children",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/finanse/koszty-wychowania-dziecka-w-polsce-tak-zmienia-sie-domowy-budzet/djh1kz4",
-      "published_date": "2026-10-25T08:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Poland wants to buy A400M planes. Airbus announces quick delivery",
+      "title": "Wielka demonstracja w Pradze. Powodem przyszłość mediów publicznych",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-chce-kupic-samoloty-A400M-Airbus-zapowiada-szybka-dostawe-9217946.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-25T07:45:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bankier.pl/wiadomosc/Wielka-demonstracja-w-Pradze-Powodem-przyszlosc-mediow-publicznych-9218032.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-25T18:49:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Marcin Horała in \"Political PE with a guest\" [WATCH]",
+      "title": "Dorota Łoboda o zmianach w prawie aborcyjnym. \"To krok do przodu\"",
       "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-25/marcin-horala-w-politycznym-wf-ie-z-gosciem-ogladaj-od-1100/",
-      "published_date": "2026-10-25T06:25:00+00:00",
-      "category": "Economy"
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-25/dorota-loboda-o-zmianach-w-prawie-aborcyjnym-to-krok-do-przodu/",
+      "published_date": "2026-10-25T18:35:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Polish railway boom may continue to grow. A new impulse is coming",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/logistyka/kolej-duzych-predkosci-nie-zamieni-wszystkiego-w-zloto,1110652.html",
-      "published_date": "2026-10-25T06:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "No more cheap labor. Polish companies should focus on something different",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/przemysl/koniec-z-tania-sila-robocza-polskie-firmy-powinny-stawiac-na-cos-innego,1111261.html",
-      "published_date": "2026-10-25T06:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "They check transfers to accounts. 75% to be paid. tax",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/rynki/sprawdzaja-przelewy-na-kontach-do-zaplaty-75-proc-podatku,1112477.html",
-      "published_date": "2026-10-24T21:11:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Big changes in plot prices. The previous order collapsed",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/budownictwo/wielkie-zmiany-w-cenach-dzialek-dotychczasowy-porzadek-runal,1112652.html",
-      "published_date": "2026-10-24T20:31:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "They buy in Spain and then regret it. The lawyer points out the mistakes of Poles",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/swiat/kupuja-w-hiszpanii-potem-zaluja-prawnik-wskazuje-bledy-polakow/hlxc23n",
-      "published_date": "2026-10-24T18:02:05+00:00",
-      "category": "Economy"
+      "title": "Partia Razem ujawnia w sprawie startu w wyborach. \"Jesteśmy gotowi\"",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-25/partia-razem-przygotowuje-sie-do-samodzielnego-startu-w-wyborach-w-2027-r/",
+      "published_date": "2026-10-25T17:44:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The driver was pouring alcohol into a drink bottle. This is how 17-year-olds reacted",
@@ -620,6 +641,20 @@
       "category": "Local Events"
     },
     {
+      "title": "Owca: Partia Razem przygotowuje się do samodzielnego startu w wyborach w 2027 r.",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Owca-Partia-Razem-przygotowuje-sie-do-samodzielnego-startu-w-wyborach-w-2027-r-9218002.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-25T13:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Do Świnoujścia wpłynie wyjątkowy transport. Odbył dziewiczy rejs",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/do-swinoujscia-wplynie-wyjatkowy-transport-odbyl-dziewiczy-rejs,1112733.html",
+      "published_date": "2026-10-25T13:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "An exceptional transport arrived in Świnoujście. Made its maiden voyage",
       "source": "WNP.pl",
       "url": "https://www.wnp.pl/energia/do-swinoujscia-wplynal-wyjatkowy-transport-odbyl-dziewiczy-rejs,1112733.html",
@@ -666,41 +701,6 @@
       "source": "TVN24",
       "url": "https://tvn24.pl/polska/dlaczego-katarzyna-pelczynska-nalecz-odeszla-z-rzadu-i-zostala-wyrzucona-z-partii-politycy-komentuja-st9304464?source=rss",
       "published_date": "2026-10-25T11:59:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dangerous weather in Poland. \"Be careful and secure your belongings\"",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-25/niebezpieczna-pogoda-w-polsce-zachowaj-ostroznosc-i-zabezpiecz-rzeczy/",
-      "published_date": "2026-10-25T11:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A dangerous accident near Sochaczew. Driver stuck in the car",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/warszawa/grozny-wypadek-pod-sochaczewem-kierowca-zakleszczony-w-aucie/z06k607",
-      "published_date": "2026-10-25T11:55:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "He slid off the doga and hit the fence. Firefighters cut into the wreckage of the car to extract the driver",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/tvnwarszawa/okolice/sochaczew-zjechal-z-dogi-i-uderzyl-w-plot-strazacy-rozcinali-wrak-auta-by-wydobyc-kierowce-st9304660?source=rss",
-      "published_date": "2026-10-25T11:38:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tusk is a better leader than Kaczyński. Although Poles trust them the least",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/polityka/art45392101-tusk-lepszym-liderem-od-kaczynskiego-choc-to-im-polacy-ufaja-najmniej",
-      "published_date": "2026-10-25T11:33:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "They picked up migrants at the border with Belarus and took them towards Germany. Eight convicted",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/lublin/lublin-odbierali-ich-przy-granicy-i-wiezli-w-strone-niemiec-wyroki-za-organizowanie-nielegalnej-migracji-st9304636?source=rss",
-      "published_date": "2026-10-25T11:23:19+00:00",
       "category": "Local Events"
     }
   ]
