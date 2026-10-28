@@ -1,8 +1,29 @@
 {
   "country": "Poland",
-  "last_updated": "2026-10-27T16:07:50.793781+00:00",
+  "last_updated": "2026-10-28T02:04:03.887271+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Wicepremier pytany o proces Karola Nawrockiego przeciwko Onetowi. Odpowiedział krótko",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/proces-karola-nawrockiego-przeciw-onetowi-szef-msz-zapytany-o-prezydenta/flyxkmw",
+      "published_date": "2026-10-27T19:29:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "\"Możemy się uczyć na ukraińskich trupach albo na własnych\". Mocne słowa Radosława Sikorskiego",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Mozemy-sie-uczyc-na-ukrainskich-trupach-albo-na-wlasnych-Mocne-slowa-Radoslawa-Sikorskiego-9219283.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-27T18:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sikorski zwrócił się do Nawrockiego. \"To rola protokolarna a nie sprawcza\"",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/szef-msz-radoslaw-sikorski-do-prezydenta-karola-nawrockiego-w-sprawie-ambasadorow-przypominam-st9308972?source=rss",
+      "published_date": "2026-10-27T18:46:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Radosław Sikorski in \"Guest of Events\". Watch from 19:15",
       "source": "Polsat News",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Radosław Sikorski zaczepił prezydenta. \"Ciekawe, kto sufluje Karolowi Nawrockiemu\"",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/radoslaw-sikorski-reaguje-na-slowa-karola-nawrockiego-poszlo-o-slowa-o-rosji/bqxwkc7",
-      "published_date": "2026-10-25T20:55:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Radosław Sikorski: trzeba wywierać większą presję na Władimira Putina",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/swiat/radoslaw-sikorski-trzeba-wywierac-wieksza-presje-na-wladimira-putina/00vwdl6",
-      "published_date": "2026-10-25T18:41:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Radosław Sikorski ostrzega w CNN. \"Wiemy, że planują eskalację\"",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/polska/radoslaw-sikorski-ostrzega-w-cnn-wiemy-ze-planuja-eskalacje-st9305136?source=rss",
-      "published_date": "2026-10-25T18:26:40+00:00",
-      "category": "Diplomacy"
+      "title": "Tony rosyjskiego sprzętu blisko południowej flanki NATO. Zdjęcia pokazują skalę",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/tony-rosyjskiego-sprzetu-blisko-poludniowej-flanki-nato-zdjecia-pokazuja-skale",
+      "published_date": "2026-10-27T19:00:02+00:00",
+      "category": "Military"
     },
     {
       "title": "The soldier allegedly attacked and stole a car. He abandoned the vehicle 100 km away and then walked",
@@ -242,6 +249,13 @@
       "category": "Military"
     },
     {
+      "title": "Dania będzie uderzać w głębi. Nowe pociski manewrujące",
+      "source": "Defence24",
+      "url": "https://defence24.pl/sily-zbrojne/dania-bedzie-uderzac-w-glebi-nowe-pociski-manewrujace",
+      "published_date": "2026-10-27T12:31:39+00:00",
+      "category": "Military"
+    },
+    {
       "title": "The gendarmerie warns about a lost drone. \"Go away, warn others\"",
       "source": "Polsat News",
       "url": "https://www.polsatnews.pl/wiadomosc/2026-10-27/wojsko-zgubilo-drona-w-baltyku-zandarmeria-apeluje-nie-dotykaj/",
@@ -270,24 +284,24 @@
       "category": "Military"
     },
     {
-      "title": "Anti-drone San will receive radars from Denmark. We know the value of the contract",
-      "source": "Defence24",
-      "url": "https://defence24.pl/sily-zbrojne/antydronowy-san-dostanie-radary-z-danii-znamy-wartosc-umowy",
-      "published_date": "2026-10-27T09:47:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will the Americans order Miecznik frigates?",
-      "source": "Defence24",
-      "url": "https://defence24.pl/przemysl/czy-amerykanie-zamowia-fregaty-miecznik",
-      "published_date": "2026-10-27T07:41:17+00:00",
-      "category": "Military"
+      "title": "Orlen chce sprzedawać LNG do Azji. Pomoże biuro handlowe w Singapurze",
+      "source": "Rzeczpospolita",
+      "url": "https://energia.rp.pl/gaz/art45403151-orlen-chce-sprzedawac-lng-do-azji-pomoze-biuro-handlowe-w-singapurze",
+      "published_date": "2026-10-27T17:59:23+00:00",
+      "category": "Energy"
     },
     {
       "title": "The president of Orlen will talk to the Saudis. It's about selling a business in Poland",
       "source": "Business Insider Polska",
       "url": "https://businessinsider.com.pl/gielda/gra-o-miliardy-i-wplywy-prezes-orlenu-bedzie-rozmawiac-z-saudi-aramco/x67egkd",
       "published_date": "2026-10-27T15:22:45+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Awantura z Iranem kosztuje nas miliardy za gaz",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/awantura-z-iranem-kosztuje-nas-miliardy-za-gaz,1113385.html",
+      "published_date": "2026-10-27T15:16:00+00:00",
       "category": "Energy"
     },
     {
@@ -330,6 +344,13 @@
       "source": "WNP.pl",
       "url": "https://www.wnp.pl/energia/orlen-otwiera-biuro-w-singapurze-chce-powalczyc-o-gigantyczny-rynek,1113290.html",
       "published_date": "2026-10-27T12:17:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Nowe fabryki pelletu w Polsce. Inwestycja może pomóc obniżyć ceny",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/nowe-fabryki-pelletu-w-polsce-inwestycja-moze-pomoc-obnizyc-ceny,1113288.html",
+      "published_date": "2026-10-27T11:40:00+00:00",
       "category": "Energy"
     },
     {
@@ -403,25 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "Explosion on the third floor. Investigators on the cause",
+      "title": "Andrzej Domański o nowej ministrze funduszy. \"Optymalna osoba\"",
       "source": "TVN24",
-      "url": "https://tvn24.pl/katowice/czestochowa-wybuch-na-trzecim-pietrze-sledczy-o-przyczynie-st9306610?source=rss",
-      "published_date": "2026-10-26T15:17:51+00:00",
-      "category": "Energy"
+      "url": "https://tvn24.pl/polska/andrzej-domanski-o-zmianach-w-rzadzie-wiele-osob-odetchnelo-st9309069?source=rss",
+      "published_date": "2026-10-27T20:02:43+00:00",
+      "category": "Economy"
     },
     {
-      "title": "She confused the gas for the brake and drove into a bus stop",
+      "title": "Domański o podwyżce podatku CIT: mówimy o naprawdę dużych firmach",
       "source": "TVN24",
-      "url": "https://tvn24.pl/tvnwarszawa/ursynow/warszawa-pomylila-pedaly-skasowala-przystanek-st9306504?source=rss",
-      "published_date": "2026-10-26T15:06:52+00:00",
-      "category": "Energy"
+      "url": "https://tvn24.pl/biznes/z-kraju/domanski-o-podwyzce-podatku-cit-mowimy-o-naprawde-duzych-firmach-st9309041?source=rss",
+      "published_date": "2026-10-27T19:32:49+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The heat accumulator at the Żerań Heat and Power Plant reveals new colors. The assembly of the facade has started",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/akumulator-ciepla-w-elektrocieplowni-zeran-odslania-nowe-barwy-rozpoczal-sie-montaz-elewacji,1113024.html",
-      "published_date": "2026-10-26T14:25:04+00:00",
-      "category": "Energy"
+      "title": "Brukselska negocjatorka w polskim rządzie. Cel: Obronić ponad 120 mld euro z Unii",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Brukselska-negocjatorka-w-polskim-rzadzie-Cel-Obronic-ponad-120-mld-euro-z-Unii-9219262.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-27T18:02:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Coś dla Polaków jeżdżących do Chorwacji. Chorwat ujawnił, ile zarabia na jednym apartamencie",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/biznes/wynajem-w-chorwacji-zaskakuje-zarobkami-niektorzy-swietuja/36yb0gp",
+      "published_date": "2026-10-27T17:52:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Banki zarabiają więcej niż się spodziewano. Jest kolejny rekord hossy na GPW",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Banki-zarabiaja-wiecej-niz-sie-spodziewano-Jest-kolejny-rekord-hossy-na-GPW-9219186.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-27T16:17:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "\"The thing is\": Donald Tusk's trap for Karol Nawrocki",
@@ -529,45 +564,52 @@
       "category": "Economy"
     },
     {
-      "title": "Poland goes against the grain of the global trend. Companies still cannot feel safe",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/biznes/niewyplacalnosci-firm-w-polsce-eksperci-ostrzegaja-przed-falszywym-spokojem/5p3pl07",
-      "published_date": "2026-10-27T13:56:14+00:00",
-      "category": "Economy"
+      "title": "Nowa minister, tarcia Tusk-Hołownia, wybory połówkowe w USA, kult UPA w Ukrainie | Onet Rano.",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/nowa-minister-tarcia-tusk-holownia-wybory-polowkowe-w-usa-kult-upa-w-ukrainie-or-onet/yh7fd4g",
+      "published_date": "2026-10-27T21:21:36+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Most Poles want to increase the number of shopping Sundays",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/biznes/pieniadze/niedziele-handlowe-polacy-chca-zmiany-przepisow-st9307723?source=rss",
-      "published_date": "2026-10-27T13:52:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The finalization of the great acquisition is getting closer. The Polish giant sees future purchasing synergies",
+      "title": "Prezydent zwołał Radę Bezpieczeństwa Narodowego. Chodzi o amerykańską bazę",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/przemysl/finalizacja-wielkiego-przejecia-coraz-blizej-polski-gigant-dostrzega-przyszle-synergie-zakupowe,1113346.html",
-      "published_date": "2026-10-27T13:20:00+00:00",
-      "category": "Economy"
+      "url": "https://www.wnp.pl/bezpieczenstwo/prezydent-zwolal-rade-bezpieczenstwa-narodowego-chodzi-o-amerykanska-baze,1113570.html",
+      "published_date": "2026-10-27T21:18:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Donald Tusk appointed the head of the Ministry of Funds. This is Agnieszka Bartol",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/zmiany-w-ministerstwie-funduszy-donald-tusk-stawia-na-ekspertki-z-brukseli/xphvq27",
-      "published_date": "2026-10-27T13:17:00+00:00",
-      "category": "Economy"
+      "title": "Prezydent zwołał RBN. \"Posiedzenie o charakterze niejawnym\"",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-27/prezydent-zwolal-posiedzenie-bbn-posiedzenie-o-charakterze-niejawnym/",
+      "published_date": "2026-10-27T20:12:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Companies are turning down the tap on pay rises. That's how much they want to give to employees",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/praca/wynagrodzenia-w-polsce-firmy-ostrozniejsze-skala-podwyzek-maleje/kzbsw6f",
-      "published_date": "2026-10-27T13:16:08+00:00",
-      "category": "Economy"
+      "title": "Dostęp do KSeF z użyciem tokena będzie przedłużony. Pojawi się też certyfikat",
+      "source": "Rzeczpospolita",
+      "url": "https://pro.rp.pl/krajowy-system-e-faktur-ksef/art45406421-dostep-do-ksef-z-uzyciem-tokena-bedzie-przedluzony-pojawi-sie-tez-certyfikat",
+      "published_date": "2026-10-27T18:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Koniec pocisków Flamingo? Fire Point odpowiada na zarzuty",
+      "source": "Defence24",
+      "url": "https://defence24.pl/przemysl/koniec-pociskow-flamingo-fire-point-odpowiada-na-zarzuty",
+      "published_date": "2026-10-27T17:34:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The long-awaited ship finally arrived in Świnoujście",
       "source": "WNP.pl",
       "url": "https://www.wnp.pl/energia/king-two-wreszcie-wplynal-do-swinoujscia-wyczekiwany-statek-z-wyjatkowym-transportem,1113313.html",
       "published_date": "2026-10-27T16:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nowy właściciel TVN musi uzupełnić dokumenty. Minister ma 90 dni",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/biznes/wojciech-balczun-komentuje-przejecie-tvn-oczekuje-dokumentow/sxqpft6",
+      "published_date": "2026-10-27T16:07:53+00:00",
       "category": "Local Events"
     },
     {
@@ -659,48 +701,6 @@
       "source": "TVN24",
       "url": "https://tvn24.pl/polska/polska-2050-traci-ministerstwo-funduszy-szymon-holownia-komentuje-st9308641?source=rss",
       "published_date": "2026-10-27T14:58:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The scandal with the zoo in Łaczna. The prosecutor's office changed its decision regarding the animals",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/prawo/afera-z-zoo-w-lacznej-prokuratura-zmienila-decyzje-w-sprawie-zwierzat/qcbhcz5",
-      "published_date": "2026-10-27T14:58:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What's next for the NBP management board? The government spokesman speaks out",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/biznes/z-kraju/powolanie-nowych-czlonkow-zarzadu-narodowego-banku-polskiego-rzecznik-rzadu-adam-szlapka-o-decyzji-donalda-tuska-w-sprawie-prezydenckich-kandydatow-st9308646?source=rss",
-      "published_date": "2026-10-27T14:56:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "This week there will be a meeting between Tusk and Hołownia regarding the reconstruction of the government. Poland 2050 is counting on new positions",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,197990,33101677,w-tym-tygodniu-spotkanie-tusk-holownia-ws-rekonstrukcji-rzadu.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-27T14:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hołownia hits Pełczyńska-Nałęcz. \"It causes measurable damage\"",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-27/holownia-uderza-w-pelczynska-nalecz-wyrzadza-mierzalne-szkody/",
-      "published_date": "2026-10-27T14:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tusk named Pełczyńska-Nałęcz's successor. Hołownia: Poland 2050 will also pass this bend",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33101701,tusk-wskazal-nastepczynie-pelczynskiej-nalecz-holownia-polska.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-27T14:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A passenger car collided with a truck. One person is dead",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/wroclaw/siodlowice-samochod-osobowy-zderzyl-sie-z-ciezarowka-jedna-osoba-nie-zyje-st9308640?source=rss",
-      "published_date": "2026-10-27T14:49:42+00:00",
       "category": "Local Events"
     }
   ]
