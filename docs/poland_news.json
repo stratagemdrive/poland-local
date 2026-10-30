@@ -1,8 +1,43 @@
 {
   "country": "Poland",
-  "last_updated": "2026-10-30T02:25:21.318639+00:00",
+  "last_updated": "2026-10-30T16:56:21.737447+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Upokarzający lot Ławrowa. Leciał niemal dobę, by nie naruszyć nieba innych krajów",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Upokarzajacy-lot-Lawrowa-Lecial-niemal-dobe-by-nie-naruszyc-nieba-innych-krajow-9221223.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-30T15:31:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Awantura o Siergieja Ławrowa na szczycie G20. USA odwołały wspólne zdjęcie",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/polityka/art45422721-awantura-o-siergieja-lawrowa-na-szczycie-g20-usa-odwolaly-wspolne-zdjecie",
+      "published_date": "2026-10-30T15:15:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Wspólne zdjęcie z Ławrowem na spotkaniu G20? Sikorski: Nie tylko ja nie chciałem",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33108261,wspolne-zdjecie-z-lawrowem-na-spotkaniu-g20-sikorski-nie-tylko.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-30T14:50:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Radosław Sikorski zaczepił człowieka prezydenta. Napisał o \"głupich gadkach\"",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/radoslaw-sikorski-odpowiedzial-zbigniewowi-boguckiemu-chodzi-o-polexit/k1cd4zj",
+      "published_date": "2026-10-30T13:56:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Radosław Sikorski nie stanie do zdjęcia z Siergiejem Ławrowem. „Dość tej krwawej wojny”",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/polityka/art45422361-radoslaw-sikorski-nie-stanie-do-zdjecia-z-siergiejem-lawrowem-dosc-tej-krwawej-wojny",
+      "published_date": "2026-10-30T13:44:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Posiedzenie RBN z Braunem. Radosław Sikorski odpowiada rzecznikowi prezydenta. \"Swój do swego\"",
       "source": "Onet",
@@ -109,39 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "\"Możemy się uczyć na ukraińskich trupach albo na własnych\". Mocne słowa Radosława Sikorskiego",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Mozemy-sie-uczyc-na-ukrainskich-trupach-albo-na-wlasnych-Mocne-slowa-Radoslawa-Sikorskiego-9219283.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-27T18:48:00+00:00",
-      "category": "Diplomacy"
+      "title": "Pierwszy polski SkyGuardian już niebawem! Szef MON podał termin",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/pierwszy-polski-skyguardian-juz-niebawem-szef-mon-podal-termin",
+      "published_date": "2026-10-30T14:00:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sikorski zwrócił się do Nawrockiego. \"To rola protokolarna a nie sprawcza\"",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/polska/szef-msz-radoslaw-sikorski-do-prezydenta-karola-nawrockiego-w-sprawie-ambasadorow-przypominam-st9308972?source=rss",
-      "published_date": "2026-10-27T18:46:00+00:00",
-      "category": "Diplomacy"
+      "title": "Polska prekursorem w NATO. Nowy standard badań pilotów wojskowych",
+      "source": "Defence24",
+      "url": "https://defence24.pl/sily-zbrojne/polska-prekursorem-w-nato-nowy-standard-badan-pilotow-wojskowych",
+      "published_date": "2026-10-30T11:15:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "Radosław Sikorski in \"Guest of Events\". Watch from 19:15",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-27/radoslaw-sikorski-w-programie-gosc-wydarzen-4/",
-      "published_date": "2026-10-27T16:02:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "An EU agency based in Poland will be stronger. The staff is to increase to 30,000.",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/wiadomosci/agencja-z-siedziba-w-polsce-zyska-wiecej-uprawnien-bedzie-deportowac/cszx9v8",
-      "published_date": "2026-10-27T15:47:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Frontex receives new powers. This is the answer, among others: to the crisis in Ceuta",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/swiat/komisja-europejska-wzmacnia-frontex-to-odpowiedz-min-na-kryzys-w-ceucie/x5sp4z1",
-      "published_date": "2026-10-27T14:00:29+00:00",
-      "category": "Diplomacy"
+      "title": "Stała baza US Army w Polsce: 3 mld zł to dopiero początek. Cztery miasta w grze",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/stala-baza-us-army-w-polsce-3-mld-zl-to-dopiero-poczatek-cztery-miasta-w-grze",
+      "published_date": "2026-10-30T06:49:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Bunkry na prywatnych działkach przy granicy z Rosją. Kraj NATO reaguje na zagrożenie",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Gen. Roman Polko: Poland's air defense was severely underinvested, now it is being built",
-      "source": "Rzeczpospolita",
-      "url": "https://radar.rp.pl/modernizacja-sil-zbrojnych/art45410711-gen-roman-polko-obrona-powietrzna-polski-byla-mocno-niedoinwestowana-teraz-jest-budowana",
-      "published_date": "2026-10-28T14:34:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Drone at a power pole. Operation of the services in Komorów Żuławski",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-28/dron-na-slupie-energetycznym-akcja-sluzb-w-komorowie-zulawskim/",
-      "published_date": "2026-10-28T14:32:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Patriot missile service center is not everything. Americans can give Poland much more",
+      "title": "Orlen podjął decyzję. Od soboty zmiany na wszystkich stacjach w Polsce",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/centrum-serwisowe-rakiet-patriot-to-nie-wszystko-amerykanie-moga-dac-polsce-znacznie-wiecej,1113721.html",
-      "published_date": "2026-10-28T13:31:16+00:00",
-      "category": "Military"
+      "url": "https://www.wnp.pl/energia/orlen-podjal-decyzje-od-soboty-zmiany-na-wszystkich-stacjach-w-polsce,1114463.html",
+      "published_date": "2026-10-30T10:38:11+00:00",
+      "category": "Energy"
     },
     {
       "title": "Puchar pełen niespodzianek. Drużyny z Ekstraklasy dopadł jakiś wirus",
@@ -417,11 +424,88 @@
       "category": "Energy"
     },
     {
-      "title": "Can investments stop due to lack of asphalt? Orlen declares additional deliveries",
+      "title": "Pesa dostarczyła nowe pociągi przed terminem. Firma zarobi dodatkowe 75,6 mln euro",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/budownictwo/inwestycje-stana-przez-brak-asfaltu-wykonawcy-ostrzegaja-orlen-deklaruje-dodatkowe-dostawy,1112927.html",
-      "published_date": "2026-10-28T15:34:00+00:00",
-      "category": "Energy"
+      "url": "https://www.wnp.pl/logistyka/pesa-dostarczyla-nowe-pociagi-przed-terminem-firma-zarobi-dodatkowe-75-6-mln-euro,1114629.html",
+      "published_date": "2026-10-30T17:11:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Takich spadków nie było na GPW od miesięcy. Dramatu Cyfrowego Polsatu ciąg dalszy",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Takich-spadkow-nie-bylo-na-GPW-od-miesiecy-Dramatu-Cyfrowego-Polsatu-ciag-dalszy-9221266.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-30T16:12:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Czy RPP zdecyduje się na zmianę stóp procentowych? Listopadowa decyzja poparta nową projekcją inflacyjną",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Czy-RPP-zdecyduje-sie-na-zmiane-stop-procentowych-Listopadowa-decyzja-poparta-nowa-projekcja-inflacyjna-9221238.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-30T15:39:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "3,6 mld euro od rosyjskich aktywów zasili Ukrainę",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/rynki/unijny-bank-zamrozil-rosyjskie-aktywa-3-6-mld-euro-odsetek-zasili-fundusz-wsparcia-ukrainy,1114588.html",
+      "published_date": "2026-10-30T15:36:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Raport Business & Science Poland: właściwie przeprowadzona dekarbonizacja może zwiększyć konkurencyjność polskiego przemysłu",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/raport-business-and-science-poland-wlasciwie-przeprowadzona-dekarbonizacja-moze/svrb9hm",
+      "published_date": "2026-10-30T15:32:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Państwowa spółka bez prezesa. Bogusław Oleksy sam zrezygnował",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gielda/zmiana-wladzy-w-jsw-boguslaw-oleksy-opuszcza-stanowisko-prezesa/r1p2dg5",
+      "published_date": "2026-10-30T15:15:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rażąca słabość miedziowego giganta. Kurs KGHM najniżej od ponad pół roku",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/rynki/razaca-slabosc-miedziowego-giganta-kurs-kghm-najnizej-od-ponad-pol-roku,1114602.html",
+      "published_date": "2026-10-30T15:07:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ten wieżowiec miał być symbolem miasta, ale nigdy nie powstał. Została działka za 3 mln euro",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/nieruchomosci/nad-baltykiem-mial-stanac-132-metrowy-gigant-zostala-dzialka-za-3-mln-euro/37mg5lw",
+      "published_date": "2026-10-30T14:23:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Firma w UE w 48 godzin za mniej niż 100 euro. Jest jednak haczyk",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/rynki/firma-w-ue-w-48-godzin-za-mniej-niz-100-euro-jest-jednak-haczyk,1114091.html",
+      "published_date": "2026-10-30T14:05:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Wybory w USA mogą namieszać na rynku. Analitycy wskazują zagrożenie dla złotego",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Wybory-w-USA-moga-namieszac-na-rynku-Analitycy-wskazuja-zagrozenie-dla-zlotego-9221136.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-30T13:59:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Erste Bank z mocnym spadkiem zysku. Wkrótce wezwanie na akcje",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/rynki/erste-bank-z-mocnym-spadkiem-zysku-wkrotce-wezwanie-na-akcje,1114432.html",
+      "published_date": "2026-10-30T10:21:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Kijów szykuje alternatywę dla Starlinka. Ukraiński satelita już na orbicie",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Kijow-szykuje-alternatywe-dla-Starlinka-Ukrainski-satelita-juz-na-orbicie-9220880.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-30T09:45:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Ceny energii rosną. Rząd zapowiada nowe rozwiązania dla gospodarstw domowych",
@@ -480,88 +564,95 @@
       "category": "Economy"
     },
     {
-      "title": "TOP5 kont oszczędnościowych dla firm. Na czele stawka sięgająca 6,10%",
+      "title": "Chiny i Szwajcaria rozszerzają umowę o wolnym handlu. Zniknie 99,8 proc. ceł",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Najlepsze-konta-oszczednosciowe-dla-firm-pazdziernik-2026-r-Maly-wybor-ofert-z-wyzszym-oprocentowaniem-9220073.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-29T14:30:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bankier.pl/wiadomosc/Chiny-i-Szwajcaria-rozszerzaja-umowe-o-wolnym-handlu-Zniknie-99-8-proc-cel-9221237.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-30T15:38:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Jest decyzja o stopach procentowych. Zainteresuje osoby z kredytem w euro",
+      "title": "Błaszczak w prokuraturze, Berek bez wstępu na salę. Trwa walka o przejęcie TK",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Blaszczak-w-prokuraturze-Berek-bez-wstepu-na-sale-Trwa-walka-o-przejecie-TK-9221230.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-30T15:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polska armia dostanie superdrona. Minister obrony przekazał szczegóły",
       "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/ebc-nie-zmienia-stop-szok-energetyczny-wciaz-grozny/jhk751d",
-      "published_date": "2026-10-29T14:23:36+00:00",
-      "category": "Economy"
+      "url": "https://businessinsider.com.pl/gospodarka/szef-mon-zapowiada-dostawe-superdrona/mfl5gly",
+      "published_date": "2026-10-30T14:47:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Blisko 45 tys. paneli fotowoltaicznych przykryje parkingi sieci Carrefour. Jest umowa",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/blisko-45-tys-paneli-fotowoltaicznych-przykryje-parkingi-sieci-carrefour-jest-umowa,1114081.html",
-      "published_date": "2026-10-29T13:18:00+00:00",
-      "category": "Economy"
+      "title": "Europa szykuje się na zakłócenia w portach. Protest przeciwko transportowi broni",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/transport/art45422551-europa-szykuje-sie-na-zaklocenia-w-portach-protest-przeciwko-transportowi-broni",
+      "published_date": "2026-10-30T14:33:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Stopy procentowe w strefie euro bez zmian. Rynek stawia na podwyżkę w grudniu",
+      "title": "Minister obrony Litwy: Nie prowokujemy Rosji, przedstawiamy fakty",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33105786,minister-obrony-litwy-nie-prowokujemy-rosji-przedstawiamy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-30T14:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister finansów o wypowiedzi Kaczyńskiego: Wzywam, by zaprzestał tej niebezpiecznej retoryki",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33107974,minister-finansow-o-wypowiedzi-kaczynskiego-wzywam-by-zaprzestal.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-30T14:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prezydent przed decyzją w sprawie aborcji. Polacy dali Nawrockiemu wskazówkę",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-30/prezydent-przed-decyzja-w-sprawie-aborcji-polacy-dali-nawrockiemu-wskazowke/",
+      "published_date": "2026-10-30T13:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Premier Tusk przekazał nowe wieści w sprawie elektrowni Baltica 2",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gospodarka/premier-mowi-kiedy-prad-poplynie-z-elektrowni-baltica-2/swq2wkp",
+      "published_date": "2026-10-30T13:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ceny paliwa na święto 1 listopada. Minister ogłosił decyzję",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-30/ceny-paliwa-na-swieto-1-listopada-minister-oglosil-decyzje/",
+      "published_date": "2026-10-30T13:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Koniec remontów na A4 Katowice–Kraków. Nowe MOP-y już otwarte",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Decyzja-EBC-w-pazdzierniku-2026-roku-Stopy-procentowe-w-strefie-euro-bez-zmian-9220267.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-29T13:15:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-remontow-na-A4-Katowice-Krakow-Nowe-MOP-y-juz-otwarte-9221083.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-30T13:02:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Na GPW zrobiło się gorąco. Jedna spółka przyciąga uwagę, inna nie może się podnieść",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/rynki/na-gpw-zrobilo-sie-goraco-jedna-spolka-przyciaga-uwage-inna-nie-moze-sie-podniesc,1114024.html",
-      "published_date": "2026-10-29T09:49:00+00:00",
-      "category": "Economy"
+      "title": "Rząd szykuje osłony przed wzrostem rachunków. Minister ujawnia plany",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-szykuje-oslony-przed-wzrostem-rachunkow-Minister-ujawnia-plany-9221050.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-30T12:27:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Beautifully united. Together for women's health",
-      "source": "Rzeczpospolita",
-      "url": "https://sukces.rp.pl/sukces-story/art45410441-pieknie-zjednoczeni-razem-dla-zdrowia-kobiet",
-      "published_date": "2026-10-28T23:01:00+00:00",
-      "category": "Economy"
+      "title": "Spotkanie Tusk-Hołownia. Siemoniak: Niewątpliwie jest osobą numer jeden w swoim środowisku",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33106830,spotkanie-tusk-holownia-siemoniak-niewatpliwie-jest-osoba.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-10-30T07:27:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Long supply chains are a big risk",
-      "source": "Rzeczpospolita",
-      "url": "https://logistyka.rp.pl/morski/art45413781-dlugie-lancuchy-dostaw-to-duze-ryzyko",
-      "published_date": "2026-10-28T21:47:07+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The leader of the Polish construction market wants to expand abroad",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/budownictwo/budimex-ma-nowa-strategie-8-proc-wzrostu-przychodow-rocznie-i-ekspansja-za-granica,1113906.html",
-      "published_date": "2026-10-28T20:14:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Profit drop by 99%. The Polish furniture giant showed its results",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/przemysl/tapniecie-wynikow-polskiego-producenta-mebli-podwyzki-nie-zrekompensowaly-kosztow,1113912.html",
-      "published_date": "2026-10-28T19:56:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Grabowski: members of the NBP management board are \"on a leash from the president\"",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/biznes/z-kraju/boguslaw-grabowski-czlonkowie-zarzadu-nbp-sa-na-smyczy-u-pana-prezesa-st9310746?source=rss",
-      "published_date": "2026-10-28T19:36:55+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Construction companies are facing an investment boom",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/budownictwo/art45410411-firmy-budowlane-czeka-inwestycyjny-boom",
-      "published_date": "2026-10-28T19:34:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Another blow to the automotive industry. The French company will lay off up to 170 people in Poland",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/przemysl/kolejny-cios-w-branze-motoryzacyjna-francuski-koncern-zwolni-w-polsce-nawet-170-osob,1113897.html",
-      "published_date": "2026-10-28T19:29:00+00:00",
-      "category": "Economy"
+      "title": "\"Jest coraz większym prezentem dla Tuska\". Zandberg po słowach Kaczyńskiego",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-30/jest-coraz-wiekszym-prezentem-dla-tuska-zandberg-po-slowach-kaczynskiego/",
+      "published_date": "2026-10-30T07:26:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Blamaż brytyjskiej agencji wywiadowczej. Tysiące nośników z poufnymi danymi poza kontrolą służb",
@@ -610,97 +701,6 @@
       "source": "Rzeczpospolita",
       "url": "https://www.rp.pl/polityka/art45415851-pelczynska-nalecz-i-holownia-w-krynicy-w-tle-nowy-plan-bylej-minister",
       "published_date": "2026-10-29T15:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Zamierzam wrócić do Polski\". Deklaracja Zbigniewa Ziobry w Polsat News",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-29/zamierzam-wrocic-do-polski-deklaracja-zbigniewa-ziobry-w-polsat-news/",
-      "published_date": "2026-10-29T14:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PiS chce wprowadzić \"Tanie ogrzewanie\". Program kosztowałby miliardy",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/pis-chce-wprowadzic-tanie-ogrzewanie-program-kosztowalby-miliardy/wgtwy3p",
-      "published_date": "2026-10-29T14:23:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister energii komentuje większe ulgi i dopłaty dla przemysłu",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/minister-energii-komentuje-wieksze-ulgi-i-doplaty-dla-przemyslu-komu-mielibysmy-zabrac,1113916.html",
-      "published_date": "2026-10-29T14:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Technologia pod kontrolą człowieka. Za nami jubileuszowa 10. edycja konferencji Masters & Robots",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/tech/technologia-pod-kontrola-czlowieka-za-nami-jubileuszowa-10-edycja-konferencji-masters-robots,1114087.html",
-      "published_date": "2026-10-29T12:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wyjście z Unii oznacza katastrofę. Dostaniemy gigantyczny rachunek do zapłaty",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/rynki/wyjscie-z-unii-oznacza-katastrofe-dostaniemy-gigantyczny-rachunek-do-zaplaty,1114063.html",
-      "published_date": "2026-10-29T11:20:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hegseth zwalnia ważnego generała. Był głównym strategiem Pentagonu",
-      "source": "Defence24",
-      "url": "https://defence24.pl/sily-zbrojne/hegseth-zwalnia-waznego-generala-byl-glownym-strategiem-pentagonu",
-      "published_date": "2026-10-29T09:40:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tusk reaguje na słowa Kaczyńskiego. \"Twarda walka. Nie zamierzam jej przegrać\"",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-29/tusk-reaguje-na-slowa-kaczynskiego-twarda-walka-nie-zamierzam-jej-przegrac/",
-      "published_date": "2026-10-29T09:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pete Hegseth zwolnił kolejnego wysokiego rangą generała z Pentagonu",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33105175,pete-hegseth-zwolnil-kolejnego-wysokiego-ranga-generala-z-pentagonu.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-29T09:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dariusz Klimczak w programie \"Graffiti\". Oglądaj od 7:40",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-29/dariusz-klimczak-w-programie-graffiti-ogladaj-od-740-2/",
-      "published_date": "2026-10-29T05:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A brawl during the demolition of the Maltańskie Housing Estate in Poznań. The Greater Poland police issued a statement",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/poznan/interwencja-policji-na-osiedlu-maltanskim-w-poznaniu-mundurowi-wydali-oswiadczenie/lrckkdh",
-      "published_date": "2026-10-28T23:31:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poland will have a giant ferry on the Baltic Sea. \"We got him\"",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/logistyka/polska-bedzie-miala-gigantyczny-prom-na-baltyku-jest-data-chrztu-dowiezlismy-go,1113934.html",
-      "published_date": "2026-10-28T21:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Assault on the road near Nowy Tomyśl. The witness recorded the 34-year-old's behavior",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/poznan/zwrocil-uwage-na-blad-zostal-pobity-swiadek-nagral-atak-na-motocykliste/xb4t6gb",
-      "published_date": "2026-10-28T20:31:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "She hit the window and couldn't fly any further",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-samica-krogulca-uderzyla-w-okno-i-nie-mogla-dalej-leciec-pomogli-jej-straznicy-miejscy-st9311102?source=rss",
-      "published_date": "2026-10-28T20:29:34+00:00",
       "category": "Local Events"
     }
   ]
