@@ -1,8 +1,22 @@
 {
   "country": "Poland",
-  "last_updated": "2026-10-29T17:16:20.082609+00:00",
+  "last_updated": "2026-10-30T02:25:21.318639+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Posiedzenie RBN z Braunem. Radosław Sikorski odpowiada rzecznikowi prezydenta. \"Swój do swego\"",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/posiedzenie-rbn-z-braunem-radoslaw-sikorski-odpowiada-rzecznikowi-prezydenta/dt1c2vr",
+      "published_date": "2026-10-30T00:20:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Czy Radosław Sikorski stanie na wspólnym zdjęciu z Siergiejem Ławrowem? Raczej nie. I nie tylko on",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/czy-sikorski-stanie-na-wspolnym-zdjeciu-z-lawrowem-raczej-nie/1jml9vh",
+      "published_date": "2026-10-29T20:32:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ostre słowa Sikorskiego o Nawrockim. \"Czuje miętę do tych antysemitów prorosyjskich\"",
       "source": "Polsat News",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Katarzyna Pełczyńska-Nałęcz in Rozwoju Plus? Mateusz Morawiecki replied",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/polska/mateusz-morawiecki-nie-ma-zadnych-rozmow-z-katarzyna-pelczynska-nalecz-o-dolaczeniu-do-rozwoju-plus-st9307098?source=rss",
-      "published_date": "2026-10-26T21:37:37+00:00",
-      "category": "Diplomacy"
+      "title": "Bunkry na prywatnych działkach przy granicy z Rosją. Kraj NATO reaguje na zagrożenie",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/bunkry-na-prywatnych-dzialkach-przy-granicy-z-rosja-kraj-nato-reaguje-na-zagrozenie",
+      "published_date": "2026-10-29T18:00:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "The future of Pełczyńska-Nałęcz. Morawiecki: Rozwoju Plus is not in talks with her",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33100228,przyszlosc-pelczynskiej-nalecz-morawiecki-rozwoj-plus-nie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-26T19:06:00+00:00",
-      "category": "Diplomacy"
+      "title": "Pakiet pomocy dla Ukrainy zamrożony. Kłótnia w kraju NATO",
+      "source": "Defence24",
+      "url": "https://defence24.pl/geopolityka/pakiet-pomocy-dla-ukrainy-zamrozony-klotnia-w-kraju-nato",
+      "published_date": "2026-10-29T17:30:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Fundusz kościelny dzieli koalicję. \"To nie przejdzie w Sejmie\"",
@@ -270,18 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Polish drone heads with EU funding",
-      "source": "Defence24",
-      "url": "https://defence24.pl/przemysl/polskie-glowice-do-dronow-z-dofinansowaniem-ue",
-      "published_date": "2026-10-28T13:30:00+00:00",
-      "category": "Military"
+      "title": "Puchar pełen niespodzianek. Drużyny z Ekstraklasy dopadł jakiś wirus",
+      "source": "Rzeczpospolita",
+      "url": "https://sport.rp.pl/pilka-nozna/art45419521-puchar-pelen-niespodzianek-druzyny-z-ekstraklasy-dopadl-jakis-wirus",
+      "published_date": "2026-10-29T23:11:29+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The former Rafako plant will be transformed into a factory for the army. Investments worth PLN 1.3 billion",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Dawne-zaklady-Rafako-zmienia-sie-w-fabryke-dla-wojska-Inwestycje-za-1-3-mld-zl-9219637.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-28T12:44:00+00:00",
-      "category": "Military"
+      "title": "Enea chce pozyskać do 5 mld zł. Koncern wykorzysta specyficzny typ obligacji",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/enea-chce-pozyskac-do-5-mld-zl-koncern-wykorzysta-specyficzny-typ-obligacji,1114335.html",
+      "published_date": "2026-10-29T22:02:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Orlen zmodernizuje oczyszczalnię ścieków. Może wydać nawet 258 mln zł",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/orlen-zmodernizuje-oczyszczalnie-sciekow-moze-wydac-nawet-258-mln-zl,1114299.html",
+      "published_date": "2026-10-29T19:47:18+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ponad 140 awarii w rok. Nowy magazyn energii ma pomóc rozwiązać problem",
@@ -403,25 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "The gas price in Europe has broken through the psychological limit. This hasn't happened since 2022.",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gielda/wiadomosci/cena-gazu-przebila-100-euro-tego-nie-bylo-od-2022-r/6zf3he4",
-      "published_date": "2026-10-28T15:03:52+00:00",
-      "category": "Energy"
+      "title": "Ceny energii rosną. Rząd zapowiada nowe rozwiązania dla gospodarstw domowych",
+      "source": "Rzeczpospolita",
+      "url": "https://energia.rp.pl/ceny-energii/art45419291-ceny-energii-rosna-rzad-zapowiada-nowe-rozwiazania-dla-gospodarstw-domowych",
+      "published_date": "2026-10-29T20:44:55+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The Canadian fund invests in critical raw materials. Will build a factory in Poland",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/biznes/kanadyjski-fundusz-kinterra-stawia-na-polske-nowa-inwestycja-w-opolu/35n0wlg",
-      "published_date": "2026-10-28T14:57:06+00:00",
-      "category": "Energy"
+      "title": "Rekordowy zysk mBanku. Bank zwiększa udziały w hipotekach i kredytach dla firm",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/banki/art45419061-rekordowy-zysk-mbanku-bank-zwieksza-udzialy-w-hipotekach-i-kredytach-dla-firm",
+      "published_date": "2026-10-29T19:53:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The Baltic Sea is getting ready for another wind farm. The first foundations are already in Poland",
+      "title": "Domański zapowiada działania ws. cen gazu. Rząd pracuje nad rozwiązaniami",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Baltyk-szykuje-sie-na-kolejna-farme-wiatrowa-Pierwsze-fundamenty-juz-w-Polsce-9219761.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-28T14:55:00+00:00",
-      "category": "Energy"
+      "url": "https://www.bankier.pl/wiadomosc/Domanski-zapowiada-dzialania-ws-cen-gazu-Rzad-pracuje-nad-rozwiazaniami-9220642.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-29T19:02:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Bank centralny reaguje na wysokie ceny energii. Od tego zależą raty kredytów",
@@ -543,25 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "\"Up to half a million zlotys more in the account.\" AI agents are entering Polish companies",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/tech/do-pol-miliona-zlotych-wiecej-na-koncie-agenci-ai-wchodza-do-polskich-firm,1113842.html",
-      "published_date": "2026-10-28T18:44:00+00:00",
-      "category": "Economy"
+      "title": "Blamaż brytyjskiej agencji wywiadowczej. Tysiące nośników z poufnymi danymi poza kontrolą służb",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/politico/blamaz-brytyjskiej-agencji-wywiadowczej-tysiace-nosnikow-z-poufnymi-danymi-poza/98qjj9d",
+      "published_date": "2026-10-29T19:25:55+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Polish companies started looking for foreign takeovers",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/biznes/art45413301-polskie-firmy-ruszyly-po-zagraniczne-przejecia",
-      "published_date": "2026-10-28T18:42:00+00:00",
-      "category": "Economy"
+      "title": "Wrocław robi coś, o czym Kraków od dawna tylko mówi. Przymierza się do budowy \"metra\"",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/logistyka/wroclaw-robi-cos-o-czym-krakow-od-dawna-tylko-mowi-przymierza-sie-do-budowy-metra,1114289.html",
+      "published_date": "2026-10-29T19:06:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Polish broker with a profit of over PLN 200 million. The result was significantly above forecasts",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/rynki/zysk-duzo-wyzszy-niz-przed-rokiem-xtb-pokazalo-wstepne-wyniki-finansowe,1113880.html",
-      "published_date": "2026-10-28T18:19:00+00:00",
-      "category": "Economy"
+      "title": "Jest oficjalnie potwierdzenie. Była hiszpańska ministra zginęła w katastrofie kolejowej",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/politico/byly-hiszpanska-ministra-ofiara-katastrofy-w-hiszpanii/q3glkj6",
+      "published_date": "2026-10-29T18:03:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Wstęp do referendum o pozostanie Polski w UE\". Premier Donald Tusk o wyborach 2027 roku",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-29/wstep-do-referendum-o-pozostanie-polski-w-ue-premier-donald-tusk-o-wyborach-2027-roku/",
+      "published_date": "2026-10-29T17:13:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Poznaniacy muszą się przygotować. Jedna decyzja i ceny ogrzewania w górę",
@@ -594,7 +622,7 @@
     {
       "title": "PiS chce wprowadzić \"Tanie ogrzewanie\". Program kosztowałby miliardy",
       "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/pakiet-pis-ma-obnizyc-rachunki-oto-zalozenia-programu/wgtwy3p",
+      "url": "https://businessinsider.com.pl/gospodarka/pis-chce-wprowadzic-tanie-ogrzewanie-program-kosztowalby-miliardy/wgtwy3p",
       "published_date": "2026-10-29T14:23:53+00:00",
       "category": "Local Events"
     },
@@ -673,34 +701,6 @@
       "source": "TVN24",
       "url": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-samica-krogulca-uderzyla-w-okno-i-nie-mogla-dalej-leciec-pomogli-jej-straznicy-miejscy-st9311102?source=rss",
       "published_date": "2026-10-28T20:29:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Ukrainian with a Russian passport detained at the airport. He got caught because of Poland's decision",
-      "source": "Defence24",
-      "url": "https://defence24.pl/geopolityka/ukrainiec-z-rosyjskim-paszportem-zatrzymany-na-lotnisku-wpadl-przez-decyzje-polski",
-      "published_date": "2026-10-28T20:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Change in the leadership of the Academy of Justice. The Minister of Justice reacts",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/polska/zmiana-na-czele-akademii-wymiaru-sprawiedliwosci-minister-sprawiedliwosci-reaguje-st9311028?source=rss",
-      "published_date": "2026-10-28T19:20:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karol Nawrocki's veto does not end the matter. The National Electoral Commission signals a problem before the 2027 elections",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/weto-karola-nawrockiego-pkw-sygnalizuje-problem-przed-wyborami-2027/6c44l73",
-      "published_date": "2026-10-28T19:08:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Romanian Interior Minister on attacks in the Black Sea: we expect solidarity from Bulgaria",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/swiat/byly-rumunski-minister-spraw-wewnetrznych-o-atakach-na-morzu-czarnym-oczekujemy-od/r8x4v01",
-      "published_date": "2026-10-28T19:03:22+00:00",
       "category": "Local Events"
     }
   ]
