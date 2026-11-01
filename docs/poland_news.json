@@ -1,8 +1,29 @@
 {
   "country": "Poland",
-  "last_updated": "2026-10-31T15:55:53.268955+00:00",
+  "last_updated": "2026-11-01T01:51:35.408853+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Kto ma być nowym liderem KO? Polacy wskazali nazwiska",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-31/kto-ma-byc-nowym-liderem-ko-polacy-wskazali-nazwiska/",
+      "published_date": "2026-10-31T18:22:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sikorski o zachowaniu prezydenta. \"Nie ma prawa wchodzić, jak mu się podoba\"",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/trybunal-konstytucyjny-radoslaw-sikorski-komentuje-zachowanie-prezydenta-st9316262?source=rss",
+      "published_date": "2026-10-31T17:54:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Radosław Sikorski o wtargnięciu prezydenta do TK: ja bym go bez zaproszenia do MSZ nie wpuścił",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/radoslaw-sikorski-o-wtargnieciu-prezydenta-do-tk-ja-bym-go-bez-zaproszenia-do-msz-nie/pq168d4",
+      "published_date": "2026-10-31T16:40:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Chaos before the Constitutional Tribunal. MP: I was answering calls until three in the morning",
       "source": "Onet",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "\"You no longer represent Poland!\" Duda's ambassador quits his post",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Nie-reprezentuje-Pan-juz-Polski-Ambasador-z-nadania-Dudy-rzuca-stanowisko-9221443.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-30T20:39:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sławomir Mentzen with an urgent request to the president. \"We are on the verge of a coup\"",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/slawomir-mentzen-zwrocil-sie-do-prezydenta-z-prosba-jestesmy-na-progu-zamachu-stanu/phnzbx8",
-      "published_date": "2026-10-30T20:25:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ambassador's resignation. \"Continuing to perform this function is impossible\"",
+      "title": "Kosiniak-Kamysz ma pomysł na TK, wtórują mu inni. \"Alternatywa to chaos\"",
       "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-30/rezygnacja-ambasadora-dalsze-pelnienie-funkcji-niemozliwe/",
-      "published_date": "2026-10-30T20:13:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-31/kosiak-kamysz-ma-pomysl-na-tk-wtoruja-mu-inni-alternatywa-to-chaos/",
+      "published_date": "2026-10-31T18:54:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Przytoczył szacunki NATO ws. pełnoskalowej wojny. Podał przewidywaną liczbę ofiar",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-31/przytoczyl-szacunki-nato-ws-pelnoskalowej-wojny-dzienna-liczba-ofiar-szokuje/",
+      "published_date": "2026-10-31T16:44:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Michał Szułdrzyński: Poland delights the world, politicians discredit it. The war over the Constitutional Tribunal threatens our security",
@@ -186,10 +200,31 @@
       "category": "Military"
     },
     {
+      "title": "Pełniejszy obraz sytuacji na polu walki. Kestrel wesprze dowodzenie U.S Army",
+      "source": "Defence24",
+      "url": "https://defence24.pl/sily-zbrojne/pelniejszy-obraz-sytuacji-na-polu-walki-kestrel-wesprze-dowodzenie-us-army",
+      "published_date": "2026-10-31T08:00:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NATO na Morzu Czerwonym. Belgijski niszczyciel min obroniony przez francuską fregatę",
+      "source": "Defence24",
+      "url": "https://defence24.pl/sily-zbrojne/nato-na-morzu-czerwonym-belgijski-niszczyciel-min-obroniony-przez-francuska-fregate",
+      "published_date": "2026-10-31T07:00:01+00:00",
+      "category": "Military"
+    },
+    {
       "title": "A new version of the Australian transporter at the Czech fair",
       "source": "Defence24",
       "url": "https://defence24.pl/przemysl/australijski-transporter-w-nowej-odmianie-na-czeskich-targach",
       "published_date": "2026-10-31T06:00:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ważny apel do krajów bałtyckich. Pentagon o Rosji i bezpieczeństwie Europy",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/wazny-apel-do-krajow-baltyckich-pentagon-o-rosji-i-bezpieczenstwie-europy",
+      "published_date": "2026-10-31T04:30:00+00:00",
       "category": "Military"
     },
     {
@@ -246,41 +281,6 @@
       "source": "Defence24",
       "url": "https://defence24.pl/sily-zbrojne/ulepszone-kraby-trafiaja-do-wojska-wzmocnia-11-dywizje-kawalerii-pancernej",
       "published_date": "2026-10-30T14:45:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "They will adapt the bypass to the requirements of the army. They will be given 990 days to work",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/budownictwo/dostosuja-obwodnice-do-wymagan-wojska-na-prace-dostana-990-dni,1114584.html",
-      "published_date": "2026-10-30T14:25:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pierwszy polski SkyGuardian już niebawem! Szef MON podał termin",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/pierwszy-polski-skyguardian-juz-niebawem-szef-mon-podal-termin",
-      "published_date": "2026-10-30T14:00:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The largest and most expensive drone of the Polish army. The Ministry of National Defense announced the delivery date",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Najwiekszy-i-najdrozszy-dron-polskiej-armii-MON-podal-termin-dostawy-9221112.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-30T13:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The first such drone in the Polish army in January. The head of the Ministry of National Defense confirms this",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33107965,pierwszy-taki-dron-w-polskiej-armii-juz-w-styczniu-szef-mon.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-30T13:12:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fire in Rheinmetall. Machines were burning at the construction site of a drone center",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Pozar-w-Rheinmetallu-Plonely-maszyny-na-budowie-centrum-dronow-9221022.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-30T12:45:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "Dwaj ministrowie \"byli gotowi\" spotkać się z Nawrockim. Dlaczego do tego nie doszło?",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/trybunal-konstytucyjny-spotkania-u-karola-nawrockiego-dlaczego-nie-bylo-ko-st9316380?source=rss",
+      "published_date": "2026-10-31T20:57:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lawinowy wzrost skali cyberataków. Złe praktyki firm tylko pogarszają sytuację",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/tech/lawinowy-wzrost-skali-cyberatakow-zle-praktyki-firm-tylko-pogarszaja-sytuacje,1112242.html",
+      "published_date": "2026-10-31T20:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Unia uderza w azjatyckich gigantów e-commerce. Paczki z Chin będą znacznie droższe",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Unia-uderza-w-azjatyckich-gigantow-e-commerce-Paczki-z-Chin-beda-znacznie-drozsze-9221220.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-31T15:28:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Economist on the action around the Constitutional Tribunal: further polarization of the political scene, the economy will suffer",
       "source": "Rzeczpospolita",
       "url": "https://www.rp.pl/gospodarka/art45425641-ekonomista-o-akcji-wokol-tk-dalsza-polaryzacja-sceny-politycznej-gospodarka-straci",
@@ -442,6 +463,13 @@
       "source": "TVN24",
       "url": "https://tvn24.pl/biznes/moto/zapowiedzieli-zwolnienia-kilkanascie-tysiecy-etatow-st9315851?source=rss",
       "published_date": "2026-10-31T13:13:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Brexit miał dać Brytyjczykom wolność. Dziś myślą o powrocie",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gospodarka/ekspert-o-relacjach-wielkiej-brytanii-z-ue-wszystko-jest-mozliwe-ale-bedzie-trudno/rxh7lx4",
+      "published_date": "2026-10-31T12:11:00+00:00",
       "category": "Economy"
     },
     {
@@ -536,32 +564,39 @@
       "category": "Economy"
     },
     {
-      "title": "Concern on stock exchanges and the metals market. 13 must-see charts of the week",
+      "title": "Turcja ma rekordowe przychody z turystyki. Minister ujawnia, ile wydają turyści",
+      "source": "Rzeczpospolita",
+      "url": "https://turystyka.rp.pl/popularne-trendy/art45426571-turcja-ma-rekordowe-przychody-z-turystyki-minister-ujawnia-ile-wydaja-turysci",
+      "published_date": "2026-10-31T21:26:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Myszołowiec towarzyski spędził prawie 100 dni w klubie golfowym",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/tvnmeteo/ciekawostki/usa-myszolowiec-towarzyski-spedzil-prawie-100-dni-w-klubie-golfowym-st9316311?source=rss",
+      "published_date": "2026-10-31T20:10:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Premier w orędziu zabrał głos w sprawie TK. \"Gorszące zdarzenia\"",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/wiadomosci/premier-w-oredziu-zabral-glos-w-sprawie-tk-gorszace-zdarzenia/wv98vvy",
+      "published_date": "2026-10-31T19:55:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Tusk nie będzie odstawiał nogi\" vs \"już powoli koniec rządów\". Fala komentarzy po orędziu premiera",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-31/tusk-nie-bedzie-odstawial-nogi-vs-juz-powoli-koniec-rzadow-fala-komentarzy-po-oredziu-premiera/",
+      "published_date": "2026-10-31T19:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tusk uderza w prezydenta Nawrockiego: \"Agresywny osiłek\" nie może zastraszać sędziów",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Niepokoj-na-gieldach-i-rynku-metali-13-wykresow-tygodnia-ktore-trzeba-zobaczyc-9220146.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-10-31T05:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pellet prices have gone up significantly. State Forests: It's not us",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/ceny-pelletu-poszly-mocno-w-gore-lasy-panstwowe-to-nie-my,1114659.html",
-      "published_date": "2026-10-30T21:56:47+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "It smells like another exit from a construction site. There are sparks between road construction workers and the Turkish company",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/budownictwo/pachnie-kolejnym-zejsciem-z-placu-budowy-iskrzy-miedzy-polskimi-drogowcami-a-turecka-firma,1114621.html",
-      "published_date": "2026-10-30T21:16:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Inflation verifies real estate prices. Apartments are getting cheaper in four Polish cities",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/budownictwo/inflacja-weryfikuje-ceny-nieruchomosci-w-czterech-miastach-polski-mieszkania-tanieja,1114699.html",
-      "published_date": "2026-10-30T20:52:26+00:00",
-      "category": "Economy"
+      "url": "https://www.bankier.pl/wiadomosc/Tusk-uderza-w-prezydenta-Nawrockiego-Agresywny-osilek-nie-moze-zastraszac-sedziow-9221709.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-10-31T19:03:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "What is happening around the Constitutional Tribunal? Everything we know so far",
@@ -666,41 +701,6 @@
       "source": "Gazeta.pl",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,197990,33109591,morawiecki-proponuje-konstruktywne-wotum-nieufnosci-dla-rzadu.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "published_date": "2026-10-31T14:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "An urgent appeal to \"lower emotions\". The Primate of Poland reacts to the chaos around the Constitutional Tribunal",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-31/pilny-apel-o-obnizenie-emocji-prymas-polski-reaguje-na-chaos-wokol-tk/",
-      "published_date": "2026-10-31T14:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Morawiecki challenges Tusk. He wants a change of government and appoints a successor to the prime minister",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/polityka/art45425661-morawiecki-rzuca-wyzwanie-tuskowi-chce-zmiany-rzadu-i-wskazuje-nastepce-premiera",
-      "published_date": "2026-10-31T14:11:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interrupted conversation with Antoni Macierewicz. \"Criminals from Smolensk are making a fuss\"",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/goraco-przed-trybunalem-konstytucyjnym-antoni-macierewicz-tusk-niszczy-polske/vzkv8th",
-      "published_date": "2026-10-31T14:11:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Before entering the Constitutional Tribunal, Nawrocki allegedly announced that \"the president is coming.\" \"He tried to ram me and the referees\"",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33109565,nawrocki-przed-wejsciem-do-tk-mial-oglosic-ze-idzie-prezydent.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-10-31T14:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"I wanted to greet the president. He rammed us and moved on.\"",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/polska/spor-o-trybunal-konstytucyjny-sedzia-anna-korwin-piotrowska-opowiada-o-wejsciu-karola-nawrockiego-do-tk-st9315865?source=rss",
-      "published_date": "2026-10-31T13:51:55+00:00",
       "category": "Local Events"
     }
   ]
