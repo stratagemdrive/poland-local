@@ -1,8 +1,15 @@
 {
   "country": "Poland",
-  "last_updated": "2026-11-01T16:58:12.264563+00:00",
+  "last_updated": "2026-11-02T02:07:02.707732+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Polska walczy o miejsce w G20. Radosław Sikorski: wiemy, kogo trzeba przekonać",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/rynki/polska-walczy-o-miejsce-w-g20-radoslaw-sikorski-wiemy-kogo-trzeba-przekonac,1115183.html",
+      "published_date": "2026-11-01T20:03:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The European Commission spoke on the Constitutional Tribunal. There is Brussels' position",
       "source": "Polsat News",
@@ -32,10 +39,24 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Sekretarz stanu USA nie wykluczył zaproszenia Zełenskiego na szczyt G20",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33110099,sekretarz-stanu-usa-nie-wykluczyl-zaproszenia-zelenskiego-na.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-01T05:45:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "\"Poland has a lot to say.\" Sikorski with a message to Lavrov",
       "source": "Defence24",
       "url": "https://defence24.pl/geopolityka/polska-ma-duzo-do-powiedzenia-sikorski-z-przeslaniem-do-lawrowa",
       "published_date": "2026-11-01T04:45:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ławrow stanowczo na temat Polski. „Nic nie wnosi”",
+      "source": "Defence24",
+      "url": "https://defence24.pl/geopolityka/lawrow-stanowczo-na-temat-polski-nic-nie-wnosi",
+      "published_date": "2026-11-01T04:30:02+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Crisis around the Constitutional Tribunal. \"Poland is eliminating itself from the game\"",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/rynki/kryzys-wokol-trybunalu-konstytucyjnego-polska-sama-eliminuje-sie-z-gry,1114926.html",
-      "published_date": "2026-10-31T12:51:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Fierce dispute over the Constitutional Tribunal. The US ambassador comments on events in Poland",
-      "source": "Defence24",
-      "url": "https://defence24.pl/geopolityka/ostry-spor-wokol-tk-ambasador-usa-komentuje-wydarzenia-w-polsce",
-      "published_date": "2026-10-31T08:30:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The US ambassador spoke about the Constitutional Tribunal. \"We are on Poland's side\"",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/wiadomosci/kryzys-wokol-tk-ambasador-usa-zabral-glos/dk3x6tx",
-      "published_date": "2026-10-31T08:26:14+00:00",
-      "category": "Diplomacy"
+      "title": "Tajemniczy obiekt nad terytorium NATO. Pilny apel wojska, by nie wychodzić z domów",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Tajemniczy-obiekt-nad-terytorium-NATO-Pilny-apel-wojska-by-nie-wychodzic-z-domow-9221889.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-01T19:59:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Bogusław Chrabota: Only peace can save war states in the Middle East",
@@ -274,13 +281,6 @@
       "source": "Defence24",
       "url": "https://defence24.pl/przemysl/tani-dron-autonomiczny-nowy-kalasznikow-xxi-wieku",
       "published_date": "2026-10-31T09:00:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Prevention troops are still under the Constitutional Tribunal. The Head of the Ministry of Interior and Administration commented on the activities",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-31/oddzialy-prewencji-caly-czas-pod-tk-szef-mswia-odniosl-sie-do-dzialan/",
-      "published_date": "2026-10-31T08:51:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Niezbędnik przedsiębiorcy: PIT i ryczałt po Senacie * brak NIP na fakturze a odliczenie VAT * jak uniknąć kary za przekroczenie terminu? * tokeny KSeF * zakaz konkurencji dla firmy * mobbing po nowemu",
+      "source": "Rzeczpospolita",
+      "url": "https://pro.rp.pl/niezbednik-przedsiebiorcy/art45429001-niezbednik-przedsiebiorcy-pit-i-ryczalt-po-senacie-brak-nip-na-fakturze-a-odliczenie-vat-jak-uniknac-kary-za-przekroczenie-terminu-tokeny-ksef-zakaz-konkurencji-dla-firmy-mobbing-po-nowemu",
+      "published_date": "2026-11-01T21:25:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Czech engine factory in Poland? Manufacturer's declaration",
       "source": "Defence24",
       "url": "https://defence24.pl/przemysl/czeska-fabryka-silnikow-w-polsce-deklaracja-producenta",
@@ -557,11 +564,18 @@
       "category": "Economy"
     },
     {
-      "title": "Poland is a world power here. 100,000 people work in an industry worth up to PLN 750 million. people",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/przemysl/polska-jest-tu-swiatowa-potega-w-branzy-wartej-nawet-750-mln-zl-pracuje-100-tys-osob,1113336.html",
-      "published_date": "2026-11-01T06:01:00+00:00",
-      "category": "Economy"
+      "title": "Głos z Ukrainy w sprawie TK. \"Tusk praktycznie nie ma kontroli\"",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-01/glos-z-ukrainy-w-sprawie-trybunalu-konstytucyjnego-tusk-praktycznie-nie-ma-kontroli/",
+      "published_date": "2026-11-01T22:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Szokujące akty przemocy\" podczas protestu we Frankfurcie. Splądrowane sklepy i starcia z policją",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33110597,szokujace-akty-przemocy-podczas-protestu-we-frankfurcie-spladrowane.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-01T17:13:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The Kremlin is closely monitoring the crisis surrounding the Constitutional Tribunal. Medvedev mockingly about Tusk: We are not abandoning our own",
@@ -687,20 +701,6 @@
       "source": "Business Insider Polska",
       "url": "https://businessinsider.com.pl/biznes/po-bydgoskich-meblach-zostaly-gruzy-wiadomo-co-powstanie-w-tym-miejscu/xek27px",
       "published_date": "2026-11-01T13:32:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"He used force to make a spectacle.\" The Left senator attacks the president",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-01/uzyl-sily-zeby-zrobic-spektakl-senator-lewicy-uderza-w-prezydenta/",
-      "published_date": "2026-11-01T13:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The explosion destroyed the house. Firefighters rescued an injured man from the rubble",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/katowice/marianow-eksplozja-zniszczyla-dom-strazacy-wydobyli-mezczyzne-z-gruzowiska-st9316892?source=rss",
-      "published_date": "2026-11-01T13:19:16+00:00",
       "category": "Local Events"
     }
   ]
