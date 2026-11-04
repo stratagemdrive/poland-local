@@ -1,8 +1,99 @@
 {
   "country": "Poland",
-  "last_updated": "2026-11-03T18:10:43.245047+00:00",
+  "last_updated": "2026-11-04T02:52:54.605455+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Agent shopping must be safe. Visa is testing the solution in Poland",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/biznes/art45438191-zakupy-agentowe-musza-byc-bezpieczne-visa-testuje-rozwiazanie-w-polsce",
+      "published_date": "2026-11-03T21:06:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "\"International Report\". The row over the Constitutional Tribunal will not affect Polish foreign policy",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/newslettery/raport-miedzynarodowy/raport-miedzynarodowy-kryzys-polityczny-nie-wplynie-na-polska-polityke-zagraniczna/7h2p1xs",
+      "published_date": "2026-11-03T20:40:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A \"new stage\" of the dispute over the Constitutional Tribunal. \"Today was the first step\"",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/relacje-na-linii-prezydent-karol-nawrocki-premier-donald-tusk-posiedzenie-rady-bezpieczenstwa-narodowego-st9319355?source=rss",
+      "published_date": "2026-11-03T20:38:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tusk after the National Security Council: We have full consensus on the US base",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/tusk-po-rbn-mamy-pelny-konsensus-w-sprawie-bazy-usa",
+      "published_date": "2026-11-03T19:53:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tusk on the president's words: A confrontational speech with no connection with reality",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Tusk-o-slowach-prezydenta-Wystapienie-konfrontacyjne-i-bez-zwiazku-z-rzeczywistoscia-9223138.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-03T19:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "An expert on the vision of a double Tribunal. \"Karol Nawrocki had a chance to show that he is not like Andrzej Duda. \"He didn't take advantage\"",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/tylko-w-onecie/ekspert-o-wizji-zdublowanego-tk-i-tusk-i-nawrocki-maja-racje/jkmg899",
+      "published_date": "2026-11-03T19:45:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Przydacz attacks Tusk after the National Security Council meeting. \"No reflection visible\"",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-03/przydacz-uderza-w-tuska-po-posiedzeniu-rbn-nie-widac-jakiejkolwiek-refleksji/",
+      "published_date": "2026-11-03T19:34:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tusk after the meeting of the National Security Council: I offered the president a private meeting",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33114864,tusk-po-posiedzeniu-rady-bezpieczenstwa-narodowego-potencjalne.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-03T19:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Marshal of the Sejm on the president's words on the National Security Council: I felt embarrassed",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/oswiadczenie-prezydenta-karola-nawrockiego-na-rbn-wlodzimierz-czarzasty-komentuje-st9320942?source=rss",
+      "published_date": "2026-11-03T19:28:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Donald Tusk spoke after the National Security Council. \"We put a lot of effort\"",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-radzie-bezpieczenstwa-narodowego-wlozylismy-duzo-wysilku/3mz8s5e",
+      "published_date": "2026-11-03T19:21:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kierwiński revealed what happened behind the scenes of the National Security Council meeting. \"There was a strong response from the Prime Minister\"",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33114770,kierwinski-zdradzil-kulisy-posiedzenia-rbn-byla-mocna-riposta.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-03T18:48:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kierwiński on the backstage of the National Security Council: the atmosphere was tense at times",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/tvnwarszawa/srodmiescie/komentarz-ministra-po-radzie-bezpieczenstwa-narodowego-st9320898?source=rss",
+      "published_date": "2026-11-03T18:44:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Member of Parliament of the Confederation of the Crown of Poland at a meeting of the National Security Council",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/posel-konfederacji-korony-polskiej-wlodzimierz-skalik-na-posiedzeniu-rady-bezpieczenstwa-narodowego-st9320885?source=rss",
+      "published_date": "2026-11-03T18:28:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Nobody left the National Security Council. A protest is underway in front of the Presidential Palace [LIVE REPORT]",
       "source": "Onet",
@@ -53,95 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "General Assembly in the Supreme Court and the Constitutional Tribunal, Security Council in the Presidential Palace. Report by tvn24.pl",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/polska/zgromadzenie-ogolne-w-sadzie-najwyzszym-i-trybunale-konstytucyjnym-rbn-w-palacu-prezydenckim-relacja-tvn24-pl-st9320356?source=rss",
-      "published_date": "2026-11-03T13:35:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Today the National Security Council. A conversation about the permanent US base in Poland and the situation in the Constitutional Tribunal",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/dzis-rada-bezpieczenstwa-narodowego-rozmowa-o-stalej-bazie-usa-w-polsce-i-sytuacji-w-tk",
-      "published_date": "2026-11-03T09:56:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tusk will take part in the National Security Council. Despite the presence of Braun's men",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33112940,tusk-wezmie-udzial-w-radzie-bezpieczenstwa-narodowego-mimo.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-03T08:33:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The dispute over the Constitutional Tribunal enters the Prosecutor's Office, the ambassador resigns [AT THE BEGINNING OF THE DAY]",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33112239,spor-o-tk-wkracza-do-prokuratury-ambasador-rezygnuje-na-poczatek.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-03T04:30:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cyber attacks on supermarket chains. There is a reaction from Brussels",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/biznes/ze-swiata/cyberataki-na-sieci-supermarketow-jest-reakcja-brukseli-st9319034?source=rss",
-      "published_date": "2026-11-02T20:04:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "He pointed to Karol Nawrocki. Sikorski responds to Le Pen",
-      "source": "Defence24",
-      "url": "https://defence24.pl/geopolityka/wskazal-na-karola-nawrockiego-sikorski-odpowiada-le-pen",
-      "published_date": "2026-11-02T19:30:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sharp response of the KPRP after the diplomat's resignation. \"Sikorski distracts attention\"",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/polityka/art45434861-ostra-odpowiedz-kprp-po-dymisji-dyplomaty-sikorski-odwraca-uwage",
-      "published_date": "2026-11-02T19:08:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Foxconn instead of Geely. The president of EMP indicates the benefits of changing the partner in the project",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/biznes/art45434331-foxconn-zamiast-geely-prezes-emp-wskazuje-korzysci-ze-zmiany-partnera-w-projekcie",
-      "published_date": "2026-11-02T17:15:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "More ambassadors resign. The Presidential Palace corresponds to the head of the Ministry of Foreign Affairs",
+      "title": "Bags protecting against hacker attacks and Wikipedia on disk. Digital preppers are already preparing for the infocalypse",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/ambasadorzy-rezygnuja-marcin-przydacz-odpowiada-radoslawowi-sikorskiemu/l3k9szz",
-      "published_date": "2026-11-02T16:56:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://wiadomosci.onet.pl/swiat/cyfrowi-preppersi-przygotowuja-sie-na-dzien-w-ktorym-internet-sie-zalamie/982yszq",
+      "published_date": "2026-11-03T21:23:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sikorski accused Nawrocki of \"forcing ambassadors to resign.\" There is Przydacz's reaction",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33112282,sikorski-zarzucil-nawrockiemu-zmuszanie-ambasadorow-do-rezygnacji.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-02T16:49:00+00:00",
-      "category": "Diplomacy"
+      "title": "Soldiers crawl for kilometers through gas pipelines. This is what the fighting looks like in the tunnels near Kupiański",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/swiat/zolnierze-czolgaja-sie-kilometrami-przez-rurociagi-gazowe-tak-wygladaja-walki-w/5b8dhd2",
+      "published_date": "2026-11-03T20:15:57+00:00",
+      "category": "Military"
     },
     {
-      "title": "\"Aggressive bruiser\" vs. \"usurpers and puppets\". Tusk versus Nawrocki. There is going to be a fierce clash at the RBN",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,197990,33112093,agresywny-osilek-vs-uzurpatorzy-i-marionetki-tusk-kontra.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-02T15:50:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Another ambassador leaves. “It will complete its mission later this month.”",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/kolejny-ambasador-odchodzi-zakonczy-misje-jeszcze-w-tym-miesiacu",
-      "published_date": "2026-11-02T15:37:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Another ambassador resigns. Krzysztof Szczerski ends his mission to the UN",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Kolejny-ambasador-rezygnuje-Krzysztof-Szczerski-konczy-misje-przy-ONZ-9222337.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-02T15:37:00+00:00",
-      "category": "Diplomacy"
+      "title": "\"Light for the Tribunal\". Manifestations in Polish cities",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/swiatelko-dla-trybunalu-manifestacje-w-wielu-polskich-miastach-st9320814?source=rss",
+      "published_date": "2026-11-03T18:51:36+00:00",
+      "category": "Military"
     },
     {
       "title": "NATO plane over Poland. In the background, a mission around Königsberg",
@@ -162,6 +183,13 @@
       "source": "Onet",
       "url": "https://wiadomosci.onet.pl/warszawa/bron-akustyczna-przed-trybunalem-konstytucyjnym-policja-wyjasnia/qbbvtrq",
       "published_date": "2026-11-03T16:53:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "\"It's a crime against the constitution.\" Nawrocki demands that Tusk \"withdraw from the Constitutional Tribunal\" and report on the presence of the US army",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/To-zbrodnia-na-konstytucji-Nawrocki-zada-od-Tuska-wycofania-sie-z-TK-i-raportu-o-obecnosci-armii-USA-9223029.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-03T16:19:00+00:00",
       "category": "Military"
     },
     {
@@ -256,32 +284,46 @@
       "category": "Military"
     },
     {
-      "title": "More efficient training of soldiers. New Rosomaks for the Land Forces Training Center",
-      "source": "Defence24",
-      "url": "https://defence24.pl/sily-zbrojne/sprawniejsze-szkolenie-zolnierzy-nowe-rosomaki-dla-centrum-szkolenia-wojsk-ladowych",
-      "published_date": "2026-11-03T09:16:26+00:00",
-      "category": "Military"
+      "title": "Electricity prices skyrocketed again. Very high volatility on the spot market",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/ceny-pradu-znowu-wystrzelily-wartosc-hurtowa-na-spocie-srednio-znacznie-ponad-1000-zl-mwh,1115985.html",
+      "published_date": "2026-11-03T20:48:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russian attack on Ukraine. The army was on standby. Latvia is looking for a drone",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33112702,rosyjski-atak-na-ukraine-polskie-wojsko-w-gotowosci-lotwa.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-03T05:39:00+00:00",
-      "category": "Military"
+      "title": "Russia's attacks paralyze Ukraine's energy sector. Endangered nuclear power plant 190 km from Poland",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gospodarka/rosja-uderza-w-ukrainska-energetyke-zagrozenie-dla-calej-europy/7h8dsdt",
+      "published_date": "2026-11-03T20:45:10+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The military needs GPS receivers that are resistant to interference",
-      "source": "Defence24",
-      "url": "https://defence24.pl/sily-zbrojne/wojsko-potrzebuje-odbiornikow-gps-odpornych-na-zaklocenia",
-      "published_date": "2026-11-03T05:30:00+00:00",
-      "category": "Military"
+      "title": "MOL launched the installation, which burned down a year ago. The refinery is operating at full capacity",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/mol-uruchomil-instalacje-ktora-spalila-sie-rok-temu-rafineria-pracuje-z-pelna-moca,1115962.html",
+      "published_date": "2026-11-03T20:31:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russia is attacking Ukraine, Poland was securing its space. A disturbing incident in Latvia",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-03/rosja-uderza-w-ukraine-polska-reaguje-niepokojacy-incydent-na-lotwie/",
-      "published_date": "2026-11-03T04:53:00+00:00",
-      "category": "Military"
+      "title": "Will Orlen Paczka be the second player on the courier market?",
+      "source": "Rzeczpospolita",
+      "url": "https://logistyka.rp.pl/firmy/art45440841-czy-orlen-paczka-bedzie-drugim-graczem-na-rynku-kurierskim",
+      "published_date": "2026-11-03T20:03:51+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Petrostates versus electrostates. Who will win the fight for the world's energy future?",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/petropanstwa-kontra-elektropanstwa-cop31-bedzie-arena-walki-o-nowy-porzadek-energetyczny,1114169.html",
+      "published_date": "2026-11-03T20:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "30 months' salary for leaving your job. There is an offer for power plant employees",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/30-miesiecznych-pensji-za-odejscie-z-pracy-jest-oferta-dla-pracownikow-elektrowni,1115946.html",
+      "published_date": "2026-11-03T19:41:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Enea with a profit exceeding PLN 2 billion",
@@ -382,46 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "Tauron's profit exceeds PLN 1 billion. Analysts underestimated the results",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Tauron-szacuje-wynik-EBITDA-w-III-kw-na-1-821-mln-zl-wobec-1-565-4-mln-zl-konsensusu-PAP-Biznes-9222403.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-02T16:54:00+00:00",
-      "category": "Energy"
+      "title": "The Romanowski Group has opened a Lexus Radom showroom! From a small family business in Radom to the largest Lexus dealership network in Poland.",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/grupa-romanowski-otworzyla-salon-lexus-radom-od-malej-rodzinnej-firmy-w-radomiu-do/tzkfv27",
+      "published_date": "2026-11-03T23:00:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Gas prices down sharply. There is hope for a cheaper winter",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/ceny-gazu-poszly-mocno-w-dol-nowe-taryfy-coraz-blizej/4q2pt4n",
-      "published_date": "2026-11-02T16:43:42+00:00",
-      "category": "Energy"
+      "title": "Crisis around the Constitutional Tribunal. The policeman wrote a letter to the commander. Now he is facing disciplinary proceedings",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33115003,kryzys-wokol-tk-policjant-napisal-list-do-komendanta-teraz.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-03T22:06:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Who pays the most for electricity in Europe? Poland among the infamous leaders",
+      "title": "An important investment in the Port of Gdansk has been completed. They will be able to accommodate larger ships",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/kto-placi-najwiecej-za-prad-w-europie-polska-wsrod-niechlubnych-liderow,1115269.html",
-      "published_date": "2026-11-02T15:56:00+00:00",
-      "category": "Energy"
+      "url": "https://www.wnp.pl/budownictwo/wazna-inwestycja-w-porcie-gdansk-zakonczona-beda-mogly-zawijac-wieksze-statki,1116008.html",
+      "published_date": "2026-11-03T21:58:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "They predicted what would happen in Poland. This is our future",
+      "title": "The mood in the construction industry is getting worse",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/rynki/przewidzieli-co-stanie-sie-w-polsce-oto-nasza-przyszlosc,1115425.html",
-      "published_date": "2026-11-02T14:40:01+00:00",
-      "category": "Energy"
+      "url": "https://www.wnp.pl/budownictwo/nastroje-w-branzy-budowlanej-sa-coraz-gorsze,1115991.html",
+      "published_date": "2026-11-03T21:34:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "A difficult week for the residents of Poznań. There will be no electricity",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/trudny-tydzien-dla-mieszkancow-poznania-zabraknie-pradu,1115423.html",
-      "published_date": "2026-11-02T14:37:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Will the state support Sołowow on the nuclear issue at the expense of Orlen? The declarations were completely different",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/panstwo-wesprze-solowowa-ws-atomu-kosztem-orlenu-deklaracje-byly-zupelnie-inne,1115314.html",
-      "published_date": "2026-11-02T14:32:45+00:00",
-      "category": "Energy"
+      "title": "Biedronka loses in court with the Office of Competition and Consumer Protection. It's about promotions",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/biznes/handel/wyrok-biedronka-kontra-uokik-sad-ochrony-konkurencji-i-konsumentow-uznal-ze-biedronka-wprowadzala-konsumentow-w-blad-podczas-promocji-st9320906?source=rss",
+      "published_date": "2026-11-03T18:56:27+00:00",
+      "category": "Economy"
     },
     {
       "title": "Profit increase by over 200 percent. The Polish manufacturer of steel profiles boasts of its results",
@@ -529,178 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "There is a decision regarding the National Bank of Poland. We have a comment from the Minister of Finance",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/andrzej-domanski-komentuje-decyzje-donalda-tuska-zalezy-nam-na-stabilnosci/e8epsm7",
-      "published_date": "2026-11-03T14:50:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Polish Financial Supervision Authority warns against the new company. Suspected financial crime",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/KNF-ostrzega-przed-nowa-spolka-Podejrzenie-przestepstwa-finansowego-9222912.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-03T14:47:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "ETS may hit European chemicals. The industry warns about the effects of the reform",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/przemysl/ets-moze-uderzyc-w-europejska-chemie-branza-ostrzega-przed-skutkami-reformy,1115761.html",
-      "published_date": "2026-11-03T14:34:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Apple is losing control over memory costs. This will affect the price of your iPhone",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/technologie/nowe-technologie/apple-podnosi-ceny-produktow-boom-na-chipy-pamieci-odbija-sie-na-portfelach/dgb4b14",
-      "published_date": "2026-11-03T14:29:59+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "They called it the \"local Revolut\". The accounts were blocked overnight and the police are protecting UENO bank branches",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Konta-zablokowane-interweniuje-policja-Szef-banku-centralnego-Paragwaju-zrezygnowal-ze-stanowiska-9222874.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-03T14:12:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The end of dreams about the subway? Krakow encountered a big problem",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/budownictwo/koniec-marzen-o-metrze-krakow-napotkal-spory-problem,1115932.html",
-      "published_date": "2026-11-03T18:09:00+00:00",
+      "title": "US midterm elections 2026. Live results on Onet [UPDATED ARTICLE]",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/swiat/wybory-polowkowe-w-usa-2026-pierwsze-wyniki-bitwy-o-kongres-artykul-aktualizowany/72vnjjk",
+      "published_date": "2026-11-04T02:40:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Judge Maciej Mitera on the night's events at the Constitutional Tribunal. \"Assault on the President\"",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-03/sedzia-maciej-mitera-o-nocnych-wydarzeniach-w-tk-napasc-na-prezydenta/",
-      "published_date": "2026-11-03T18:07:00+00:00",
+      "title": "The Democratic Party “took back” North Carolina with Ray Cooper as senator",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/polityka/art45441441-partia-demokratyczna-odbila-karoline-polnocna-ray-cooper-senatorem",
+      "published_date": "2026-11-04T01:39:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "\"Lex K.\" in the basket. The Senate committee decided on pay limits for doctors",
+      "title": "Results of the US midterm elections. Results and latest data",
       "source": "TVN24",
-      "url": "https://tvn24.pl/zdrowie/senat-zmienia-ustawe-o-zarobkach-medykow-lex-k-wypada-st9320822?source=rss",
-      "published_date": "2026-11-03T17:44:01+00:00",
+      "url": "https://tvn24.pl/wybory-w-usa-2026/wyniki-wyborow-polowkowych-w-usa-najnowsze-dane-st9321114?source=rss",
+      "published_date": "2026-11-04T00:08:57+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Fare up for first time in 12 years. Drivers will pay more from November 14",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/logistyka/oplata-w-gore-po-raz-pierwszy-od-12-lat-kierowcy-zaplaca-wiecej-od-14-listopada,1115917.html",
-      "published_date": "2026-11-03T17:21:00+00:00",
+      "title": "The issue of impartiality in the Tribunal. Anna Korwin-Piotrowska issued a statement",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/anna-korwin-piotrowska-wydala-oswiadczenie-w-sprawie-bartlomieja-sochanskiego/w878mbt",
+      "published_date": "2026-11-03T23:32:05+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Comments after the National Security Council meeting. \"Nawrocki was afraid of the Prime Minister\", \"reprimand\" for Tusk",
+      "title": "Korwin-Piotrowska issued a statement. \"After thinking about it, I came to a conclusion\"",
       "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33114570,komentarze-po-posiedzeniu-rbn-nawrocki-bal-sie-premiera.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-03T17:15:00+00:00",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33115065,korwin-piotrowska-wydala-oswiadczenie-po-przemysleniu-tej.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-03T23:31:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "\"The nation is waiting.\" The president is rushing the government on this issue",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/narod-czeka-prezydent-pogania-rzad-ws-strategii-bezpieczenstwa-narodowego,1115811.html",
-      "published_date": "2026-11-03T17:10:00+00:00",
+      "title": "Burger King® x Pepsi Maple Zero Sugar! A maple novelty created for burgers grilled over real fire",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/burger-kingr-x-pepsi-maple-zero-sugar-klonowa-nowosc-stworzona-do-burgerow/bbjrq7w",
+      "published_date": "2026-11-03T23:00:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Meowing came from the grave. A cat rescue operation",
+      "title": "Anna Korwin-Piotrowska will file a motion to exclude her from hearing the case of Judge Bartłomiej Sochański",
       "source": "TVN24",
-      "url": "https://tvn24.pl/tvnwarszawa/okolice/radom-z-grobu-dochodzilo-miauczenie-akcja-ratowania-kota-st9320655?source=rss",
-      "published_date": "2026-11-03T17:04:30+00:00",
+      "url": "https://tvn24.pl/polska/anna-korwin-piotrowska-zlozy-wniosek-o-wylaczenie-jej-z-rozpoznania-sprawy-sedziego-bartlomieja-sochanskiego-st9321116?source=rss",
+      "published_date": "2026-11-03T22:17:57+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Karol Nawrocki accuses Donald Tusk. \"Illegal actions against the Constitutional Tribunal\"",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/prawo/nawrocki-ostro-o-tusku-zostala-juz-panu-wylacznie-przemoc/p0npdp6",
-      "published_date": "2026-11-03T17:00:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "This is the last time the decision on interest rates has been made in this way. Borrowers exposed to uncertainty",
+      "title": "They build twin bridges next to each other. Four lanes will be an alternative to the highway",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/rynki/decyzja-ws-stop-procentowych-ostatni-raz-w-takim-skladzie-kredytobiorcy-wystawieni-na-niepewnosc,1115876.html",
-      "published_date": "2026-11-03T16:53:00+00:00",
+      "url": "https://www.wnp.pl/budownictwo/buduja-blizniacze-mosty-obok-siebie-cztery-pasy-ruchu-beda-alternatywa-dla-autostrady,1116016.html",
+      "published_date": "2026-11-03T22:09:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The College of the Supreme Court against the removal of the President of the Constitutional Tribunal. Strong opposition to the resolution",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/prawo/mocne-stanowisko-sn-decyzja-wobec-tk-podwaza-porzadek-konstytucyjny/xet0qll",
-      "published_date": "2026-11-03T16:47:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The US midterm elections are underway. A majority in Congress is at stake",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/polityka/art45439971-trwaja-wybory-polowkowe-usa-stawka-wiekszosc-w-kongresie",
-      "published_date": "2026-11-03T16:42:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "She wanted to pick up her child from kindergarten. She was under the influence of amphetamines",
+      "title": "Democrats are taking back North Carolina from Republicans. US midterm elections - live coverage",
       "source": "TVN24",
-      "url": "https://tvn24.pl/opole/krapkowice-matka-pod-wplywem-amfetaminy-przyszla-do-przedszkola-po-dziecko-st9320699?source=rss",
-      "published_date": "2026-11-03T16:28:35+00:00",
+      "url": "https://tvn24.pl/wybory-w-usa-2026/wybory-polowkowe-w-usa-relacja-na-zywo-najwazniejsze-informacje-st9321060?source=rss",
+      "published_date": "2026-11-03T22:00:20+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Święczkowski and Sochański before the disciplinary court of the Constitutional Tribunal. The squad has been selected",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/prawo/zgromadzenie-pelne-emocji-ruszaja-postepowania-wobec-wladz-tk/rw9795w",
-      "published_date": "2026-11-03T16:21:38+00:00",
+      "title": "\"It's going to be good.\" Donald Tusk's entry and Jarosław Kaczyński's response",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/konflikt-w-sprawie-trybunalu-konstytucyjnego-wpis-donalda-tuska-i-odpowiedz-jaroslawa-kaczynskiego-st9321089?source=rss",
+      "published_date": "2026-11-03T21:48:49+00:00",
       "category": "Local Events"
     },
     {
-      "title": "UOKiK wins against Biedronka again. The court reduces the fine for promotion to PLN 84 million",
+      "title": "\"We need to defend Polish democracy against Tusk.\" Szydło calls on Europe to help the Constitutional Tribunal",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/UOKiK-znow-wygrywa-z-Biedronka-Sad-obniza-kare-za-promocje-do-84-mln-zl-9223025.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-03T16:16:00+00:00",
+      "url": "https://www.bankier.pl/wiadomosc/Trzeba-bronic-polskiej-demokracji-przed-Tuskiem-Szydlo-wzywa-Europe-na-pomoc-do-TK-9223173.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-03T21:33:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "They will turn the old locomotive depot into an electric bus base for almost PLN 6,900,000",
+      "title": "Germany. A suspect was arrested for ordering the arson of the Starlinków station in Poland. He had 8 phones",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33114842,niemcy-zatrzymano-domniemanego-zleceniodawce-podpalenia-stacji.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-03T21:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Here is a Polish station where domestic trains do not run. Only German languages appear on it",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/logistyka/zamienia-stara-lokomotywownie-w-baze-autobusow-elektrycznych-za-niemal-6-900-000-zl,1115867.html",
-      "published_date": "2026-11-03T16:11:00+00:00",
+      "url": "https://www.wnp.pl/logistyka/oto-polska-stacja-do-ktorej-krajowe-pociagi-nie-jezdza-pojawiaja-sie-na-niej-tylko-niemieckie,1115337.html",
+      "published_date": "2026-11-03T21:15:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Press conference of Prime Minister Donald Tusk",
+      "title": "He criticized the police action near the Constitutional Tribunal. Head of the police union facing charges",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/konferencja-prasowa-premiera-donalda-tuska/xflmrl7",
-      "published_date": "2026-11-03T16:07:37+00:00",
+      "url": "https://wiadomosci.onet.pl/kraj/lider-policyjnej-solidarnosci-krytykowal-akcje-pod-tk-uslyszal-zarzuty-dyscyplinarne/jvxb0l5",
+      "published_date": "2026-11-03T21:13:08+00:00",
       "category": "Local Events"
     },
     {
-      "title": "\"Here's the Thing\": The narrative of fire-breathing symmetrists is nothing new",
+      "title": "He wrote to the Chief of Police after the events in TK. Disciplinary proceedings were initiated against him",
       "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/kraj/art45437641-rzecz-w-tym-narracja-o-symetrystach-zionacych-ogniem-to-nic-nowego",
-      "published_date": "2026-11-03T16:00:00+00:00",
+      "url": "https://www.rp.pl/policja/art45441031-napisal-do-komendanta-glownego-policji-po-wydarzeniach-w-tk-wszczeto-wobec-niego-dyscyplinarke",
+      "published_date": "2026-11-03T21:11:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "\"Strong opposition.\" Resolution of the Supreme Court regarding Święczkowski",
+      "title": "Unusual cameras appeared in Krakow. They do not record offenses",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/logistyka/w-krakowie-pojawily-sie-nietypowe-kamery-nie-rejestruja-wykroczen,1116000.html",
+      "published_date": "2026-11-03T21:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "He criticized the police's actions before the Tribunal. Now he's in serious trouble",
       "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-03/stanowczy-sprzeciw-uchwala-sadu-najwyzszego-ws-swieczkowskiego/",
-      "published_date": "2026-11-03T15:54:00+00:00",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-03/krytykowal-dzialania-policji-przed-trybunalem-teraz-ma-powazne-klopoty/",
+      "published_date": "2026-11-03T20:52:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Disciplinary court over Bogdan Święczkowski. The squad was drawn in TK",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/sad-dyscyplinarny-nad-bogdanem-swieczkowskim-w-tk-doszlo-do-losowania-skladu/dwqlrx1",
-      "published_date": "2026-11-03T15:53:29+00:00",
+      "title": "Polish road transport will have its man in Kiev",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/logistyka/polski-transport-drogowy-bedzie-miec-swojego-czlowieka-w-kijowie,1115979.html",
+      "published_date": "2026-11-03T20:52:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Waldemar Żurek in the \"Guest of Events\" program",
+      "title": "\"Light for the Tribunal\". Protesters took to the streets in several cities",
       "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-03/waldemar-zurek-w-programie-gosc-wydarzen-4/",
-      "published_date": "2026-11-03T15:49:00+00:00",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-03/swiatelko-dla-trybunalu-protestujacy-wyszli-na-ulice-kilku-miast/",
+      "published_date": "2026-11-03T20:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six new speed cameras and two sectional speed measurements in Warsaw. There's a deal",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/tvnwarszawa/ulice/warszawa-nowe-fotoradary-i-odcinkowe-pomiary-predkosci-lokalizacje-kiedy-montaz-st9320767?source=rss",
+      "published_date": "2026-11-03T20:10:53+00:00",
       "category": "Local Events"
     }
   ]
