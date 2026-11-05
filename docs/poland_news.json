@@ -1,8 +1,22 @@
 {
   "country": "Poland",
-  "last_updated": "2026-11-04T18:23:36.922488+00:00",
+  "last_updated": "2026-11-05T03:04:37.722147+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Marek Magierowski: Donald Trump remains in the field of foreign policy",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/marek-magierowski-o-wyborach-w-usa-wplyw-na-polske-przyczyny-porazki-republikanow-st9323160?source=rss",
+      "published_date": "2026-11-04T22:29:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bishops ready for mediation. They call for an end to the conflict over the Constitutional Tribunal",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/biskupi-reaguja-na-wojne-o-tk-oferuja-politykom-mediacje/lftv41v",
+      "published_date": "2026-11-04T20:31:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The spokesman for the Ministry of Foreign Affairs responds to the detention of Łukasz Warzecha on the border with Ukraine",
       "source": "Onet",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Member of Parliament of the Confederation of the Crown of Poland at a meeting of the National Security Council",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/polska/posel-konfederacji-korony-polskiej-wlodzimierz-skalik-na-posiedzeniu-rady-bezpieczenstwa-narodowego-st9320885?source=rss",
-      "published_date": "2026-11-03T18:28:49+00:00",
-      "category": "Diplomacy"
+      "title": "Behind the scenes of the war over the Constitutional Tribunal. The special edition of \"State of Emergency\" has ended",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/kulisy-wojny-o-trybunal-konstytucyjny-specjalne-wydanie-stanu-wyjatkowego/sgcpkwq",
+      "published_date": "2026-11-04T21:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Nobody left the National Security Council. A protest is underway in front of the Presidential Palace [LIVE REPORT]",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/goracy-wtorek-w-polskiej-polityce-nawrocki-spotka-sie-z-tuskiem-na-rbn-relacja-na/rw6nj2m",
-      "published_date": "2026-11-03T17:17:10+00:00",
-      "category": "Diplomacy"
+      "title": "Turkish Air Force over Poland. Military plane in the sky",
+      "source": "Defence24",
+      "url": "https://defence24.pl/sily-zbrojne/sily-powietrzne-turcji-nad-polska-wojskowy-samolot-w-przestrzeni-powietrznej",
+      "published_date": "2026-11-04T19:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lavrov accuses the EU of prolonging the war. \"Aggressive militaristic bloc\"",
+      "source": "Defence24",
+      "url": "https://defence24.pl/geopolityka/lawrow-oskarza-ue-o-przedluzanie-wojny-agresywny-blok-militarystyczny",
+      "published_date": "2026-11-04T18:30:01+00:00",
+      "category": "Military"
     },
     {
       "title": "A tank! K2 Black Panther. What is the new Polish tank?",
@@ -263,25 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Bags protecting against hacker attacks and Wikipedia on disk. Digital preppers are already preparing for the infocalypse",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/swiat/cyfrowi-preppersi-przygotowuja-sie-na-dzien-w-ktorym-internet-sie-zalamie/982yszq",
-      "published_date": "2026-11-03T21:23:07+00:00",
-      "category": "Military"
+      "title": "Not just megawatts. Offshore builds Polish competences",
+      "source": "Rzeczpospolita",
+      "url": "https://energia.rp.pl/nowa-energia/art45447581-nie-tylko-megawaty-offshore-buduje-polskie-kompetencje",
+      "published_date": "2026-11-04T23:00:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Soldiers crawl for kilometers through gas pipelines. This is what the fighting looks like in the tunnels near Kupiański",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/swiat/zolnierze-czolgaja-sie-kilometrami-przez-rurociagi-gazowe-tak-wygladaja-walki-w/5b8dhd2",
-      "published_date": "2026-11-03T20:15:57+00:00",
-      "category": "Military"
+      "title": "Tauron has selected a contractor for the modernization of the power line",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/tauron-wybral-wykonawce-modernizacji-linii-energetycznej,1116429.html",
+      "published_date": "2026-11-04T19:57:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "\"Light for the Tribunal\". Manifestations in Polish cities",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/polska/swiatelko-dla-trybunalu-manifestacje-w-wielu-polskich-miastach-st9320814?source=rss",
-      "published_date": "2026-11-03T18:51:36+00:00",
-      "category": "Military"
+      "title": "Orlen sends a strong signal to Vilnius. The future of the Mažeikiai refinery hangs in the balance",
+      "source": "Rzeczpospolita",
+      "url": "https://energia.rp.pl/ropa/art45447401-orlen-wysyla-mocny-sygnal-do-wilna-przyszlosc-rafinerii-w-mozejkach-wisi-na-wlosku",
+      "published_date": "2026-11-04T19:45:39+00:00",
+      "category": "Energy"
     },
     {
       "title": "Gas buses are an important part of the fleet in Warsaw. There is a contract for the supply of raw materials",
@@ -403,25 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "Electricity prices skyrocketed again. Very high volatility on the spot market",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/ceny-pradu-znowu-wystrzelily-wartosc-hurtowa-na-spocie-srednio-znacznie-ponad-1000-zl-mwh,1115985.html",
-      "published_date": "2026-11-03T20:48:00+00:00",
-      "category": "Energy"
+      "title": "Scale, flexibility and competitiveness. The 2026 Food Market and Trade Forum is ahead of us",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/handel/art45447551-skala-elastycznosc-i-konkurencyjnosc-przed-nami-forum-rynku-spozywczego-i-handlu-2026",
+      "published_date": "2026-11-04T23:00:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Russia's attacks paralyze Ukraine's energy sector. Endangered nuclear power plant 190 km from Poland",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/rosja-uderza-w-ukrainska-energetyke-zagrozenie-dla-calej-europy/7h8dsdt",
-      "published_date": "2026-11-03T20:45:10+00:00",
-      "category": "Energy"
+      "title": "Mine water can be used to cool data centers",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/wody-kopalniane-bedzie-mozna-wykorzystac-do-chlodzenia-centrow-danych,1116468.html",
+      "published_date": "2026-11-04T21:59:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "MOL launched the installation, which burned down a year ago. The refinery is operating at full capacity",
+      "title": "A blue wave in politics, and green on Wall Street",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Niebieska-fala-w-polityce-a-na-Wall-Street-zielono-9223866.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-04T21:05:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "They are not the greatest threat to Europe. They point to a common \"enemy\"",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/mol-uruchomil-instalacje-ktora-spalila-sie-rok-temu-rafineria-pracuje-z-pelna-moca,1115962.html",
-      "published_date": "2026-11-03T20:31:00+00:00",
-      "category": "Energy"
+      "url": "https://www.wnp.pl/przemysl/traktujemy-ich-jak-konkurencje-a-oni-chca-partnerstwa-nasze-wspolne-zagrozenie-to-chiny,1113939.html",
+      "published_date": "2026-11-04T21:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Polish company of the Swiss concern opened a new factory in Łódź",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/przemysl/polska-spolka-szwajcarskiego-koncernu-otworzyla-nowa-fabryke-w-lodzi,1116441.html",
+      "published_date": "2026-11-04T20:42:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Democrats take power in Congress. Investors are concerned about the AI boom",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/biznes/art45443891-demokraci-przejmuja-wladze-w-kongresie-inwestorzy-obawiaja-sie-o-boom-ai",
+      "published_date": "2026-11-04T18:27:28+00:00",
+      "category": "Economy"
     },
     {
       "title": "Big business overlooked by Big Tech. An Irish startup wants to take advantage of the opportunity",
@@ -522,185 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "The Monetary Policy Council decided on interest rates. The market forecasts growth",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/rpp-trzyma-kurs-jest-decyzja-o-stopach-procentowych/yh7kp9f",
-      "published_date": "2026-11-04T14:05:20+00:00",
-      "category": "Economy"
+      "title": "The horse threw the woman from the saddle and ran away. This was the end of the action in Warsaw",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/warszawa/kon-zrzucil-kobiete-z-siodla-i-uciekl-taki-byl-final-akcji-w-warszawie/6n31zqy",
+      "published_date": "2026-11-05T01:05:11+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Interest rates in Poland. \"Price pressure is not decreasing\"",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/biznes/z-kraju/stopy-procentowe-w-polsce-w-listopadzie-2026-rpp-podjela-decyzje-st9321601?source=rss",
-      "published_date": "2026-11-04T13:59:59+00:00",
-      "category": "Economy"
+      "title": "New air connection between Poznań and the port of Basel-Mulhouse-Freiburg - the first plane took off",
+      "source": "Rzeczpospolita",
+      "url": "https://turystyka.rp.pl/lotniska/art45444691-nowe-polaczenie-lotnicze-poznania-z-portem-bazylea-miluza-fryburg-wylecial-pierwszy-samolot",
+      "published_date": "2026-11-04T22:27:42+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Inflation above target and rates unchanged. The MPC does not change its mind",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-ponad-celem-a-stopy-bez-zmian-RPP-nie-zmienia-zdania-9223461.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-04T13:59:00+00:00",
-      "category": "Economy"
+      "title": "Duda did not accept the oath from him. The court dismissed the suit of the would-be judge of the Constitutional Tribunal",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33117223,duda-nie-przyjal-od-niego-slubowania-sad-oddalil-pozew-niedoszlego.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-04T21:46:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Investing in times of uncertainty. Warsaw Investment Summit 2026 is behind us",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Inwestowanie-w-czasach-niepewnosci-Za-nami-Warsaw-Investment-Summit-2026-9223485.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-04T13:30:00+00:00",
-      "category": "Economy"
+      "title": "Officers with weapons in the Warsaw metro. The police issued a statement",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33117222,funkcjonariusze-z-bronia-w-warszawskim-metrze-policja-wydala.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-04T21:15:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Polish arms company earned PLN 0 this year. The loss is getting bigger and bigger",
+      "title": "Reset of the Constitutional Tribunal? Minister Kierwiński makes the matter clear",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/minister-kierwinski-o-propozycji-resetu-tk-nie-ma-takiej-mozliwosci/he056vz",
+      "published_date": "2026-11-04T21:02:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The industry is disappointed with the delay in changes to the Railway Fund. \"Our lives are threatened from wall to wall\"",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/polska-firma-zbrojeniowa-zarobila-w-tym-roku-0-zl-strata-jest-za-to-coraz-wieksza,1116218.html",
-      "published_date": "2026-11-04T13:29:54+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Real estate and significant savings. Anna Korwin-Piotrowska has such wealth",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/taki-majatek-ma-anna-korwin-piotrowska/pzhc4j5",
-      "published_date": "2026-11-04T12:55:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Return on the arrest of the son of the Norwegian Queen",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/swiat/norwegia-marius-borg-hoeiby-syn-krolowej-pozostanie-w-areszcie-domowym-jest-decyzja-sadu-st9322853?source=rss",
-      "published_date": "2026-11-04T18:09:14+00:00",
+      "url": "https://www.wnp.pl/budownictwo/branza-rozczarowana-opoznieniem-zmian-w-funduszu-kolejowym-grozi-nam-zycie-od-sciany-do-sciany,1116450.html",
+      "published_date": "2026-11-04T21:01:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The new president of CPK for \"Rzeczpospolita\": To build Port Polska you have to be a fighter",
+      "title": "Serious accident at a railway crossing. Collision of a truck with a freight train",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/trojmiasto/grozny-wypadek-w-dziemianach-pociag-towarowy-zderzyl-sie-z-ciezarowka/lmbsr4d",
+      "published_date": "2026-11-04T20:50:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Head-on vehicle collision in Jarocin. One person is dead",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/poznan/tragiczny-wypadek-w-jarocinie-samochod-osobowy-zderzyl-sie-z-ciezarowka/h0rq7d9",
+      "published_date": "2026-11-04T20:48:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Motor carriers are \"earned\"",
       "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/transport/art45443671-nowy-prezes-cpk-dla-rzeczpospolitej-zeby-zbudowac-port-polska-trzeba-byc-fighterem",
-      "published_date": "2026-11-04T18:00:00+00:00",
+      "url": "https://logistyka.rp.pl/drogowy/art45447801-przewoznicy-samochodowi-sa-zarobieni",
+      "published_date": "2026-11-04T20:43:33+00:00",
       "category": "Local Events"
     },
     {
-      "title": "A passenger car collided with a police car. Three people are injured, the road is blocked",
+      "title": "A train collides with a truck, the road is blocked",
       "source": "TVN24",
-      "url": "https://tvn24.pl/krakow/barcice-zderzenie-samochodu-osobowego-z-radiowozem-trzy-osoby-ranne-st9322887?source=rss",
-      "published_date": "2026-11-04T17:58:27+00:00",
+      "url": "https://tvn24.pl/trojmiasto/dziemiany-zderzenie-pociagu-z-ciezarowka-na-przejezdzie-kolejowym-st9323069?source=rss",
+      "published_date": "2026-11-04T20:33:01+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Destabilization of Poland with migrants? Deputy Minister on cooperation between Russia and Belarus",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/destabilizacja-polski-migrantami-wiceminister-o-wspolpracy-rosji-i-bialorusi",
-      "published_date": "2026-11-04T17:30:00+00:00",
+      "title": "Explosion and fire of a single-family house in Greater Poland. They are injured",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/poznan/potezny-wybuch-w-domu-w-kaczorach-dwie-osoby-zostaly-ranne/fvvq31y",
+      "published_date": "2026-11-04T20:15:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "There will be another General Assembly of Constitutional Tribunal Judges. There is a statement from Anna Korwin-Piotrowska",
+      "title": "A revolution at vehicle inspection stations. The government wants to photograph every car",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/logistyka/rewolucja-na-stacjach-kontroli-pojazdow-rzad-chce-fotografowac-kazde-auto,1116345.html",
+      "published_date": "2026-11-04T20:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Republican defeat. DeSantis: This is a disaster that will hurt for decades",
       "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33116937,bedzie-kolejne-zgromadzenie-ogolne-sedziow-tk-jest-komunikat.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-04T17:30:00+00:00",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33117164,porazka-republikanow-desantis-to-katastrofa-ktora-bedzie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-04T19:56:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Korwin-Piotrowska: we have set the date of the next General Assembly of Judges of the Constitutional Tribunal",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/polska/kolejne-zgromadzenie-ogolne-w-trybunale-konstytucyjnym-oglosila-je-sedzia-anna-korwin-piotrowska-st9322856?source=rss",
-      "published_date": "2026-11-04T17:26:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "There will be another meeting of judges of the Constitutional Tribunal",
+      "title": "Andrzej Duda did not take the oath from him. Court: did not become a judge of the Constitutional Tribunal",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/bedzie-kolejne-zgromadzenie-sedziow-trybunalu-konstytucyjnego/8w6hvts",
-      "published_date": "2026-11-04T17:22:02+00:00",
+      "url": "https://wiadomosci.onet.pl/kraj/andrzej-duda-nie-odebral-od-niego-slubowania-sad-nie-zostal-sedzia-tk/07n50ee",
+      "published_date": "2026-11-04T19:49:49+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Sentence after a brutal murder in an allotment plot. \"You are demoralized\"",
+      "title": "The historic headquarters of the capital's police will undergo renovation",
       "source": "TVN24",
-      "url": "https://tvn24.pl/lodz/lodz-brutalne-zabojstwo-na-dzialkach-jest-pan-zdemoralizowany-st9322838?source=rss",
-      "published_date": "2026-11-04T17:19:48+00:00",
+      "url": "https://tvn24.pl/tvnwarszawa/srodmiescie/zabytkowy-palac-mostowskich-bedacy-siedziba-stolecznej-policji-przejdzie-remont-st9322992?source=rss",
+      "published_date": "2026-11-04T19:47:54+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Anna Korwin-Piotrowska convenes the next General Assembly of Judges of the Constitutional Tribunal",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/polityka/art45447251-anna-korwin-piotrowska-zwoluje-kolejne-zgromadzenie-ogolne-sedziow-tk",
-      "published_date": "2026-11-04T17:19:00+00:00",
+      "title": "Minister of Justice: I will deliver a copy of the constitution to the president's office",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/minister-sprawiedliwosci-waldemar-zurek-przekaze-egzemplarz-konstytucji-do-kancelarii-prezydenta-st9322941?source=rss",
+      "published_date": "2026-11-04T19:31:04+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Gibała is cleaning up the town hall. He dismissed the students' spokeswoman",
+      "title": "Święczkowski without access to the Constitutional Tribunal. \"Maybe I'll rent an office in the city\"",
       "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33116696,gibala-robi-porzadki-w-ratuszu-odwolal-ze-stanowiska-rzeczniczke.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-04T17:14:00+00:00",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33117082,swieczkowski-bez-wstepu-do-trybunalu-konstytucyjnego-moze.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-04T19:27:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Over 400 offenses and 200 fines after the \"Hyena\" and \"Znicz\" actions",
+      "title": "Elon Musk is one of the biggest losers of the US elections",
       "source": "TVN24",
-      "url": "https://tvn24.pl/tvnwarszawa/srodmiescie/wszystkich-swietych-w-warszawie-ponad-400-wykroczen-i-200-mandatow-bilans-strazy-miejskiej-st9322762?source=rss",
-      "published_date": "2026-11-04T17:06:28+00:00",
+      "url": "https://tvn24.pl/biznes/ze-swiata/usa-elon-musk-jednym-z-najwiekszych-przegranych-wyborow-st9322981?source=rss",
+      "published_date": "2026-11-04T19:24:45+00:00",
       "category": "Local Events"
     },
     {
-      "title": "NSA: dispute over the transcription of birth certificates of same-sex children without a breakthrough",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/prawo-rodzinne/art45444621-nsa-spor-o-transkrypcje-aktow-urodzenia-dzieci-osob-tej-samej-plci-bez-przelomu",
-      "published_date": "2026-11-04T17:00:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Doctor: Men could live longer, but you can't wait for them to enter the system only after the first heart attack",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/nauka/lekarka-mezczyzni-nie-powinni-trafiac-do-systemu-dopiero-po-pierwszym-zawale/rmdyr4m",
-      "published_date": "2026-11-04T16:56:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Collision of a passenger car with a police car in Barcice. Blocked DK87",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/krakow/zderzenie-samochodu-osobowego-z-radiowozem-w-barcicach-zablokowana-dk87/b0epz18",
-      "published_date": "2026-11-04T16:38:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Human fetuses on a plot in Lutoryż. There is already an opinion from court experts",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33116589,ludzkie-plody-na-dzialce-w-lutoryzu-jest-juz-opinia-bieglych.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-04T16:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Metsola calls on MEPs not to rely on AI when drafting legislation",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/politico/metsola-apeluje-do-europoslow-by-nie-polegali-na-ai-podczas-opracowywania-aktow/273m9s6",
-      "published_date": "2026-11-04T16:24:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Orlen a red beacon of WIG20. He did not take part in the recovery after the US elections",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-czerwona-latarnia-WIG20-Nie-wzial-udzialu-w-odreagowaniu-po-wyborach-w-USA-9223715.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-04T16:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The court will need to consider the division of custody between mom and dad. Shared custody will be included in the code",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/prawo-rodzinne/art45442951-sad-bedzie-musial-rozwazyc-podzial-opieki-miedzy-mame-i-tate-piecza-wspoldzielona-trafi-do-kodeksu",
-      "published_date": "2026-11-04T15:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The expansion of A2 is starting. There will be a third and fourth lane, but we will drive at 70 km/h for two years",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Rusza-rozbudowa-A2-Powstanie-trzeci-i-czwarty-pas-ale-przez-dwa-lata-pojedziemy-70-km-h-9223693.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-04T15:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "An explosion in a forester's lodge and the death of a man. Prosecutor's office decision",
+      "title": "Fatal accident in Jarocin. The driver is dead",
       "source": "TVN24",
-      "url": "https://tvn24.pl/tvnwarszawa/okolice/wybuch-w-lesniczowce-pod-przasnyszem-i-smierc-mezczyzny-prokuratura-o-przyczynach-st9322655?source=rss",
-      "published_date": "2026-11-04T15:35:34+00:00",
+      "url": "https://tvn24.pl/poznan/jarocin-zderzenie-samochodu-z-ciezarowka-nie-zyje-kierowca-pasazer-ranny-st9322979?source=rss",
+      "published_date": "2026-11-04T19:00:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Explosion and fire in a railway guard's house. One person dead, a firefighter injured",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/poznan/kaczory-wybuch-gazu-w-domu-dwie-osoby-ranne-st9322969?source=rss",
+      "published_date": "2026-11-04T18:52:02+00:00",
       "category": "Local Events"
     }
   ]
