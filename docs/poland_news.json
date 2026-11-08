@@ -1,8 +1,15 @@
 {
   "country": "Poland",
-  "last_updated": "2026-11-07T16:42:04.014870+00:00",
+  "last_updated": "2026-11-08T02:01:39.667558+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Foreign consulates warn after the attack in Krakow. Urgent messages for citizens",
+      "source": "Defence24",
+      "url": "https://defence24.pl/geopolityka/zagraniczne-konsulaty-ostrzegaja-po-zamachu-w-krakowie-pilne-komunikaty-dla-obywateli",
+      "published_date": "2026-11-07T20:30:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Foreign investments in the EU are in decline. The US limits its involvement",
       "source": "Bankier.pl",
@@ -137,11 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The CJEU overturned the judgment regarding state aid for KLM worth EUR 3.4 billion",
+      "title": "The Irish helped after the attack in Krakow. They rescued the wounded in the Market Square",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/swiat/irlandczycy-pomagali-po-ataku-w-krakowie-ratowali-rannych-na-rynku/s0hchb7",
+      "published_date": "2026-11-07T22:47:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Michał Szułdrzyński: Attack in Krakow. Nothing can be the same in Poland anymore",
       "source": "Rzeczpospolita",
-      "url": "https://turystyka.rp.pl/linie-lotnicze/art45454101-tsue-uchylil-wyrok-w-sprawie-pomocy-publicznej-dla-klm-o-wartosci-3-4-mld-euro",
-      "published_date": "2026-11-06T00:01:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.rp.pl/komentarze/art45459801-michal-szuldrzynski-zamach-w-krakowie-w-polsce-nic-juz-nie-moze-byc-takie-samo",
+      "published_date": "2026-11-07T22:35:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "United Arab Emirates Air Force over Poland",
+      "source": "Defence24",
+      "url": "https://defence24.pl/sily-zbrojne/sily-powietrzne-zjednoczonych-emiratow-arabskich-nad-polska",
+      "published_date": "2026-11-07T21:30:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Weapon from the attack in Krakow. What is AR-15 and why does it evoke such strong emotions",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/przestepczosc/art45459681-bron-z-zamachu-w-krakowie-czym-jest-ar-15-i-dlaczego-budzi-tak-silne-emocje",
+      "published_date": "2026-11-07T20:48:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Shooting in Krakow. The perpetrator used a rifle similar to an AR-15",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33122070,strzelanina-w-krakowie-sprawca-uzyl-karabinka-zblizonego-do.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-07T20:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The most tragic mass shootings in the world by single attackers",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/przestepczosc/art45459701-najtragiczniejsze-masowe-strzelaniny-na-swiecie-pojedynczych-zamachowcow",
+      "published_date": "2026-11-07T20:45:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "After the tragic attack in Krakow. This is what you should do when you hear gunshots",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/przestepczosc/art45459671-po-tragicznym-zamachu-w-krakowie-tak-nalezy-sie-zachowac-gdy-slyszysz-strzaly",
+      "published_date": "2026-11-07T20:21:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Will Trump attack Cuba? Poland in the heart of the chip war",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/swiat/art45455571-czy-trump-zaatakuje-kube-polska-w-sercu-wojny-o-chipy",
+      "published_date": "2026-11-07T19:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The assassin's weapon. What was he shooting with?",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/bron-zamachowca-z-czego-strzelal",
+      "published_date": "2026-11-07T17:48:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The bomber was not a soldier of the Polish Army",
+      "source": "Defence24",
+      "url": "https://defence24.pl/sily-zbrojne/zamachowiec-nie-byl-zolnierzem-wojska-polskiego",
+      "published_date": "2026-11-07T17:40:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Terrorist attack in Krakow. There is a shocking recording",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/zamach-terrorystyczny-w-krakowie-jest-wstrzasajace-nagranie",
+      "published_date": "2026-11-07T16:50:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Norwegian weapons module for K2PL, or how the Polish defense industry lost an important contract",
@@ -204,83 +281,6 @@
       "source": "Defence24",
       "url": "https://defence24.pl/przemysl/czym-jest-pirana-nowy-drapieznik-tureckich-wod-zadebiutowal-w-armii",
       "published_date": "2026-11-07T06:00:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kierwiński's defense in the Sejm, calls for \"neo-judges\" [AT THE BEGINNING OF THE DAY]",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33121082,obrona-kierwinskiego-w-sejmie-wezwania-dla-neosedziow-na.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-07T05:45:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The army issues mobilization cards to Poles. What do the different colors mean?",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/wojsko-wydaje-polakom-karty-mobilizacyjne-co-oznaczaja-poszczegolne-kolory",
-      "published_date": "2026-11-07T04:30:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The head of the Polish Ministry of National Defense will visit the Pentagon. Pete Hegseth will receive it",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/dyplomacja/art45458211-szef-polskiego-mon-uda-sie-z-wizyta-do-pentagonu-przyjmie-go-pete-hegseth",
-      "published_date": "2026-11-06T21:58:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Pentagon issued a statement. This is about Władysław Kosiniak-Kamysz's visit to the USA",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/swiat/komunikat-pentagonu-chodzi-o-spotkanie-z-wladyslawem-kosiniakiem-kamyszem/cn5hzhr",
-      "published_date": "2026-11-06T21:34:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bilateral defense agreements. Poland at the European forefront",
-      "source": "Defence24",
-      "url": "https://defence24.pl/geopolityka/bilateralne-umowy-obronne-polska-w-europejskiej-czolowce",
-      "published_date": "2026-11-06T19:30:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New high mobility vehicles for the army",
-      "source": "Defence24",
-      "url": "https://defence24.pl/technologie/nowe-pojazdy-wysokiej-mobilnosci-dla-wojska",
-      "published_date": "2026-11-06T19:00:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Local governments collected billions from the KPO. Soon there will be even more money",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/samorzady-ruszyly-po-pieniadze-z-kpo-rzad-dzieli-unijne-miliardy-na-bezpieczenstwo-i-obrone,1117158.html",
-      "published_date": "2026-11-06T18:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AI from a \"technationalist\" in the Polish army? The Ministry of National Defense wants to quietly sign a contract with Palantir",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33120973,ai-od-technacjonalisty-w-polskim-wojsku-mon-chce-po-cichu.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-06T17:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Uniformed officers will gain new privileges. Their families are also on the list",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Mundurowi-zyskaja-nowe-przywileje-Na-liscie-takze-ich-rodziny-9225225.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-06T16:54:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Castling at the top of the army. Generals and senior officers with promotions",
-      "source": "Rzeczpospolita",
-      "url": "https://radar.rp.pl/wojsko-polskie/art45456521-roszady-na-szczytach-armii-generalowie-i-oficerowie-wyzsi-z-awansami",
-      "published_date": "2026-11-06T16:39:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "European \"long arms\" are getting closer to the F-35",
-      "source": "Defence24",
-      "url": "https://defence24.pl/przemysl/europejskie-dlugie-rece-coraz-blizej-f-35",
-      "published_date": "2026-11-06T16:15:01+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "The attack in Krakow may have far-reaching consequences. Poland faces an important test",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/rynki/atak-w-krakowie-moze-miec-daleko-idace-skutki-przed-polska-wazny-sprawdzian,1117527.html",
+      "published_date": "2026-11-07T18:18:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "AI is increasingly entering business. Employees can't keep up with changes",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/AI-coraz-mocniej-wchodzi-do-biznesu-Pracownicy-nie-nadazaja-za-zmianami-9221579.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-07T17:00:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "He was 20 years old and got a contract for $300 million. This is how the arms trade works",
       "source": "Business Insider Polska",
       "url": "https://businessinsider.com.pl/wideo/handel-bronia-polityka-i-wielkie-pieniadze-historia-davida-packouza/5mq5wj9",
@@ -536,6 +550,13 @@
       "category": "Economy"
     },
     {
+      "title": "How do young people really invest? Quick profits, emotions and a lesson from the stock market",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Jak-naprawde-inwestuja-mlodzi-Szybkie-zyski-emocje-i-lekcja-z-gieldy-9224857.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-07T05:00:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Panic and surprise in the markets, and the world returns to rate increases",
       "source": "Bankier.pl",
       "url": "https://www.bankier.pl/wiadomosc/Panika-i-zaskoczenie-na-rynkach-a-swiat-wraca-do-podwyzek-stop-9223540.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -543,164 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Bitcoin for a million dollars, the end of old cycles and the Polish disaster. Experts on the crypto market",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Bitcoin-za-milion-dolarow-koniec-starych-cykli-i-polska-katastrofa-Eksperci-o-rynku-krypto-9225023.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-07T05:00:00+00:00",
-      "category": "Economy"
+      "title": "Shooting on the Main Square in Krakow. Cab drivers among the injured",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/krakow/strzelanina-w-krakowie-dorozkarze-wsrod-poszkodowanych/t4kn7lj",
+      "published_date": "2026-11-08T01:19:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "AI and Polish specialists are to conquer the West. The Wrocław-based company reveals its plans",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/AI-i-polscy-specjalisci-maja-podbic-Zachod-Wroclawska-firma-ujawnia-plany-9224839.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-07T05:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pomerania as seen in \"The Witcher\" and \"Game of Thrones\". Tourism enters the world of fantasy",
+      "title": "Short-term rental returns to the Parliament. Senators defending the rights of apartment owners",
       "source": "Rzeczpospolita",
-      "url": "https://turystyka.rp.pl/nowe-trendy/art45458291-pomorskie-jak-z-wiedzmina-i-gry-o-tron-turystyka-wkracza-do-swiata-fantasy",
-      "published_date": "2026-11-06T23:04:04+00:00",
-      "category": "Economy"
+      "url": "https://turystyka.rp.pl/apartamenty/art45459841-najem-krotkoterminowy-wraca-do-sejmu-senatorowie-w-obronie-praw-wlascicieli-mieszkan",
+      "published_date": "2026-11-08T00:52:24+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "New information from the police. There were two perpetrators of the shooting in Krakow",
+      "title": "Operation of the services in Ostrowiec Świętokrzyski. New information",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/krakow/nowe-informacje-od-policji-sprawcow-strzelaniny-w-krakowie-bylo-dwoch/b2b7wej",
-      "published_date": "2026-11-07T16:37:33+00:00",
+      "url": "https://wiadomosci.onet.pl/kraj/strzelanina-w-krakowie-nowe-informacje-z-ostrowca-swietokrzyskiego/8l087xe",
+      "published_date": "2026-11-08T00:02:13+00:00",
       "category": "Local Events"
     },
     {
-      "title": "This is how the perpetrator of the shooting in Krakow moved [MAP]",
+      "title": "The world sympathizes with Poland after the shooting in Krakow. Condolences are flowing from many sides",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/krakow/smiertelna-strzelanina-w-krakowie-tak-poruszal-sie-sprawca-mapa/c6x8bs1",
-      "published_date": "2026-11-07T16:28:37+00:00",
+      "url": "https://wiadomosci.onet.pl/kraj/strzelanina-w-krakowie-swiat-solidaryzuje-sie-z-polska/h6yrxvy",
+      "published_date": "2026-11-07T23:38:30+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Police: the perpetrator of the shooting in Krakow is a Pole",
+      "title": "Krakow in shock after the attack. \"A blow to the heart of the city\"",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/krakow/policja-sprawca-strzelaniny-w-krakowie-to-polak/6mkgggw",
-      "published_date": "2026-11-07T16:28:31+00:00",
+      "url": "https://wiadomosci.onet.pl/tylko-w-onecie/krakow-w-szoku-po-zamachu-cios-w-samo-serce-miasta/n55f2qt",
+      "published_date": "2026-11-07T23:30:17+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Shooting in Krakow. Police: According to preliminary information, there were two perpetrators",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33121878,strzelanina-w-krakowie-policja-wedlug-wstepnych-informacji.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-07T16:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shooting in Krakow. Latest information [REPORT]",
+      "title": "National mourning has begun after the shooting in Krakow",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/krakow/strzelanina-w-krakowie-najnowsze-informacje-relacja/p16e8gh",
-      "published_date": "2026-11-07T16:26:29+00:00",
+      "url": "https://wiadomosci.onet.pl/kraj/strzelanina-na-rynku-glownym-w-krakowie-o-polnocy-rozpoczela-sie-zaloba/y3mfmme",
+      "published_date": "2026-11-07T23:20:34+00:00",
       "category": "Local Events"
     },
     {
-      "title": "World media about the attack in Krakow. What do they write about the shooter and the victims abroad?",
+      "title": "Supreme Court: attorneys' e-letters do not require copies",
       "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/swiat/art45459341-swiatowe-media-o-zamachu-w-krakowie-co-pisza-o-strzelcu-i-ofiarach-za-granica",
-      "published_date": "2026-11-07T16:25:59+00:00",
+      "url": "https://www.rp.pl/w-kancelariach/art45457131-sad-najwyzszy-e-pisma-adwokatow-nie-wymagaja-odpisow",
+      "published_date": "2026-11-07T23:18:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Shooting in Krakow. The city's mayor, Łukasz Gibała, appeals for calm",
+      "title": "Six people died on the Main Square in Krakow. The attacker was injured and detained",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/przestepczosc/art45459821-szesc-osob-zginelo-na-rynku-glownym-w-krakowie-napastnik-ranny-i-zatrzymany",
+      "published_date": "2026-11-07T23:06:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Urgent call from firefighters. Blood needed for an injured policeman from Krakow",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/strzelanina-w-krakowie-prezydent-miasta-lukasz-gibala-apeluje-o-spokoj/t9q5r09",
-      "published_date": "2026-11-07T16:24:35+00:00",
+      "url": "https://wiadomosci.onet.pl/kraj/strzelanina-na-rynku-glownym-w-krakowie-strazacy-apeluja-o-pomoc/jwwh9fl",
+      "published_date": "2026-11-07T22:13:43+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Police: There were two perpetrators of the shooting in Krakow",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-07/policja-sprawcow-strzelaniny-w-krakowie-bylo-dwoch/",
-      "published_date": "2026-11-07T16:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New recordings from the shooting in Krakow. The police shot the attacker",
+      "title": "Tusk reveals new facts about the attack in Krakow",
       "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/nowe-nagrania-ze-strzelaniny-w-krakowie-policja-postrzelila-napastnika",
-      "published_date": "2026-11-07T16:16:07+00:00",
+      "url": "https://defence24.pl/polityka-obronna/tusk-ujawnia-nowe-fakty-o-zamachu-w-krakowie-trzy-ciala-w-domu-sprawcy",
+      "published_date": "2026-11-07T22:01:09+00:00",
       "category": "Local Events"
     },
     {
-      "title": "What kind of rifle did the perpetrator of the attack in Krakow use?",
+      "title": "The Prime Minister after briefing the services in Krakow. Three more victims, national mourning",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/bezpieczenstwo/premier-po-odprawie-sluzb-w-krakowie-trzy-kolejne-ofiary-zaloba-narodowa,1117610.html",
+      "published_date": "2026-11-07T21:57:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Donald Tusk reveals the names of injured policemen. \"These are real heroes\"",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/jakiego-karabinu-uzyl-sprawca-zamachu-w-krakowie/eskc8sq",
-      "published_date": "2026-11-07T16:10:42+00:00",
+      "url": "https://wiadomosci.onet.pl/kraj/donald-tusk-ujawnia-nazwiska-rannych-policjantow-to-prawdziwi-bohaterowie/bn1pd8x",
+      "published_date": "2026-11-07T21:36:17+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The moment of arrest of the perpetrator of the shooting in Krakow. The policeman fires shots",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/krakow/dramatyczne-nagranie-z-krakowa-widac-moment-postrzelenia-napastnika/gmc5jxr",
-      "published_date": "2026-11-07T16:09:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shooting in Krakow. Prime Minister Tusk talks about the attack",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/strzelanina-w-krakowie-premier-tusk-mowi-o-zamachu",
-      "published_date": "2026-11-07T16:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "He witnessed a shooting in Krakow. \"He shot at people from a car\"",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-07/byl-swiadkiem-strzelaniny-w-krakowie-strzelal-z-samochodu-w-ludzi/",
-      "published_date": "2026-11-07T15:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shooting in Krakow. The president and prime minister react",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33121809,strzelanina-w-krakowie-prezydent-i-premier-reaguja.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-07T15:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"I expect a full explanation.\" The president reacts to the tragedy in Krakow",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-07/tragiczne-wydarzenia-w-krakowie-prezydent-zabral-glos/",
-      "published_date": "2026-11-07T15:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shot after shot and chaos. Eyewitnesses to the shooting in Krakow",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-07/strzal-za-strzalem-i-chaos-naoczni-swiadkowie-o-strzelaninie-w-krakowie/",
-      "published_date": "2026-11-07T15:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New findings after the shooting in Krakow. The perpetrator allegedly acted alone",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/nowe-ustalenia-po-strzelaninie-w-krakowie-sprawca-mial-dzialac-sam/hl3k1vl",
-      "published_date": "2026-11-07T15:34:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shooting in Krakow. The head of the Ministry of Interior and Administration goes to the site of the tragedy",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/strzelanina-w-krakowie-szef-mswia-jedzie-na-miejsce-tragedii/v9cfnfv",
-      "published_date": "2026-11-07T15:33:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shooting on the Main Square in Krakow. Donald Tusk writes about the attack, Mateusz Morawiecki about the massacre",
+      "title": "Donald Tusk: The bodies of three people were found in the house of the attacker from Krakow",
       "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/polityka/art45459281-strzelanina-na-rynku-glownym-w-krakowie-donald-tusk-pisze-o-zamachu-mateusz-morawiecki-o-masakrze",
-      "published_date": "2026-11-07T15:14:00+00:00",
+      "url": "https://www.rp.pl/przestepczosc/art45459751-donald-tusk-w-domu-napastnika-z-krakowa-znaleziono-ciala-trzech-osob",
+      "published_date": "2026-11-07T21:27:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Shots on the market square in Krakow. Donald Tusk on the \"circumstances of the attack\"",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-07/strzaly-na-rynku-w-krakowie-donald-tusk-zamach/",
-      "published_date": "2026-11-07T15:10:00+00:00",
+      "title": "The minister denies information about the late action of the services. \"After three minutes\"",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/strzelanina-w-krakowie-marcin-kierwinski-mowi-o-czasie-reakcji-sluzb/n5qtfpw",
+      "published_date": "2026-11-07T21:02:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three bodies were found in the attacker's apartment",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/krakow/w-domu-zamachowca-znaleziono-trzy-ciala/pcwl7n1",
+      "published_date": "2026-11-07T20:58:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New information after the tragedy in Krakow. Tusk: The bodies of three people were found in the perpetrator's house",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33122098,tusk-o-strzelaninie-w-krakowie-trzeba-to-nazwac-zamachem-terrorystycznym.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-07T20:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prime Minister at a service briefing. \"We have not had such drastic cases\"",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/premier-na-odprawie-sluzb-nie-mielismy-tak-drastycznych-przypadkow/8sb8f51",
+      "published_date": "2026-11-07T20:39:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Attack in Krakow. The head of the Ministry of Interior and Administration reveals new findings",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/polityka-i-sondaze/zamach-w-krakowie-szef-mswia-ujawnia-nowe-ustalenia,1117583.html",
+      "published_date": "2026-11-07T20:37:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Foreigners among the victims and injured of the shooting in Krakow",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/cudzoziemcy-wsrod-ofiar-strzelaniny-w-krakowie-jest-komunikat/swgf7sn",
+      "published_date": "2026-11-07T20:30:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Parliament expands the competences of the Military Police",
+      "source": "Defence24",
+      "url": "https://defence24.pl/sily-zbrojne/sejm-rozszerza-kompetencje-zandarmerii-wojskowej",
+      "published_date": "2026-11-07T20:00:01+00:00",
       "category": "Local Events"
     }
   ]
