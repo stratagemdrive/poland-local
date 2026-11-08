@@ -1,6 +1,6 @@
 {
   "country": "Poland",
-  "last_updated": "2026-11-08T02:01:39.667558+00:00",
+  "last_updated": "2026-11-08T16:55:05.449011+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Wleciały do Polski znad Litwy. Wojskowe samoloty NATO w powietrzu",
+      "source": "Defence24",
+      "url": "https://defence24.pl/sily-zbrojne/wlecialy-do-polski-znad-litwy-wojskowe-samoloty-nato-w-powietrzu",
+      "published_date": "2026-11-08T05:50:02+00:00",
+      "category": "Military"
+    },
+    {
       "title": "The Irish helped after the attack in Krakow. They rescued the wounded in the Market Square",
       "source": "Onet",
       "url": "https://wiadomosci.onet.pl/swiat/irlandczycy-pomagali-po-ataku-w-krakowie-ratowali-rannych-na-rynku/s0hchb7",
@@ -277,11 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "What is Pirana? The new predator of Turkish waters made its debut in the army",
-      "source": "Defence24",
-      "url": "https://defence24.pl/przemysl/czym-jest-pirana-nowy-drapieznik-tureckich-wod-zadebiutowal-w-armii",
-      "published_date": "2026-11-07T06:00:02+00:00",
-      "category": "Military"
+      "title": "Opłaty za prąd do zmiany. Odczuje to 3,4 mln Polaków",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/oplaty-za-prad-do-zmiany-odczuje-to-3-4-mln-polakow,1117718.html",
+      "published_date": "2026-11-08T12:08:15+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Orlen robi memy i rozpala emocje na X. Oto cel kontrowersyjnych wpisów giganta [ANALIZA]",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/firmy/orlen-rozpala-emocje-na-x-oto-dlaczego-tworzy-memy-i-odpowiada-obajtkowi/bdfgj4m",
+      "published_date": "2026-11-08T11:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Chiny przyspieszają zieloną transformację. Gigantyczne inwestycje w OZE",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gospodarka/chiny-stawiaja-na-zielona-energie-rekordowe-inwestycje-w-2026-r/lwp14g9",
+      "published_date": "2026-11-08T09:54:03+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil prices in 2027. We check the latest forecasts of key analysts",
@@ -316,6 +337,13 @@
       "source": "WNP.pl",
       "url": "https://www.wnp.pl/bezpieczenstwo/rosjanie-w-krolewcu-znowu-bez-pradu-polska-wzmacnia-ochrone-granicy,1117134.html",
       "published_date": "2026-11-06T20:30:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Orlen coraz bliżej przejęcia Polimerów Police. Sąd wydał kluczowe postanowienie",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/przemysl/orlen-coraz-blizej-przejecia-polimerow-police-sad-wydal-kluczowe-postanowienie,1117350.html",
+      "published_date": "2026-11-06T19:48:00+00:00",
       "category": "Energy"
     },
     {
@@ -396,38 +424,38 @@
       "category": "Energy"
     },
     {
-      "title": "PGE will spend over PLN 330 million on new energy storage facilities. They will be built next to wind farms",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/pge-wyda-ponad-330-mln-zl-na-nowe-magazyny-energii-kontrakty-trafily-do-elektrotimu,1117169.html",
-      "published_date": "2026-11-06T14:57:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Daniel Obajtek about the arrest in the Orlen case. \"I will accept it with humility\"",
+      "title": "Podszyli się pod bank i okradli. \"Nie jestem staruszką i cyfrowym analfabetą\"",
       "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/prawo/daniel-obajtek-o-mozliwym-zatrzymaniu-bede-to-przyjmowal-z-pokora/my9rg69",
-      "published_date": "2026-11-06T14:21:48+00:00",
-      "category": "Energy"
+      "url": "https://businessinsider.com.pl/prawo/sms-jak-z-banku-kosztowal-ja-10-tys-zl-tak-dzialaja-grupy-przestepcze/507c6z1",
+      "published_date": "2026-11-08T13:07:12+00:00",
+      "category": "Economy"
     },
     {
-      "title": "W polskim mieście powstała baza dla wielkich farm wiatrowych na Bałtyku",
+      "title": "Kryzys w budowlance się pogłębia. Porzucają coraz więcej placów budowy",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/budownictwo/w-polskim-miescie-powstala-baza-dla-wielkich-farm-wiatrowych-na-baltyku,1117133.html",
-      "published_date": "2026-11-06T13:59:33+00:00",
-      "category": "Energy"
+      "url": "https://www.wnp.pl/budownictwo/kryzys-w-budowlance-sie-poglebia-porzucaja-coraz-wiecej-placow-budowy,1117713.html",
+      "published_date": "2026-11-08T11:33:03+00:00",
+      "category": "Economy"
     },
     {
-      "title": "An investigation on an \"unprecedented scale\". New information on the Ostrołęka power plant",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-06/sledztwo-na-niespotykana-skale-nowe-informacje-ws-elektrowni-ostroleka/",
-      "published_date": "2026-11-06T13:53:00+00:00",
-      "category": "Energy"
+      "title": "Niemal 99 proc. gospodarstw rolników ma auto. Emeryci i renciści daleko w tyle",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Niemal-99-proc-gospodarstw-rolnikow-ma-auto-Emeryci-i-rencisci-daleko-w-tyle-9222607.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-08T08:24:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "The attack in Krakow may have far-reaching consequences. Poland faces an important test",
       "source": "WNP.pl",
       "url": "https://www.wnp.pl/rynki/atak-w-krakowie-moze-miec-daleko-idace-skutki-przed-polska-wazny-sprawdzian,1117527.html",
       "published_date": "2026-11-07T18:18:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Alimenty dla rodziców potrącane z pensji. Nowe prawo ma zdyscyplinować młodych",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/rynki/alimenty-dla-rodzicow-potracane-z-pensji-tak-rzady-probuja-zagwarantowac-opieke-seniorom,1115486.html",
+      "published_date": "2026-11-07T18:00:00+00:00",
       "category": "Economy"
     },
     {
@@ -536,32 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "They don't live in Poland, but they get grades thirteen and fourteen. The numbers were out",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Nie-mieszkaja-w-Polsce-ale-dostaja-trzynastki-i-czternastki-Padly-liczby-9225330.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-07T07:00:00+00:00",
-      "category": "Economy"
+      "title": "Premier zdecydował w sprawie Marszu Niepodległości. \"Liczę na odpowiedzialność\"",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-08/premier-zdecydowal-w-sprawie-marszu-niepodleglosci-licze-na-odpowiedzialnosc/",
+      "published_date": "2026-11-08T16:06:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "AI can turn against the company. All you need is one clever instruction",
+      "title": "Flagi w Brukseli opuszczone do połowy. Metsola pisze po polsku: „Kraków. Niezłomne Miasto”.",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/AI-moze-obrocic-sie-przeciwko-firmie-Wystarczy-jedna-sprytna-instrukcja-9221804.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-07T07:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bankier.pl/wiadomosc/Flagi-w-Brukseli-opuszczone-do-polowy-Metsola-pisze-po-polsku-Krakow-Niezlomne-Miasto-9225700.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-08T16:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How do young people really invest? Quick profits, emotions and a lesson from the stock market",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Jak-naprawde-inwestuja-mlodzi-Szybkie-zyski-emocje-i-lekcja-z-gieldy-9224857.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-07T05:00:00+00:00",
-      "category": "Economy"
+      "title": "Kraków po zamachu. Tak wygląda miasto dzień po tragedii",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/rynki/krakow-dzien-po-zamachu-zamkniety-rynek-policyjne-patrole-i-znicze,1117757.html",
+      "published_date": "2026-11-08T15:37:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Panic and surprise in the markets, and the world returns to rate increases",
+      "title": "To jeszcze nie jest nowa Izera. Jej przyszły partner technologiczny pokazał, na co go stać",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/przemysl/foxtron-coraz-blizej-umowy-z-electromobility-poland-przyszly-partner-izery-pokazuje-co-potrafi,1117112.html",
+      "published_date": "2026-11-08T12:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Śniadanie Rymanowskiego w Polsat News i Interii\"",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-08/sniadanie-rymanowskiego-w-polsat-news-i-interii-ogladaj-od-955-26/",
+      "published_date": "2026-11-08T08:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gwardia prezydencka za setki milionów. Podliczyliśmy kaprys Nawrockiego",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Panika-i-zaskoczenie-na-rynkach-a-swiat-wraca-do-podwyzek-stop-9223540.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-07T05:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bankier.pl/wiadomosc/Gwardia-prezydencka-za-325-tys-zl-dziennie-Podliczylismy-kaprys-Nawrockiego-9224240.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-08T05:00:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Shooting on the Main Square in Krakow. Cab drivers among the injured",
@@ -659,48 +701,6 @@
       "source": "Onet",
       "url": "https://wiadomosci.onet.pl/kraj/strzelanina-w-krakowie-marcin-kierwinski-mowi-o-czasie-reakcji-sluzb/n5qtfpw",
       "published_date": "2026-11-07T21:02:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three bodies were found in the attacker's apartment",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/krakow/w-domu-zamachowca-znaleziono-trzy-ciala/pcwl7n1",
-      "published_date": "2026-11-07T20:58:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New information after the tragedy in Krakow. Tusk: The bodies of three people were found in the perpetrator's house",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33122098,tusk-o-strzelaninie-w-krakowie-trzeba-to-nazwac-zamachem-terrorystycznym.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-07T20:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prime Minister at a service briefing. \"We have not had such drastic cases\"",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/premier-na-odprawie-sluzb-nie-mielismy-tak-drastycznych-przypadkow/8sb8f51",
-      "published_date": "2026-11-07T20:39:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Attack in Krakow. The head of the Ministry of Interior and Administration reveals new findings",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/polityka-i-sondaze/zamach-w-krakowie-szef-mswia-ujawnia-nowe-ustalenia,1117583.html",
-      "published_date": "2026-11-07T20:37:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Foreigners among the victims and injured of the shooting in Krakow",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/cudzoziemcy-wsrod-ofiar-strzelaniny-w-krakowie-jest-komunikat/swgf7sn",
-      "published_date": "2026-11-07T20:30:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Parliament expands the competences of the Military Police",
-      "source": "Defence24",
-      "url": "https://defence24.pl/sily-zbrojne/sejm-rozszerza-kompetencje-zandarmerii-wojskowej",
-      "published_date": "2026-11-07T20:00:01+00:00",
       "category": "Local Events"
     }
   ]
