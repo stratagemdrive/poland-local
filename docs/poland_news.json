@@ -1,8 +1,22 @@
 {
   "country": "Poland",
-  "last_updated": "2026-11-08T16:55:05.449011+00:00",
+  "last_updated": "2026-11-09T02:23:12.082246+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Polska w G20. Czy banki nadążą za gospodarką?",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/banki/art45462561-polska-w-g20-czy-banki-nadaza-za-gospodarka",
+      "published_date": "2026-11-08T20:41:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Polska w globalnej lidze: nie zmarnujmy tej szansy",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/gospodarka/art45462551-polska-w-globalnej-lidze-nie-zmarnujmy-tej-szansy",
+      "published_date": "2026-11-08T20:39:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Foreign consulates warn after the attack in Krakow. Urgent messages for citizens",
       "source": "Defence24",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "They will be the ones who will join the government after Tusk's talks with Hołownia. Two deputy ministers",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-06/to-oni-trafia-do-rzadu-po-rozmowach-tuska-z-holownia-dwa-nazwiska/",
-      "published_date": "2026-11-06T09:07:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Special meeting in Zelensky's office. The main topic is relations with Poland",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33119481,specjalna-narada-w-biurze-zelenskiego-glownym-tematem-relacje.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-06T06:48:00+00:00",
-      "category": "Diplomacy"
+      "title": "Żałoba po zamachu w Krakowie, opozycja chce dymisji Kierwińskiego | Onet Rano.",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/zaloba-po-zamachu-w-krakowie-opozycja-chce-dymisji-kierwinskiego-or-onet-rano/54cy7pm",
+      "published_date": "2026-11-08T20:36:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Wleciały do Polski znad Litwy. Wojskowe samoloty NATO w powietrzu",
@@ -274,13 +281,6 @@
       "source": "Business Insider Polska",
       "url": "https://businessinsider.com.pl/finanse/handel/tv-republika-rozkreca-biznes-kleczek-sprzedaje-go-nawet-pod-tk/fcrtwp7",
       "published_date": "2026-11-07T08:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "ORP Błyskawica will undergo repairs. There are also plans to change the exhibition",
-      "source": "Defence24",
-      "url": "https://defence24.pl/sily-zbrojne/orp-blyskawica-przejdzie-naprawe-w-planach-takze-zmiana-ekspozycji",
-      "published_date": "2026-11-07T07:00:03+00:00",
       "category": "Military"
     },
     {
@@ -564,6 +564,69 @@
       "category": "Economy"
     },
     {
+      "title": "Waldemar Żurek: mamy pewne dowody, które rzucają głębsze światło na cały ten dramat",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/krakow/waldemar-zurek-mamy-dowody-ktore-rzucaja-glebsze-swiatlo-na-ten-dramat/s263cl9",
+      "published_date": "2026-11-08T23:48:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister sprawiedliwości o szczegółach ataku w Krakowie. \"Nie możemy wykluczyć tych motywacji\"",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-08/minister-sprawiedliwosci-o-szczegolach-ataku-w-krakowie-nie-mozemy-wykluczyc-tych-motywacji/",
+      "published_date": "2026-11-08T22:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kaczyński zareagował na słowa Kierwińskiego. \"Okazało się to ordynarnym kłamstwem\"",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-08/kaczynski-zareagowal-na-slowa-kierwinskiego-okazalo-sie-to-ordynarnym-klamstwem/",
+      "published_date": "2026-11-08T21:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jaka kara dla zamachowca z Krakowa? Tego chce jeden z posłów",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/jaka-kara-dla-zamachowca-z-krakowa-tego-chce-jeden-z-poslow",
+      "published_date": "2026-11-08T19:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wiceszefowa MON skomentowała wypowiedź Kierwińskiego. \"Nie wyobrażam sobie\"",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-08/wiceszefowa-mon-skomentowala-wypowiedz-kierwinskiego-nie-wyobrazam-sobie/",
+      "published_date": "2026-11-08T18:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mało znana firma zdominowała transport ropy przez Ormuz. Stawki biją rekordy",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/logistyka/malo-znana-firma-zdominowala-transport-ropy-przez-ormuz-stawki-bija-rekordy,1117801.html",
+      "published_date": "2026-11-08T18:32:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burza po relacjach Republiki z Krakowa. Ministra reaguje. \"Muszą być wyciągnięte konsekwencje\"",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/burza-po-relacjach-republiki-z-krakowa-ministra-reaguje-musza-byc-konsekwencje/yhqjylt",
+      "published_date": "2026-11-08T17:18:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bohaterska postawa policjantów. Prezydent zamierza ich odznaczyć",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-08/bohaterska-postawa-policjantow-prezydent-zamierza-ich-odznaczyc/",
+      "published_date": "2026-11-08T17:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tusk przecina spekulacje: Marsz Niepodległości nie będzie zakazany. Premier apeluje o brak kontrmanifestacji",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Tusk-przecina-spekulacje-Marsz-Niepodleglosci-nie-bedzie-zakazany-Premier-apeluje-o-brak-kontrmanifestacji-9225780.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-08T16:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Premier zdecydował w sprawie Marszu Niepodległości. \"Liczę na odpowiedzialność\"",
       "source": "Polsat News",
       "url": "https://www.polsatnews.pl/wiadomosc/2026-11-08/premier-zdecydowal-w-sprawie-marszu-niepodleglosci-licze-na-odpowiedzialnosc/",
@@ -638,69 +701,6 @@
       "source": "Onet",
       "url": "https://wiadomosci.onet.pl/tylko-w-onecie/krakow-w-szoku-po-zamachu-cios-w-samo-serce-miasta/n55f2qt",
       "published_date": "2026-11-07T23:30:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National mourning has begun after the shooting in Krakow",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/strzelanina-na-rynku-glownym-w-krakowie-o-polnocy-rozpoczela-sie-zaloba/y3mfmme",
-      "published_date": "2026-11-07T23:20:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Supreme Court: attorneys' e-letters do not require copies",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/w-kancelariach/art45457131-sad-najwyzszy-e-pisma-adwokatow-nie-wymagaja-odpisow",
-      "published_date": "2026-11-07T23:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six people died on the Main Square in Krakow. The attacker was injured and detained",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/przestepczosc/art45459821-szesc-osob-zginelo-na-rynku-glownym-w-krakowie-napastnik-ranny-i-zatrzymany",
-      "published_date": "2026-11-07T23:06:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Urgent call from firefighters. Blood needed for an injured policeman from Krakow",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/strzelanina-na-rynku-glownym-w-krakowie-strazacy-apeluja-o-pomoc/jwwh9fl",
-      "published_date": "2026-11-07T22:13:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tusk reveals new facts about the attack in Krakow",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/tusk-ujawnia-nowe-fakty-o-zamachu-w-krakowie-trzy-ciala-w-domu-sprawcy",
-      "published_date": "2026-11-07T22:01:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Prime Minister after briefing the services in Krakow. Three more victims, national mourning",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/premier-po-odprawie-sluzb-w-krakowie-trzy-kolejne-ofiary-zaloba-narodowa,1117610.html",
-      "published_date": "2026-11-07T21:57:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Donald Tusk reveals the names of injured policemen. \"These are real heroes\"",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/donald-tusk-ujawnia-nazwiska-rannych-policjantow-to-prawdziwi-bohaterowie/bn1pd8x",
-      "published_date": "2026-11-07T21:36:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Donald Tusk: The bodies of three people were found in the house of the attacker from Krakow",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/przestepczosc/art45459751-donald-tusk-w-domu-napastnika-z-krakowa-znaleziono-ciala-trzech-osob",
-      "published_date": "2026-11-07T21:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The minister denies information about the late action of the services. \"After three minutes\"",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/strzelanina-w-krakowie-marcin-kierwinski-mowi-o-czasie-reakcji-sluzb/n5qtfpw",
-      "published_date": "2026-11-07T21:02:04+00:00",
       "category": "Local Events"
     }
   ]
