@@ -1,8 +1,15 @@
 {
   "country": "Poland",
-  "last_updated": "2026-11-09T21:12:36.580578+00:00",
+  "last_updated": "2026-11-10T04:28:35.573269+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Changes in the ETS that are beneficial for Poland. Brussels proposes a compromise",
+      "source": "Rzeczpospolita",
+      "url": "https://energia.rp.pl/klimat/art45464901-korzystne-dla-polski-zmiany-w-ets-bruksela-proponuje-kompromis",
+      "published_date": "2026-11-10T03:29:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "An innovative approach to arms purchases is needed",
       "source": "Rzeczpospolita",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Witold Jurasz: Donald Trump and the agreement with Russia. Fort Trump in Poland is questionable",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/swiat/witold-jurasz-trump-ustapi-putinowi-mozemy-odczuc-to-w-polsce/5n691pd",
-      "published_date": "2026-11-06T15:50:31+00:00",
-      "category": "Diplomacy"
+      "title": "Report. Who is a Polish Army soldier?",
+      "source": "Rzeczpospolita",
+      "url": "https://radar.rp.pl/wojsko-polskie/art45458631-raport-kim-jest-zolnierz-wojska-polskiego",
+      "published_date": "2026-11-10T03:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Col. Małecki: We must take into account the appearance of Oksiński's followers",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/sluzby/art45465401-plk-malecki-musimy-liczyc-sie-z-pojawieniem-sie-nasladowcow-oksinskiego",
+      "published_date": "2026-11-10T03:29:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "USA without a Secretary of Defense? Pete Hegseth's fate hangs in the balance",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/polityka/art45463761-usa-bez-sekretarza-obrony-los-pete-a-hegsetha-wisi-na-wlosku",
+      "published_date": "2026-11-10T03:25:00+00:00",
+      "category": "Military"
     },
     {
       "title": "\"The editors\" harshly about a scoundrel pretending to be television. \"The septic tank broke\"",
@@ -197,6 +218,13 @@
       "source": "Bankier.pl",
       "url": "https://www.bankier.pl/wiadomosc/Impeachment-Hegsetha-Republikanski-kongresmen-zlozyl-wniosek-9226418.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "published_date": "2026-11-09T19:49:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Władysław Kosiniak-Kamysz on the meeting with the head of the Pentagon: if everything is finalized, we will sign an important agreement",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/wladyslaw-kosiniak-kamysz-o-spotkaniu-z-szefem-pentagonu-jezeli-uda-sie-wszystko-dopiac-podpiszemy-wazne-porozumienie-st9330951?source=rss",
+      "published_date": "2026-11-09T19:38:16+00:00",
       "category": "Military"
     },
     {
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Paweł \"Naval\" Mateńczuk in \"The most important questions\". Watch from 18:00",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-09/pawel-naval-matenczuk-w-najwazniejszych-pytaniach-ogladaj-od-godz-1800/",
-      "published_date": "2026-11-09T15:13:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The US Army is testing an anti-drone system in Poland",
-      "source": "Defence24",
-      "url": "https://defence24.pl/sily-zbrojne/us-army-testuje-system-antydronowy-w-polsce",
-      "published_date": "2026-11-09T15:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Today anyone can look like a soldier. New K-03 RYŚ uniform only for the army [COMMENT]",
-      "source": "Defence24",
-      "url": "https://defence24.pl/sily-zbrojne/dzis-kazdy-moze-wygladac-jak-zolnierz-nowy-mundur-k-03-rys-tylko-dla-wojska-komentarz",
-      "published_date": "2026-11-09T14:30:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Patriots, Abrams and F-35 are not everything. Poland wants a new deal with the USA",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/patrioty-abramsy-i-f-35-to-nie-wszystko-polska-chce-nowego-rozdania-z-usa,1118027.html",
-      "published_date": "2026-11-09T14:17:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Energy and gas in times of volatility. What really determines prices?",
       "source": "Rzeczpospolita",
       "url": "https://energia.rp.pl/surowce-i-paliwa/art45468661-energia-i-gaz-w-czasach-zmiennosci-co-tak-naprawde-ksztaltuje-ceny",
@@ -323,6 +323,13 @@
       "source": "WNP.pl",
       "url": "https://www.wnp.pl/energia/rzad-szykuje-wazne-zmiany-przepisow-branza-cieplownicza-reaguje,1117962.html",
       "published_date": "2026-11-09T13:22:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "\"She could still do a lot of good.\" Ewelina died in an attack in Krakow",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/rzeszow/podkarpacie-krakow-wolontariuszka-szlachetnej-paczki-jedna-z-ofiar-zamachu-w-krakowie-st9329989?source=rss",
+      "published_date": "2026-11-09T12:48:45+00:00",
       "category": "Energy"
     },
     {
@@ -417,11 +424,53 @@
       "category": "Energy"
     },
     {
-      "title": "Nitrogen Polyolefins with approved partial system. This is a condition for the takeover by Orlen",
+      "title": "A famous clothing brand loses the \"socks dispute\". Customers prevail",
       "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/biznes/art45457971-polyolefins-azotow-z-zatwierdzonym-ukladem-czesciowym-to-warunek-przejecia-przez-orlen",
-      "published_date": "2026-11-06T19:03:21+00:00",
-      "category": "Energy"
+      "url": "https://sukces.rp.pl/moda/art45431531-slynna-marka-odziezowa-przegrywa-spor-o-skarpetki-klienci-gora",
+      "published_date": "2026-11-10T04:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Marta Postuła: Fiscal resilience in a world of expensive money",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/opinie-ekonomiczne/art45457241-marta-postula-fiskalna-odpornosc-w-swiecie-drogiego-pieniadza",
+      "published_date": "2026-11-10T03:50:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Czuryło: Is recession the price for permanent profligacy in state finances?",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/komentarze/art45463641-czurylo-recesja-cena-za-permanentna-rozrzutnosc-w-finansach-panstwa",
+      "published_date": "2026-11-10T03:40:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Do you sell private plots? The tax office can collect PIT as from a company",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/podatki/art45464091-sprzedajesz-prywatne-dzialki-skarbowka-moze-wziac-pit-jak-od-firmy",
+      "published_date": "2026-11-10T03:31:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sławomir Dudek, head of the Fiscal Council: Public finances have started to rot",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/gospodarka/art45444181-slawomir-dudek-szef-rady-fiskalnej-finanse-publiczne-zaczely-gnic",
+      "published_date": "2026-11-10T03:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Marcin Zieliński: Grzegorz W. Kolodko returns sweetly",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/opinie-ekonomiczne/art45456841-marcin-zielinski-powraca-slodko-grzegorz-w-kolodko",
+      "published_date": "2026-11-10T03:26:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "After the attack in Krakow. Experts advise how to retain foreign tourists",
+      "source": "Rzeczpospolita",
+      "url": "https://turystyka.rp.pl/zanim-wyjedziesz/art45468871-po-zamachu-w-krakowie-eksperci-radza-jak-zatrzymac-zagranicznych-turystow",
+      "published_date": "2026-11-09T23:25:27+00:00",
+      "category": "Economy"
     },
     {
       "title": "AI can also support small businesses",
@@ -438,6 +487,13 @@
       "category": "Economy"
     },
     {
+      "title": "IKE, IKZE, PEIPE limits in 2027. This is how much they will cost",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/biznes/pieniadze/limity-ike-ikze-oipe-w-2027-roku-tyle-wyniosa-st9330024?source=rss",
+      "published_date": "2026-11-09T18:53:20+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "A company from the Onde group has a contract with PSE for the modernization of a power station",
       "source": "WNP.pl",
       "url": "https://www.wnp.pl/budownictwo/spolka-z-grupy-onde-ma-umowe-z-pse-na-modernizacje-stacji-elektroenergetycznej,1118160.html",
@@ -449,6 +505,13 @@
       "source": "Defence24",
       "url": "https://defence24.pl/polityka-obronna/to-powinna-zrobic-polska-po-zamachu-norwegia-dzieli-sie-lekcja-z-przeszlosci",
       "published_date": "2026-11-09T18:30:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "\"It hits the entire sector.\" You are stomping around after initiating an investigation",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/biznes/ze-swiata/uderza-w-caly-sektor-tapniecie-po-wszczeciu-dochodzenia-st9330771?source=rss",
+      "published_date": "2026-11-09T18:08:32+00:00",
       "category": "Economy"
     },
     {
@@ -501,206 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Revolution in a Polish construction company. The price on the Warsaw Stock Exchange skyrocketed",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/budownictwo/rewolucja-w-polskiej-spolce-budowlanej-kurs-na-gpw-wystrzelil,1118033.html",
-      "published_date": "2026-11-09T16:03:07+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A billion-dollar loan to save a state-owned company. That's where the money will go",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/biznes/jastrzebska-spolka-weglowa-z-miliardowa-pozyczka-arp-stawia-warunki/l908szw",
-      "published_date": "2026-11-09T15:40:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The tender for a huge Polish investment in the Baltic Sea has started. There is resistance from the Germans",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/przyladek-pomerania-niemcy-stawiaja-opor-strategicznej-inwestycji-polakow/51hbxph",
-      "published_date": "2026-11-09T15:31:58+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "JSW with a billion-dollar loan. This should give the mining company a financial break",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/jsw-z-miliardowa-pozyczka-to-powinno-dac-finansowy-oddech-gorniczej-spolce,1118066.html",
-      "published_date": "2026-11-09T15:28:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Polish manufacturer of military equipment with a significant drop in profit. Last year's record didn't help",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/lubawa-przewiduje-spadek-przychodow-i-zysku-grupy-nie-pomogl-zeszloroczny-rekord,1118045.html",
-      "published_date": "2026-11-09T15:02:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Who will finance a decade of large investments? Capital, guarantees and Polish companies in the spotlight of the 3rd Polish Construction Congress",
-      "source": "Defence24",
-      "url": "https://defence24.pl/przemysl/kto-sfinansuje-dekade-wielkich-inwestycji-kapital-gwarancje-i-polskie-firmy-w-centrum-uwagi-iii-kongresu-budownictwa-polskiego",
-      "published_date": "2026-11-09T14:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A slight increase in the profit of the ZUE group. The value of orders reached PLN 4.6 billion",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/budownictwo/niewielki-wzrost-zysku-grupy-zue-wartosc-zamowien-siegnela-4-6-mld-zl,1118014.html",
-      "published_date": "2026-11-09T14:09:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Overview of popular personal accounts. What do banks offer and how do they differ?",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/poradnik-finansowy/konto-osobiste-w-dziewieciu-bankach-porownanie-warunkow-oplat-i-bonusow/6rgebk2",
-      "published_date": "2026-11-09T14:06:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The debt of the large partner PGE is growing. Profit down by more than half",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/rosnie-zadluzenie-wielkiego-partnera-pge-zysk-w-dol-o-ponad-polowe-i-miliardowe-odpisy,1117937.html",
-      "published_date": "2026-11-09T14:06:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Crowds at the March of Silence in Krakow. Those gathered paid tribute to the victims of the tragedy [GALLERY]",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/marsz-ciszy-w-krakowie-zgromadzeni-oddali-hold-ofiarom-tragedii-galeria/v8md9b1",
-      "published_date": "2026-11-09T20:58:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crowds on a silent march in Krakow. Karol Nawrocki and Donald Tusk laid candles [LIVE REPORT]",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/krakow/polska-w-zalobie-po-zamachu-w-krakowie-w-poniedzialek-sekcje-zwlok-ofiar-i-wiec/1b50s75",
-      "published_date": "2026-11-09T20:37:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Romanian media write about Poland. They point to an unusual plant near Poznań",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/volkswagen-zatrudnil-100-owiec-pracuja-w-fabryce-pod-poznaniem/xs2xldl",
-      "published_date": "2026-11-09T20:35:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Żurek: We have not ruled out the Russian thread",
-      "source": "Defence24",
-      "url": "https://defence24.pl/wiadomosci/zurek-nie-wykluczylismy-watku-rosyjskiego",
-      "published_date": "2026-11-09T20:23:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Krakow is in mourning. Nawrocki and Tusk on the March of Silence",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Krakow-pograzony-w-zalobie-Nawrocki-i-Tusk-na-Marszu-Ciszy-9226426.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-09T20:16:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The March of Silence passed through the streets of Krakow. Participants paid tribute to the victims of the attack",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33124479,marsz-ciszy-przeszedl-ulicami-krakowa-uczestnicy-oddali-hold.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-09T20:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "He played in the A-class and recently joined the police. Artur Morański is the hero of Krakow",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/kim-jest-artur-moranski-spokojny-chlopak-z-malej-wsi-zostal-bohaterem-krakowa/4dql78k",
-      "published_date": "2026-11-09T20:04:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vulgar screams of students in front of the Constitutional Tribunal. The school's founder resigns. Nowacka: This doesn't close the case",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33124444,wulgarne-krzyki-uczniow-przed-tk-zalozycielka-szkoly-rezygnuje.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-09T19:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What's next with the time change? The Polish government is preparing a five-year plan",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/lifestyle/nie-ma-porozumienia-w-sprawie-zmiany-czasu-polski-rzad-szykuje-plan-na-piec-lat/1vewqrg",
-      "published_date": "2026-11-09T19:53:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unity amber flowed into Szczecin. This is what the new Polish ferry on the Baltic Sea looks like",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Bursztyn-Unity-wplynal-do-Szczecina-Tak-wyglada-nowy-polski-prom-na-Baltyku-9226317.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-09T19:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A heroic policeman from Bielsko-Biała. Jakub Kulik saved people in Krakow",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/slask/bohaterski-policjant-z-bielska-bialej-jakub-kulik-uratowal-ludzi-w-krakowie/p81g1lp",
-      "published_date": "2026-11-09T19:14:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A joint gesture of the president and prime minister. They paid tribute to the victims of the attack in Krakow",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-09/karol-nawrocki-i-donald-tusk-wspolnie-na-marszu-ciszy-w-krakowie/",
-      "published_date": "2026-11-09T19:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Another corruption scandal in Ukraine. Zelensky warns Poland",
-      "source": "Defence24",
-      "url": "https://defence24.pl/geopolityka/kolejna-afera-korupcyjna-na-ukrainie-zelenski-ostrzega-polske",
-      "published_date": "2026-11-09T19:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "March of Silence in Krakow. The president and prime minister paid tribute to the victims of Saturday's attack",
+      "title": "The end of social media for primary school students. Changes are planned for next year",
       "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/spoleczenstwo/art45466891-marsz-ciszy-w-krakowie-prezydent-i-premier-oddali-hold-ofiarom-sobotniego-zamachu",
-      "published_date": "2026-11-09T18:59:00+00:00",
+      "url": "https://edukacja.rp.pl/edukacja/art45465601-koniec-mediow-spolecznosciowych-dla-uczniow-podstawowek-zmiany-planuja-na-przyszly-rok",
+      "published_date": "2026-11-10T04:06:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The policeman's health condition after the shooting in Krakow. Doctors provided new information",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33124386,stan-zdrowia-policjanta-po-strzelaninie-w-krakowie-lekarze.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-09T18:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New facts about the bomber. Unofficially: he was getting ready for a longer rally through the streets of Krakow",
+      "title": "Wrocław - check the weather forecast on November 10, 2026",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/nowe-fakty-ws-zamachowca-strzelal-przez-przednia-szybe/h4l8s8x",
-      "published_date": "2026-11-09T18:44:55+00:00",
+      "url": "https://wiadomosci.onet.pl/wroclaw/wroclaw-prognoza-pogody-w-dniu-10112026/rvc5t29",
+      "published_date": "2026-11-10T04:05:02+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Was it possible to catch the attacker before the attack? Bitter words from a GROM veteran",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-09/bez-szans-ekspert-gorzko-o-zamachu-w-krakowie/",
-      "published_date": "2026-11-09T18:34:00+00:00",
+      "title": "Zielona Góra. Check the weather forecast for November 10, 2026",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/lubuskie/zielona-gora-prognoza-pogody-w-dniu-10112026/z0032tc",
+      "published_date": "2026-11-10T04:04:59+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The president awarded police officers injured during the attack in Krakow",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/policja/art45468241-prezydent-odznaczyl-policjantow-rannych-podczas-zamachu-w-krakowie",
-      "published_date": "2026-11-09T18:30:00+00:00",
+      "title": "Toruń. Check the weather forecast for November 10, 2026",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kujawsko-pomorskie/torun-prognoza-pogody-w-dniu-10112026/80dlj8y",
+      "published_date": "2026-11-10T04:04:46+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Officer's Crosses for injured policemen. The president appreciated their courage",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Krzyze-Oficerskie-dla-rannych-policjantow-Prezydent-docenil-ich-odwage-9226384.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-09T18:25:00+00:00",
+      "title": "Warsaw: what weather awaits us on November 10, 2026?",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/warszawa/warszawa-prognoza-pogody-w-dniu-10112026/0kb4qnw",
+      "published_date": "2026-11-10T04:04:43+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Orders for heroic policemen. There is the president's decision",
-      "source": "Defence24",
-      "url": "https://defence24.pl/wiadomosci/ordery-dla-bohaterskich-policjantow-jest-decyzja-prezydenta",
-      "published_date": "2026-11-09T18:15:29+00:00",
+      "title": "Rzeszów. Weather forecast for November 10, 2026",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/rzeszow/rzeszow-prognoza-pogody-w-dniu-10112026/7eppz3w",
+      "published_date": "2026-11-10T04:04:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Szczecin - 10/11/2026. What will the weather be like in the city?",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/szczecin/szczecin-prognoza-pogody-w-dniu-10112026/jv7fjqb",
+      "published_date": "2026-11-10T04:04:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poznań - weather forecast for November 10, 2026",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/poznan/poznan-prognoza-pogody-w-dniu-10112026/47788vf",
+      "published_date": "2026-11-10T04:04:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opole. What weather awaits us on November 10, 2026?",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/opole/opole-prognoza-pogody-w-dniu-10112026/q4gmb41",
+      "published_date": "2026-11-10T04:04:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Olsztyn - weather forecast for November 10, 2026",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/olsztyn/olsztyn-prognoza-pogody-w-dniu-10112026/72shztq",
+      "published_date": "2026-11-10T04:04:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gorzów Wielkopolski. Weather forecast for November 10, 2026",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/lubuskie/gorzow-wielkopolski-prognoza-pogody-w-dniu-10112026/409wh6h",
+      "published_date": "2026-11-10T04:04:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Łódź - what weather can we expect on November 10, 2026?",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/lodz/lodz-prognoza-pogody-w-dniu-10112026/tmeeexw",
+      "published_date": "2026-11-10T04:04:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lublin: What's the weather like today? Forecast on November 10, 2026",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/lublin/lublin-prognoza-pogody-w-dniu-10112026/rdkwnz1",
+      "published_date": "2026-11-10T04:04:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Krakow - 10/11/2026. City weather forecast",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/krakow/krakow-prognoza-pogody-w-dniu-10112026/xkptm4v",
+      "published_date": "2026-11-10T04:03:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kielce - 10/11/2026. City weather forecast",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kielce/kielce-prognoza-pogody-w-dniu-10112026/75qz662",
+      "published_date": "2026-11-10T04:03:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bydgoszcz - weather forecast for November 10, 2026",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kujawsko-pomorskie/bydgoszcz-prognoza-pogody-w-dniu-10112026/70chff3",
+      "published_date": "2026-11-10T04:03:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Katowice: what weather awaits us on November 10, 2026?",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/slask/katowice-prognoza-pogody-w-dniu-10112026/8cb6nj3",
+      "published_date": "2026-11-10T04:03:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Białystok - 10/11/2026. Today's weather",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/bialystok/bialystok-prognoza-pogody-w-dniu-10112026/ndb5bw9",
+      "published_date": "2026-11-10T04:03:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gdańsk. Weather forecast for November 10, 2026",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/trojmiasto/gdansk-prognoza-pogody-w-dniu-10112026/qe67sm4",
+      "published_date": "2026-11-10T04:03:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Dad, my childhood is over.\" Peers ridiculed 10-year-old Patryk, then accused him of molestation",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/lubuskie/rowiesnicy-go-wysmiewali-potem-oskarzyli-o-molestowanie-szkola-rozwiazala-klase/b9ljp7z",
+      "published_date": "2026-11-10T04:01:00+00:00",
       "category": "Local Events"
     }
   ]
