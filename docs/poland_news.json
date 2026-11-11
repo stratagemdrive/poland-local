@@ -1,8 +1,57 @@
 {
   "country": "Poland",
-  "last_updated": "2026-11-11T02:33:33.171751+00:00",
+  "last_updated": "2026-11-11T18:14:15.766678+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Radosław Sikorski writes about \"inconsistency\" in the president's speech",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/przemowienie-karola-nawrockiego-radoslaw-sikorski-widzi-niespojnosc-i-przypomina-o-roli-weta-w-upadku-i-rp-st9334502?source=rss",
+      "published_date": "2026-11-11T17:00:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Refrigerator and router help foreign powers and strike? The head of the EU agency is sounding the alarm",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Lodowka-i-router-pomagaja-obcym-mocarstwom-i-uderza-Szef-unijnej-agencji-bije-na-alarm-9227161.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-11T17:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Web Summit interrupted by weather. In Lisbon, a big conversation about AI and the future of media",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/technologia/web-summit-przerwany-przez-pogode-w-lizbonie-wielka-rozmowa-o-ai-i-przyszlosci-mediow-st9334322?source=rss",
+      "published_date": "2026-11-11T15:38:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Radosław Sikorski attacks the president. \"Sometimes he is a hammer against the elites, and sometimes he is a king\"",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/radoslaw-sikorski-uderza-w-prezydenta-raz-jest-mlotem-na-elity-a-raz-krolem/tt9fdvg",
+      "published_date": "2026-11-11T15:12:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "We reveal the behind-the-scenes of EU climate policy. \"The murderous pace of the ECJ revision\"",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gospodarka/bruksela-forsuje-zmiany-w-polityce-klimatycznej-ue-polska-sie-buntuje/p71x70b",
+      "published_date": "2026-11-11T12:01:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Russians claim that they have detained two Poles. Ministry of Foreign Affairs spokesman: I would suggest extreme caution",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33126817,rosjanie-twierdza-ze-zatrzymali-dwoch-polakow-rzecznik-msz.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-11T08:39:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US talks with Russia and the Polish issue. Economists warn",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gospodarka/deal-trumpa-z-rosja-a-polska-gospodarka-eksperci-ostrzegaja-przed-pulapka/sb72xjv",
+      "published_date": "2026-11-11T07:56:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Meeting devoted to the reconstruction of Ukraine. Without Poland",
       "source": "Defence24",
@@ -95,193 +144,165 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The Republic showed a \"letter from Congress.\" \"The Americans stand behind Nawrocki.\" The former US ambassador denies this",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33121639,republika-pokazala-list-z-kongresu-amerykanie-murem-za-nawrockim.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-07T14:15:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "This could be Putin's plan for Europe. The \"Great Deal\" with Trump threatens Poland. Russia wants to change the balance of power [ANALYSIS]",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/swiat/znamy-plan-putina-dla-europy-wielkie-porozumienie-z-trumpem-zagraza-polsce-rosja-chce/kz32pck",
-      "published_date": "2026-11-07T12:45:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Poland one step away from the G20? After the USA, London and Seoul send invitations",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-o-krok-od-G20-Po-USA-Londyn-i-Seul-sla-zaproszenia-9225335.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-07T07:30:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Radosław Sikorski: There are cabaret performances and watches being sold in front of the Constitutional Tribunal",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/polityka/art45458021-radoslaw-sikorski-pod-trybunalem-konstytucyjnym-trwaja-wystepy-kabaretowe-i-sprzedaz-zegarkow",
-      "published_date": "2026-11-06T19:28:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Extra millions for Ukraine. Sikorski announced support before winter",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198077,33121127,dodatkowe-miliony-dla-ukrainy-sikorski-zapowiedzial-wsparcie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-06T19:01:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "There is no peace without Europe and Poland. Ukraine's position before the trilateral summit in Abu Dhabi",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198077,33121220,bez-europy-i-polski-nie-ma-pokoju-stanowisko-ukrainy-przed.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-06T18:49:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Poland will provide another tranche of aid to Ukraine. Radosław Sikorski announces",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/swiat/miliony-na-generatory-dla-ukrainy-radoslaw-sikorski-oglasza/r733hbc",
-      "published_date": "2026-11-06T18:30:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Polska i USA podpisały umowę o współpracy. \"Polska stała się strategicznym partnerem\"",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/minister-obrony-spotkal-sie-z-szefem-pentagonu-podpisali-wazne-porozumienie/gm3gb2d",
-      "published_date": "2026-11-10T19:29:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kulisy polsko-amerykańskich negocjacji. \"Tylko Niemcy mają taką umowę\"",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/tylko-w-onecie/kulisy-polsko-amerykanskich-negocjacji-tylko-niemcy-maja-taka-umowe/q63c4q2",
-      "published_date": "2026-11-10T19:13:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tomahawki i stała obecność US Army w Polsce. Kosiniak-Kamysz w Pentagonie",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Tomahawki-i-stala-obecnosc-US-Army-w-Polsce-Kosiniak-Kamysz-w-Pentagonie-9227143.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-10T18:53:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zielone światło Pentagonu dla stałej obecności wojsk USA w Polsce. W tle rozmowy o pociskach Tomahawk",
+      "title": "He flew into Poland from Belarus. We ask the embassy about the mysterious flight from Moscow",
       "source": "Defence24",
-      "url": "https://defence24.pl/geopolityka/zielone-swiatlo-pentagonu-dla-stalej-obecnosci-wojsk-usa-w-polsce-w-tle-rozmowy-o-pociskach-tomahawk",
-      "published_date": "2026-11-10T18:44:32+00:00",
+      "url": "https://defence24.pl/polityka-obronna/wlecial-do-polski-znad-bialorusi-pytamy-ambasade-o-tajemniczy-lot-z-moskwy",
+      "published_date": "2026-11-11T18:00:00+00:00",
       "category": "Military"
     },
     {
-      "title": "The head of the Ministry of National Defense after the meeting with Hegseth: There is a green light from the Pentagon",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/polityka/art45473421-szef-mon-po-spotkaniu-z-hegsethem-jest-zielone-swiatlo-z-pentagonu",
-      "published_date": "2026-11-10T17:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Permanent US military base in Poland. Władysław Kosiniak-Kamysz indicated a key date",
+      "title": "Lt. Col. Marek Świerczek warns against the fifth wave of terrorism",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/swiat/stala-baza-wojsk-usa-w-polsce-kosiniak-kamysz-wskazal-kluczowa-date/6qf8jkl",
-      "published_date": "2026-11-10T17:47:41+00:00",
+      "url": "https://wiadomosci.onet.pl/kraj/pracowal-w-abw-dzis-ostrzega-przed-tzw-samotnymi-wilkami/f7psz7j",
+      "published_date": "2026-11-11T17:52:22+00:00",
       "category": "Military"
     },
     {
-      "title": "Aid for Ukraine. This is how much it has cost every Polish citizen since the beginning of the war",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/pomoc-dla-ukrainy-tyle-kosztuje-to-kazdego-obywatela-polski-od-poczatku-wojny/v0vh1s9",
-      "published_date": "2026-11-10T17:43:00+00:00",
+      "title": "October 1956 – a forgotten breakthrough",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/oto-prawdziwe-znaczenie-1956-r-przez-kilka-dni-wazyly-sie-losy-polski/t9j88ez",
+      "published_date": "2026-11-11T17:34:00+00:00",
       "category": "Military"
     },
     {
-      "title": "Head of the Pentagon: we will sign a declaration with Poland on cooperation in the defense industry",
-      "source": "Defence24",
-      "url": "https://defence24.pl/geopolityka/szef-pentagonu-podpiszemy-z-polska-deklaracje-ws-wspolpracy-w-przemysle-obronnym",
-      "published_date": "2026-11-10T17:38:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kosiniak-Kamysz: There is a green light for a permanent US military base in Poland. Final decision in December",
+      "title": "Tomahawks for Poland at last? The words of the head of the Ministry of National Defense about the bases covered important information",
       "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33126369,kosiniak-kamysz-jest-zielone-swiatlo-dla-stalej-bazy-wojsk.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-10T17:32:00+00:00",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33127674,w-koncu-tomahawki-dla-polski-slowa-szefa-mon-o-bazach-przykryly.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-11T16:25:00+00:00",
       "category": "Military"
     },
     {
-      "title": "Poland had several years to prepare weapons for K2PL tanks. Why didn't she make it in time?",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/bezpieczenstwo/polska-miala-kilka-lat-na-przygotowanie-broni-dla-czolgow-k2pl-dlaczego-nie-zdazyla,1118452.html",
-      "published_date": "2026-11-10T17:26:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kosiniak-Kamysz: We are conducting a fruitful dialogue on strengthening the permanent presence of US troops in Poland",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/kosiniak-kamysz-prowadzimy-owocny-dialog-w-sprawie-wzmocnienia-stalej-obecnosci-wojsk-usa-w-polsce",
-      "published_date": "2026-11-10T16:57:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Władysław Kosiniak-Kamysz met with Pete Hegseth. Announcement by the head of the Pentagon",
+      "title": "\"Long live Poland.\" What do politicians from around the world wish us?",
       "source": "TVN24",
-      "url": "https://tvn24.pl/polska/pete-hegseth-spotkal-sie-z-wladyslawem-kosiniakiem-kamyszem-szef-pentagonu-oglosil-kolejny-krok-w-sojuszu-st9332784?source=rss",
-      "published_date": "2026-11-10T16:21:34+00:00",
+      "url": "https://tvn24.pl/polska/swieto-niepodleglosci-zyczenia-od-glow-panstw-i-politykow-st9333616?source=rss",
+      "published_date": "2026-11-11T16:01:00+00:00",
       "category": "Military"
     },
     {
-      "title": "Tomczyk: Poland and Ukraine with an agreement to establish working groups for drone and anti-drone technologies",
+      "title": "NATO is preparing to change its military plans",
       "source": "Defence24",
-      "url": "https://defence24.pl/geopolityka/tomczyk-polska-i-ukraina-z-porozumieniem-o-powolaniu-grup-roboczych-ds-technologii-dronowych-i-antydronowych",
-      "published_date": "2026-11-10T16:19:09+00:00",
+      "url": "https://defence24.pl/polityka-obronna/nato-szykuje-zmiane-planow-wojskowych",
+      "published_date": "2026-11-11T16:00:02+00:00",
       "category": "Military"
     },
     {
-      "title": "The meeting between Hegseth and Kosiniak-Kamysz began at the Pentagon",
+      "title": "Witold M. Orłowski: Poland in the world of terror",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/publicystyka/art45472861-witold-m-orlowski-polska-w-swiecie-terroru",
+      "published_date": "2026-11-11T16:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Firefighting Black Hawks from Mielec for Israel?",
       "source": "Defence24",
-      "url": "https://defence24.pl/geopolityka/w-pentagonie-rozpoczelo-sie-spotkanie-hegsetha-z-kosiniakiem-kamyszem",
-      "published_date": "2026-11-10T16:14:19+00:00",
+      "url": "https://defence24.pl/przemysl/pozarnicze-black-hawki-z-mielca-dla-izraela",
+      "published_date": "2026-11-11T13:25:01+00:00",
       "category": "Military"
     },
     {
-      "title": "Deputy Prime Minister Kosiniak-Kamysz and Secretary Hegseth are meeting",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/swiat/trwa-spotkania-wicepremiera-kosiniaka-kamysza-z-sekretarzem-hegsethem/yvtmcth",
-      "published_date": "2026-11-10T16:06:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The British want to better track Russia's submarines. Half a billion zlotys on the table",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/swiat/brytyjczycy-chca-lepiej-sledzic-okrety-podwodne-rosji-na-stole-pol-miliarda/prnt5n3",
-      "published_date": "2026-11-10T15:08:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Stohid is developing \"Wilk\" and announces the launch of hexogene production",
-      "source": "Defence24",
-      "url": "https://defence24.pl/przemysl/stohid-rozwija-wilka-i-zapowiada-wejscie-w-produkcje-heksogenu",
-      "published_date": "2026-11-10T14:30:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Autopsies of the attacker and the victims of the shooting in Krakow. Ammunition under the microscope of investigators",
+      "title": "Whistling during Kosiniak-Kamysz's speech. The head of the Ministry of National Defense reacted. \"Joy in the Kremlin\"",
       "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33126027,nowe-ustalenia-po-ataku-w-krakowie-zurek-sledczy-badaja-amunicje.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-10T14:28:00+00:00",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33127686,gwizdy-podczas-wystapienia-kosiniaka-kamysza-szef-mon-zareagowal.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-11T13:25:00+00:00",
       "category": "Military"
     },
     {
-      "title": "\"Very significant\" injuries to the attacker's victims. Żurek pays attention to the ammunition",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/bardzo-znaczne-obrazenia-u-ofiar-zamachowca-zurek-zwraca-uwage-na-amunicje/",
-      "published_date": "2026-11-10T14:03:00+00:00",
+      "title": "Kosiniak-Kamysz about the US base in Poland. He pointed to cooperation with the president",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/kosiniak-kamysz-o-bazie-usa-w-polsce-wskazal-na-wspolprace-z-prezydentem",
+      "published_date": "2026-11-11T12:53:35+00:00",
       "category": "Military"
     },
     {
-      "title": "Did the Krakow bomber use special ammunition? New thread after the autopsies of the victims",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Zamachowiec-z-Krakowa-uzyl-specjalnej-amunicji-Nowy-watek-po-sekcjach-zwlok-ofiar-9226894.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-10T13:52:00+00:00",
+      "title": "The President handed General Kukula the act of appointing the head of the SGWP for the next term of office; 10 other officers were given general promotions",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/prezydent-wreczyl-gen-kukule-akt-mianowania-na-kolejna-kadencje-szefa-sgwp-10-innym-oficerom-awanse-generalskie",
+      "published_date": "2026-11-11T12:03:52+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Extension of APS-2 in Powidz. Equipment for the second armored brigade",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/rozbudowa-aps-2-w-powidzu-sprzet-dla-drugiej-brygady-pancernej",
+      "published_date": "2026-11-11T11:34:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tomahawk missiles with a range of 1,600 km for Poland. Important announcement",
+      "source": "Defence24",
+      "url": "https://defence24.pl/przemysl/rakiety-tomahawk-o-zasiegu-1600-km-dla-polski-wazny-komunikat",
+      "published_date": "2026-11-11T10:22:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Are we already strong, tight and ready? Image of the Polish army on Independence Day 2026",
+      "source": "Defence24",
+      "url": "https://defence24.pl/sily-zbrojne/czy-jestesmy-juz-silni-zwarci-i-gotowi-obraz-polskiej-armii-w-swieto-niepodleglosci-2026",
+      "published_date": "2026-11-11T10:00:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Poles detained in Russia. Polish authorities talk about a possible provocation",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/rynki/polacy-zatrzymani-w-rosji-polskie-wladze-mowia-o-mozliwej-prowokacji,1118773.html",
+      "published_date": "2026-11-11T09:30:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The world's fourth armored power. Tanks in the Second Polish Republic",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/czwarta-pancerna-potega-swiata-czolgi-w-ii-rp",
+      "published_date": "2026-11-11T09:00:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The armaments foundation of the reborn Poland. Dilemmas of the defense of the Second Polish Republic",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/zbrojeniowy-fundament-odrodzonej-polski-dylematy-obrony-ii-rzeczypospolitej",
+      "published_date": "2026-11-11T08:00:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Second Polish Republic was too slow to replace horses with tanks. Are we late with drones?",
+      "source": "Defence24",
+      "url": "https://defence24.pl/sily-zbrojne/ii-rp-za-wolno-zastepowala-konie-czolgami-my-spozniamy-sie-z-dronami",
+      "published_date": "2026-11-11T07:30:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New findings after the attack in Krakow. \"Investigators are examining the ammunition.\" Investigation into Kołodziejczak [AT THE BEGINNING OF THE DAY]",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33126608,nowe-ustalenia-po-ataku-w-krakowie-sledczy-badaja-amunicje.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-11T05:40:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "German fighter and Emirati air force over Poland",
+      "source": "Defence24",
+      "url": "https://defence24.pl/polityka-obronna/niemiecki-mysliwiec-i-emirackie-sily-powietrzne-nad-polska",
+      "published_date": "2026-11-11T04:30:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A new type of heating is conquering Germany. In Poland, almost no one knows this",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/nowy-rodzaj-ogrzewania-podbija-niemcy-w-polsce-prawie-nikt-tego-nie-zna,1118929.html",
+      "published_date": "2026-11-11T18:59:13+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Surprise in electricity bills. New rules will come into force on January 1",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/zaskoczenie-w-rachunkach-za-prad-1-stycznia-wejda-nowe-zasady,1118835.html",
+      "published_date": "2026-11-11T13:08:48+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Orlen terminated the contract with the Qataris. This is the end of many years of cooperation",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/biznes/orlen-wypowiedzial-umowe-qatarenergy-to-koniec-wieloletniej-wspolpracy/cxh2jzn",
+      "published_date": "2026-11-11T09:24:21+00:00",
+      "category": "Energy"
     },
     {
       "title": "Gaz przestał płynąć. Orlen rozwiązał jedną z dwóch umów na dostawę LNG z QatarEnergy",
@@ -309,6 +330,13 @@
       "source": "Bankier.pl",
       "url": "https://www.bankier.pl/wiadomosc/Orlen-wypowiedzial-jedna-z-dwoch-umow-dlugoterminowych-na-dostawy-skroplonego-gazu-ziemnego-zawartych-z-QatarEnergy-9227166.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "published_date": "2026-11-10T19:50:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Another ship arrived in Poland. However, the USA will not break the record at our gas port",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/do-polski-przyplynal-kolejny-statek-usa-jednak-nie-pobija-rekordu-w-naszym-gazoporcie,1118548.html",
+      "published_date": "2026-11-10T16:24:30+00:00",
       "category": "Energy"
     },
     {
@@ -396,311 +424,283 @@
       "category": "Energy"
     },
     {
-      "title": "Maximum fuel prices for Independence Day. This is how much petrol and diesel will cost",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/ceny-paliw-w-srode-11-listopada-2026-r-w-swieto-niepodleglosci-nie-moze-byc-drozej/dej52ll",
-      "published_date": "2026-11-10T11:01:52+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Refund of pellet prices, a ton from PLN 1,750. An unexpected situation during the heating season",
+      "title": "It was the largest railway investment of the Second Polish Republic. Hundreds of kilometers in less than a decade",
       "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/zwrot-cen-pelletu-tona-juz-od-1750-zl-niespodziewana-sytuacja-w-sezonie-grzewczym,1118354.html",
-      "published_date": "2026-11-10T10:45:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Energy and gas in times of volatility. What really determines prices?",
-      "source": "Rzeczpospolita",
-      "url": "https://energia.rp.pl/surowce-i-paliwa/art45468661-energia-i-gaz-w-czasach-zmiennosci-co-tak-naprawde-ksztaltuje-ceny",
-      "published_date": "2026-11-09T20:45:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Poles unite after the tragedy? Not this time. \"The media doesn't even pretend anymore\"",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33124420,polacy-jednocza-sie-po-tragedii-nie-tym-razem-media-juz-nawet.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-09T19:15:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Sakiewicz nawołuje do bojkotu RTV EURO AGD. Organizacje przedsiębiorców zabierają głos",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/biznes/z-kraju/rtv-euro-agd-wstrzymalo-reklamy-w-tv-republika-organizacje-przedsiebiorcow-zabieraja-glos-st9332990?source=rss",
-      "published_date": "2026-11-10T19:01:09+00:00",
+      "url": "https://www.wnp.pl/budownictwo/to-byla-najwieksza-inwestycja-kolejowa-ii-rp-setki-kilometrow-w-niespelna-dekade,1118505.html",
+      "published_date": "2026-11-11T18:00:00+00:00",
       "category": "Economy"
     },
     {
-      "title": "Amerykański gigant AI idzie na giełdę po miliardy dolarów od inwestorów. Wyznaczono cenę akcji",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/tech/amerykanski-gigant-ai-idzie-na-gielde-po-miliardy-dolarow-od-inwestorow-wyznaczono-cene-akcji,1118617.html",
-      "published_date": "2026-11-10T18:33:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Germans decided. The installation, which is groundbreaking for the steel industry, will be launched with a delay",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/przemysl/niemcy-zdecydowali-przelomowa-dla-hutnictwa-instalacja-ruszy-z-opoznieniem,1118583.html",
-      "published_date": "2026-11-10T17:47:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "They opened the Overton window wide. \"They concluded it was political gold.\"",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/polska/zamach-w-krakowie-ofiary-walczyly-o-zycie-a-politycy-o-zasiegi-szczyt-degradacji-polityki-st9332381?source=rss",
-      "published_date": "2026-11-10T16:55:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Problems with coal quality at JSW in the shadow of the Industrial Development Agency loan",
-      "source": "Rzeczpospolita",
-      "url": "https://energia.rp.pl/wegiel/art45473281-problemy-z-jakoscia-wegla-w-jsw-w-cieniu-pozyczki-arp",
-      "published_date": "2026-11-10T16:55:21+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Deregulation for companies. Szłapka: one of the government's priorities",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/biznes/z-kraju/deregulacja-dla-firm-adam-szlapka-jeden-z-priorytetow-rzadu-st9332654?source=rss",
-      "published_date": "2026-11-10T16:19:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A Polish company is closer to taking over a large foreign competitor. This is a big opportunity for our company",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/logistyka/polska-firma-blizej-przejecia-duzego-zagranicznego-konkurenta-to-duza-szansa-dla-naszej-spolki,1118486.html",
-      "published_date": "2026-11-10T16:04:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The EU mechanism brought results. Steel blast furnaces are burning again in Europe",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/przemysl/unijny-mechanizm-przyniosl-efekt-w-europie-znow-plona-wielkie-piece-stalowe,1118530.html",
-      "published_date": "2026-11-10T15:35:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A global giant is starting a new investment in Poland. The domestic company will make money on the construction",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/logistyka/swiatowy-gigant-wybuduje-w-polsce-centrum-serwisowe-lokomotyw-na-inwestycji-zarobi-budimex,1118521.html",
-      "published_date": "2026-11-10T15:29:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Creator Claude will go public. Turbulence lowered the valuation",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gielda/wiadomosci/ipo-anthropica-pod-presja-rynku-czy-tworca-claude-zostanie-miliarderem/09rq4vm",
-      "published_date": "2026-11-10T15:27:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The current advantages of the Polish economy are beginning to run out. We need big changes",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/tech/dotychczasowe-atuty-polskiej-gospodarki-zaczynaja-sie-wyczerpywac-potrzebujemy-duzych-zmian,1118501.html",
-      "published_date": "2026-11-10T15:20:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A French bank announces layoffs in Poland. A long, stressful time for employees",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/praca/zwolnienia-w-bnp-paribas-bank-polska-automatyzacja-zmienia-rynek-pracy/8y1yl1f",
-      "published_date": "2026-11-10T14:16:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Three apartments, shares in a company and donations. Charges against the deputy head of the Ministry of Foreign Affairs, Władysław Bartoszewski",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33125557,trzy-mieszkania-udzialy-w-spolce-i-darowizny-zarzuty-dla-wiceszefa.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-10T14:15:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Shopping on November 11. Some stores changed their schedules before the holiday",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/finanse/sklepy-11-listopada-2026-biedronka-lidl-dino-godziny-otwarcia-we-wtorek-10-listopada/94jkmyd",
-      "published_date": "2026-11-10T14:12:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The mining company listed on the Polish stock exchange is focusing heavily on Asia and Spain. Polish project suspended",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/gornicza-spolka-z-polskiej-gieldy-mocno-stawia-na-azje-i-hiszpanie-polski-projekt-zawieszony,1118430.html",
-      "published_date": "2026-11-10T14:09:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Big bonus or low fees? This is how it is worth comparing personal accounts",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/poradnik-finansowy/konto-osobiste-z-premia-czy-niskimi-oplatami-sprawdzamy-co-sie-bardziej-oplaca/0d8h6q0",
-      "published_date": "2026-11-10T14:00:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "From November 11, developers will be subject to penalties for failing to fulfill unenforceable obligations",
-      "source": "Rzeczpospolita",
-      "url": "https://pro.rp.pl/prawo-w-firmie/art45471411-deweloperom-od-11-listopada-groza-kary-za-niewykonanie-niewykonalnych-obowiazkow",
-      "published_date": "2026-11-10T13:56:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "CPI inflation in the US is slowing down, but not as much as forecast. The chaos from a year ago had an impact on the data statistics",
+      "title": "Prices in showrooms are down sharply. Chinese companies are giving way to the \"buyer's market\"",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-CPI-w-USA-zwalnia-ale-nie-az-tak-jak-prognozowano-Chaos-sprzed-roku-odbil-sie-na-statystyce-danych-9226893.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-10T13:51:00+00:00",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-w-salonach-ostro-w-dol-Chinskie-koncerny-ustepuja-przed-rynkiem-kupujacego-9226004.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-11T17:00:00+00:00",
       "category": "Economy"
     },
     {
-      "title": "Unofficially: former World Bank economist is a candidate for the Monetary Policy Council",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/nieoficjalnie-prof-marcin-piatkowski-kandydatem-lewicy-do-rpp/3vyr1sw",
-      "published_date": "2026-11-10T13:50:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bank mocno inwestował w sztuczną inteligencję i centra danych. Zanotował miliardowe straty",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/tech/bank-mocno-inwestowal-w-sztuczna-inteligencje-i-centra-danych-zanotowal-miliardowe-straty,1118453.html",
-      "published_date": "2026-11-10T13:34:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Najlepszy październik w historii lotniska w Katowicach – 650 tysięcy pasażerów",
-      "source": "Rzeczpospolita",
-      "url": "https://turystyka.rp.pl/lotniska/art45474041-najlepszy-pazdziernik-w-historii-lotniska-w-katowicach-650-tysiecy-pasazerow",
-      "published_date": "2026-11-11T01:09:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Koniec problemów Zakładów Chemicznych „Police”? Do gry wkracza właściciel z wielkimi pieniędzmi",
+      "title": "Tunnel under the Elbląg River with a shelter function. A strategic, dual-purpose investment",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-bada-mozliwosc-dokapitalizowania-Zakladow-Chemiczne-Police-9227194.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-10T21:54:00+00:00",
+      "url": "https://www.bankier.pl/wiadomosc/Tunel-pod-rzeka-Elblag-z-funkcja-schronu-Strategiczna-inwestycja-o-podwojnym-przeznaczeniu-9227277.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-11T15:08:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Crowds in resorts and emptiness in the East. EU announces grand plan to repair European tourism",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Tlumy-w-kurortach-i-pustki-na-Wschodzie-UE-oglasza-wielki-plan-naprawy-europejskiej-turystyki-9223470.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-11T15:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Poles will control the satellites. Great success for programmers from Poznań",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Polacy-beda-sterowac-satelitami-Wielki-sukces-programistow-z-Poznania-9224281.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-11T15:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Water disappearance in wells in Małopolska. The investor checks whether this is the result of the operation of the TBM shield",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Zanik-wody-w-studniach-w-Malopolsce-Inwestor-sprawdza-czy-to-skutek-pracy-tarczy-TBM-9227268.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-11T14:25:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Despite more difficult conditions, Polish banks are still earning a fortune",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/finanse/cit-i-nizsze-stopy-procentowe-uderzaja-w-sektor-bankowy-kto-traci-kto-zyskuje/hhmzzxg",
+      "published_date": "2026-11-11T13:36:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The accountant allegedly robbed the company of PLN 1.5 million. Now he declares the sale of apartments",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Ksiegowa-miala-okrasc-firme-na-1-5-mln-zl-Teraz-deklaruje-sprzedaz-mieszkan-9224212.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-11T13:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "From generators in \"The King\" to the construction of the atom. The power industry in Poland is almost 150 years old",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/od-pradnic-w-krolu-po-budowe-atomu-elektroenergetyka-w-polsce-ma-juz-prawie-150-lat,1117950.html",
+      "published_date": "2026-11-11T12:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The location is a big advantage. The economic pillar is growing the fastest in Europe",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gospodarka/chinczycy-wybrali-polske-transport-napedza-gospodarke/y11jv59",
+      "published_date": "2026-11-11T10:31:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Poland lost control of its huge gold resources. This is an important lesson for the NBP",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/rynki/polska-w-trakcie-wojny-stracila-kontrole-nad-ogromnym-zasobem-zlota-to-wazna-lekcja-dla-nbp,1117496.html",
+      "published_date": "2026-11-11T10:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Domański puts an end to speculations around PPK: Poles' funds are not at risk in any way",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Domanski-ucina-spekulacje-wokol-PPK-To-bzdura-i-manipulacja-9227297.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-11T09:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The investor from Qatar failed to deliver, so the state takes over. The race for the port in Świnoujście",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Inwestor-z-Kataru-nie-dowiozl-wiec-panstwo-bierze-stery-Wyscig-o-port-w-Swinoujsciu-9222783.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-11T09:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How did the Second Polish Republic build the arms industry? The history of the economic foundations of independence",
+      "source": "Defence24",
+      "url": "https://defence24.pl/przemysl/jak-ii-rp-budowala-przemysl-zbrojeniowy-historia-gospodarczych-fundamentow-niepodleglosci",
+      "published_date": "2026-11-11T08:30:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The new owner of TVN is slowing down again. There are names of about 30 people",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/biznes/nowy-wlasciciel-tvn-kontynuuje-zwolnienia-jest-lista-nazwisk/xz5znj3",
+      "published_date": "2026-11-11T08:26:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Salaries are up, and we have been able to afford the same number of square meters of apartment for years. Others, however, have it worse",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gospodarka/wynagrodzenia-rosna-marzenia-mieszkaniowe-stoja-w-miejscu-polacy-bez-przelomu/kk4qyfc",
+      "published_date": "2026-11-11T07:57:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "JPY/PLN rate on November 11, 2026",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-jena-dzisiaj-po-ile-jest-jen-japonski-11-listopada-2026-r/ps7qp9f",
+      "published_date": "2026-11-11T06:04:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EUR/PLN exchange rate on November 11, 2026",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-euro-dzisiaj-po-ile-jest-euro-11-listopada-2026-r/fyjgmem",
+      "published_date": "2026-11-11T06:04:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "USD/PLN exchange rate on November 11, 2026",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-dolara-dzisiaj-po-ile-jest-dolar-amerykanski-11-listopada-2026-r/dfjc56z",
+      "published_date": "2026-11-11T06:04:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "CHF/PLN exchange rate November 11, 2026",
+      "source": "Business Insider Polska",
+      "url": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-franka-dzisiaj-po-ile-jest-frank-szwajcarski-11-listopada-2026-r/0yntkee",
+      "published_date": "2026-11-11T06:04:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Comments after Nawrocki's speech. \"Troll and the bottom of the bottom\", \"only in Moscow could you like it\"",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33128380,komentarze-po-przemowieniu-nawrockiego-troll-i-dno-dna-tylko.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-11T18:07:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Gibała zażenowany krytyką policji w kontekście zamachu. \"Bardzo przykro\"",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/gibala-zazenowany-krytyka-policji-w-kontekscie-zamachu-bardzo-przykro/",
-      "published_date": "2026-11-10T21:11:00+00:00",
+      "title": "The house caught fire and was left in ruins. Three people without a roof over their heads",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/lubuskie/czarnow-pozar-domu-w-czarnowie-st9334525?source=rss",
+      "published_date": "2026-11-11T18:03:15+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Problemy z systemem ePUAP. Minister Gawkowski potwierdza atak i uspokaja",
+      "title": "Snow, downpours and strong winds. IMWM threat forecast",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/tvnmeteo/prognoza/snieg-ulewy-i-silny-wiatr-prognoza-zagrozen-imgw-st9334276?source=rss",
+      "published_date": "2026-11-11T17:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Primate and the First Secretary – the history of the October Agreement",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/problemy-z-systemem-epuap-minister-gawkowski-potwierdza-atak-i-uspokaja/yv8ggl4",
-      "published_date": "2026-11-10T20:38:57+00:00",
+      "url": "https://wiadomosci.onet.pl/kraj/wystarczylo-jedno-nazwisko-by-gomulka-stracil-kontrole/sh1eepc",
+      "published_date": "2026-11-11T17:33:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Kaczyński przed 11 listopada: Niepodległość III RP może okazać się incydentem",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Kaczynski-przed-11-listopada-Niepodleglosc-III-RP-moze-okazac-sie-incydentem-9227178.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-10T20:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cyberatak na państwowy system ePUAP. ABW natychmiast wkracza do akcji",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Cyberatak-na-panstwowy-system-ePUAP-ABW-natychmiast-wkracza-do-akcji-9227177.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-10T20:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gawkowski: Wykryto i zatrzymano cyberatak na system ePUAP",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/przestepczosc/art45473901-gawkowski-wykryto-i-zatrzymano-cyberatak-na-system-epuap",
-      "published_date": "2026-11-10T20:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jan Grabiec: nie wiem, dlaczego PiS czuje się dotknięty tym, co mówił Marcin Kierwiński",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/polska/jan-grabiec-nie-wiem-dlaczego-pis-czuje-sie-dotkniety-tym-co-mowil-marcin-kierwinski-st9333098?source=rss",
-      "published_date": "2026-11-10T20:20:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Nawrocki dużo poważniejszym politykiem\". Szpila z rządu w stronę prezesa PiS",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/nawrocki-duzo-powazniejszym-politykiem-szpila-z-rzadu-w-strone-prezesa-pis/",
-      "published_date": "2026-11-10T20:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dispute between the Constitutional Tribunal and the Supreme Court. This is about the president and vice president",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/prawo/bogdan-swieczkowski-odsuniety-od-pracy-sad-najwyzszy-wydal-wazny-werdykt/rzvr457",
-      "published_date": "2026-11-10T18:12:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tomasz Sakiewicz asked \"where are the police?\" The policeman was standing behind him",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/polska/tomasz-sakiewicz-po-zamachu-w-krakowie-pytal-gdzie-jest-policja-policjant-stal-za-nim-st9332905?source=rss",
-      "published_date": "2026-11-10T18:11:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Supreme Court decided on the Constitutional Tribunal. He repealed the ordinances regarding Święczkowski and Sochański",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33126552,sad-najwyzszy-zdecydowal-ws-tk-uchylil-zarzadzenia-dotyczace.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-10T18:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The American daily writes about Poland's weakness. \"Playing below his potential\"",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/wsj-podzialy-polityczne-oslabiaja-pozycje-polski-gra-ponizej-swojego-potencjalu/5kh4glc",
-      "published_date": "2026-11-10T18:07:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Investigation into Michał Kołodziejczak. The prosecutor's office initiated an investigation",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/polityka/art45473461-sledztwo-ws-michala-kolodziejczaka-prokuratura-wszczela-dochodzenie",
-      "published_date": "2026-11-10T18:05:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The government reports illegal content on X, but no response. And Musk is spreading disinformation about the attack in Krakow",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,197990,33126121,rzad-zglasza-nielegalne-tresci-na-x-ale-bez-odzewu-a-musk.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-10T17:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After all, Poland was supposed to be safe. Onet readers write about fear and hope",
+      "title": "Attendance at the Independence March. The Warsaw City Hall announced the number",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/przeciez-polska-miala-byc-bezpieczna-czytelnicy-onetu-pisza-o-strachu-i-nadziei/e5xdqng",
-      "published_date": "2026-11-10T17:50:02+00:00",
+      "url": "https://wiadomosci.onet.pl/warszawa/frekwencja-na-marszu-niepodleglosci-warszawski-ratusz-podal-liczbe/r8wxljl",
+      "published_date": "2026-11-11T17:19:31+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The Kołodziejczak scandal. The prosecutor's office initiated an investigation",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33126517,afera-w-sprawie-kolodziejczaka-prokuratura-wszczela-sledztwo.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-10T17:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The policeman seriously injured in the attack is already in a second hospital. He is to undergo hand surgery",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/krakow/krakow-policjant-ciezko-ranny-w-zamachu-jest-juz-w-drugim-szpitalu-ma-przejsc-operacje-reki-st9332930?source=rss",
-      "published_date": "2026-11-10T17:47:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The hero policeman faces another operation. \"He suffered a number of injuries\"",
-      "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/policjanta-bohatera-czeka-kolejna-operacja-doznal-szeregu-urazow/",
-      "published_date": "2026-11-10T17:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New information about the health condition of the injured policeman. \"This is one of his first wishes\"",
+      "title": "Police about the Independence March: no major incidents, but there are arrests",
       "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/artur-moranski-juz-w-nowym-szpitalu-prosil-zeby-dac-mu-troche-spokoju/0q650c3",
-      "published_date": "2026-11-10T17:46:44+00:00",
+      "url": "https://wiadomosci.onet.pl/warszawa/policja-o-marszu-niepodleglosci-bez-powazniejszych-incydentow-ale-sa-zatrzymania/8kym36m",
+      "published_date": "2026-11-11T17:04:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Independence March gathered crowds. The capital police estimate them at a quarter of a million people",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/spoleczenstwo/art45476601-marsz-niepodleglosci-zgromadzil-tlumy-stoleczna-policja-szacuje-je-na-cwierc-miliona-osob",
+      "published_date": "2026-11-11T16:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tragedy in Greater Poland. The baby is dead",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/poznan/dramatyczna-akcja-ratunkowa-w-wielkopolsce-nie-zyje-niemowle/w49cs3j",
+      "published_date": "2026-11-11T16:29:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kaczyński: we will work to ensure that there is one list for the Sejm",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/polityka/art45475951-kaczynski-bedziemy-dzialali-by-byla-jedna-lista-do-sejmu",
+      "published_date": "2026-11-11T16:24:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fatal hit of a pedestrian on a highway near Krakow",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/krakow/krakow-smiertelne-potracenie-na-autostradzie-a4-nie-zyje-mezczyzna-st9334385?source=rss",
+      "published_date": "2026-11-11T16:23:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New information about the Briton who died in Krakow",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/polska/krakow-brytyjskie-media-o-32-latku-ktory-zginal-w-zamachu-st9334324?source=rss",
+      "published_date": "2026-11-11T16:19:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crushing opinion of the Media Ethics Council regarding Tomasz Sakiewicz's coverage on TV Republika",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Miazdzaca-opinia-Rady-Etyki-Mediow-ws-relacji-Tomasza-Sakiewicza-w-TV-Republika-9227419.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-11T16:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kaczyński wants one right-wing list in the elections. \"We need to convince politicians of the three Confederations\"",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33127968,kaczynski-chce-jednej-listy-prawicy-w-wyborach-trzeba-przekonywac.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-11T16:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Święczkowski announces another attempt to enter the Constitutional Tribunal. \"More assertive\"",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/polityka/art45475931-swieczkowski-zapowiada-kolejna-probe-wejscia-do-tk-bardziej-stanowcza",
+      "published_date": "2026-11-11T16:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The attack in Krakow exposed the problem. \"We missed a very important signal\"",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/tech/radykalizacja-mlodych-w-sieci-przyspiesza-dzis-to-kwestia-tygodni,1118415.html",
+      "published_date": "2026-11-11T16:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire in a vacant building. While extinguishing the fire, firefighters found two bodies",
+      "source": "TVN24",
+      "url": "https://tvn24.pl/poznan/ostrow-wielkopolski-pozar-pustostanu-strazacy-znalezli-dwa-ciala-st9334320?source=rss",
+      "published_date": "2026-11-11T15:38:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Independence March in Warsaw. The latest information from the town hall",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/marsz-niepodleglosci-w-warszawie-najnowsze-informacje-z-ratusza/gs91lfv",
+      "published_date": "2026-11-11T15:33:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Threats against Kierwiński and his children. The services secured the weapon. The police filed charges",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33127870,grozby-wobec-kierwinskiego-i-jego-dzieci-sluzby-zabezpieczyly.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-11T15:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Land to build a house at half the price? This city has a great offer for young people",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Ziemia-pod-budowe-domu-za-pol-ceny-To-miasto-ma-swietna-oferte-dla-mlodych-9225144.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-11T15:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The famous command from \"Pitbull\" will undergo a metamorphosis. The police will spend PLN 100 million",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Slynna-komenda-z-Pitbulla-przejdzie-metamorfoze-Policja-wyda-100-milionow-zl-9223515.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-11T15:00:00+00:00",
       "category": "Local Events"
     }
   ]
