@@ -1,6 +1,6 @@
 {
   "country": "Poland",
-  "last_updated": "2026-11-11T18:14:15.766678+00:00",
+  "last_updated": "2026-11-12T03:36:11.628993+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -22,6 +22,13 @@
       "source": "TVN24",
       "url": "https://tvn24.pl/technologia/web-summit-przerwany-przez-pogode-w-lizbonie-wielka-rozmowa-o-ai-i-przyszlosci-mediow-st9334322?source=rss",
       "published_date": "2026-11-11T15:38:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Wishes for Independence Day are coming from all over the world. \"Poland sets an example\"",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-11/z-roznych-stron-swiata-plyna-zyczenia-z-okazji-swieta-niepodleglosci-polska-daje-przyklad/",
+      "published_date": "2026-11-11T15:19:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Foreign investments in the EU are in decline. The US limits its involvement",
+      "title": "There is another request to waive Grzegorz Braun's immunity",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/swiat/kolejny-wniosek-o-uchylenie-immunitetu-grzegorza-brauna-zajmie-sie-nim-pe/f2tjevt",
+      "published_date": "2026-11-11T22:48:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "He threatened Marcin Kierwiński and his children. The police secured the weapon",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-11/grozil-marcinowi-kierwinskiemu-i-jego-dzieciom-policja-zabezpieczyla-bron/",
+      "published_date": "2026-11-11T21:38:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kosiniak-Kamysz responds to the president: The liberum veto led to the fall of the First Polish Republic",
       "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Zagraniczne-inwestycje-w-UE-pod-kreska-USA-ograniczaja-zaangazowanie-9224332.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-07T14:29:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-odpowiada-prezydentowi-Do-upadku-I-RP-doprowadzilo-liberum-veto-9227375.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-11T19:10:00+00:00",
+      "category": "Military"
     },
     {
       "title": "He flew into Poland from Belarus. We ask the embassy about the mysterious flight from Moscow",
@@ -214,6 +235,13 @@
       "category": "Military"
     },
     {
+      "title": "Whistling and shouting during Kosiniak-Kamysz's speech. Head of the Ministry of National Defense: Peace be with you",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-11/buczenie-podczas-przemowy-kosiniaka-kamszya-szef-mon-odpowiedzial-pokoj-wam/",
+      "published_date": "2026-11-11T12:41:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "The President handed General Kukula the act of appointing the head of the SGWP for the next term of office; 10 other officers were given general promotions",
       "source": "Defence24",
       "url": "https://defence24.pl/polityka-obronna/prezydent-wreczyl-gen-kukule-akt-mianowania-na-kolejna-kadencje-szefa-sgwp-10-innym-oficerom-awanse-generalskie",
@@ -256,32 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "The armaments foundation of the reborn Poland. Dilemmas of the defense of the Second Polish Republic",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/zbrojeniowy-fundament-odrodzonej-polski-dylematy-obrony-ii-rzeczypospolitej",
-      "published_date": "2026-11-11T08:00:01+00:00",
-      "category": "Military"
+      "title": "Ryanair is considering freezing wages. Ticket price increases may not cover fuel costs",
+      "source": "Rzeczpospolita",
+      "url": "https://turystyka.rp.pl/linie-lotnicze/art45477211-ryanair-rozwaza-zamrozenie-plac-podwyzki-cen-biletow-moga-nie-pokryc-kosztow-paliwa",
+      "published_date": "2026-11-12T00:51:36+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The Second Polish Republic was too slow to replace horses with tanks. Are we late with drones?",
-      "source": "Defence24",
-      "url": "https://defence24.pl/sily-zbrojne/ii-rp-za-wolno-zastepowala-konie-czolgami-my-spozniamy-sie-z-dronami",
-      "published_date": "2026-11-11T07:30:01+00:00",
-      "category": "Military"
+      "title": "Transformation of energy networks: let's not waste the potential we already have",
+      "source": "Rzeczpospolita",
+      "url": "https://energia.rp.pl/energianews/art45477151-transformacja-sieci-energetycznych-nie-marnujmy-potencjalu-ktory-juz-mamy",
+      "published_date": "2026-11-11T22:40:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "New findings after the attack in Krakow. \"Investigators are examining the ammunition.\" Investigation into Kołodziejczak [AT THE BEGINNING OF THE DAY]",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33126608,nowe-ustalenia-po-ataku-w-krakowie-sledczy-badaja-amunicje.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-11T05:40:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "German fighter and Emirati air force over Poland",
-      "source": "Defence24",
-      "url": "https://defence24.pl/polityka-obronna/niemiecki-mysliwiec-i-emirackie-sily-powietrzne-nad-polska",
-      "published_date": "2026-11-11T04:30:02+00:00",
-      "category": "Military"
+      "title": "Poland like Saudi Arabia. We have been an exporter of crude oil for a long time",
+      "source": "WNP.pl",
+      "url": "https://www.wnp.pl/energia/polska-niczym-arabia-saudyjska-przez-dluzszy-czas-bylismy-eksporterem-ropy-naftowej,1118222.html",
+      "published_date": "2026-11-11T20:00:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "A new type of heating is conquering Germany. In Poland, almost no one knows this",
@@ -302,6 +323,13 @@
       "source": "Business Insider Polska",
       "url": "https://businessinsider.com.pl/biznes/orlen-wypowiedzial-umowe-qatarenergy-to-koniec-wieloletniej-wspolpracy/cxh2jzn",
       "published_date": "2026-11-11T09:24:21+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Orlen terminates the contract for LNG supplies from Qatar. There is a message",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/orlen-wypowiada-umowe-na-dostawy-lng-z-kataru-jest-komunikat/",
+      "published_date": "2026-11-10T22:25:00+00:00",
       "category": "Energy"
     },
     {
@@ -396,32 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Five thermal coal mines will start mining",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/energia/piec-kopaln-wegla-energetycznego-rozpocznie-wydobycie,1118373.html",
-      "published_date": "2026-11-10T11:50:00+00:00",
-      "category": "Energy"
+      "title": "HR is no longer administration. It also becomes a business partner",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/praca/art45477141-hr-przestaje-byc-administracja-staje-sie-tez-partnerem-biznesu",
+      "published_date": "2026-11-11T22:35:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "This is how much fuel will cost on the long weekend. Not everyone will be happy",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gospodarka/tyle-zaplacimy-za-paliwa-w-listopadowke/xxeqb5g",
-      "published_date": "2026-11-10T11:35:48+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Gasoline is getting more expensive, diesel is getting cheaper. Here are the new maximum prices at gas stations",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Benzyna-drozeje-diesel-tanieje-Oto-nowe-maksymalne-ceny-na-stacjach-9226710.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-10T11:21:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Fuel prices on Wednesday and Thursday. The ministry announced the rates",
+      "title": "Komorowski criticizes Nawrocki's speech. \"No political kindergarten\"",
       "source": "Polsat News",
-      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/ceny-paliwa-w-srode-i-czwartek-ministerstwo-podalo-stawki/",
-      "published_date": "2026-11-10T11:04:00+00:00",
-      "category": "Energy"
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-11/komorowski-krytykuje-wystapienie-nawrockiego-brak-politycznej-kindersztuby/",
+      "published_date": "2026-11-11T19:23:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "It was the largest railway investment of the Second Polish Republic. Hundreds of kilometers in less than a decade",
@@ -536,6 +550,13 @@
       "category": "Economy"
     },
     {
+      "title": "Andrzej Domański in \"Graffiti\"",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-11/andrzej-domanski-w-graffiti-ogladaj-od-740-1/",
+      "published_date": "2026-11-11T06:15:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "JPY/PLN rate on November 11, 2026",
       "source": "Business Insider Polska",
       "url": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-jena-dzisiaj-po-ile-jest-jen-japonski-11-listopada-2026-r/ps7qp9f",
@@ -543,164 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "EUR/PLN exchange rate on November 11, 2026",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-euro-dzisiaj-po-ile-jest-euro-11-listopada-2026-r/fyjgmem",
-      "published_date": "2026-11-11T06:04:50+00:00",
-      "category": "Economy"
+      "title": "After the crisis, there are more and more undecided people around the Constitutional Tribunal. This would be the fifth force",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/polityka/art45473451-po-kryzysie-wokol-tk-coraz-wiecej-niezdecydowanych-to-bylaby-piata-sila",
+      "published_date": "2026-11-12T03:29:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "USD/PLN exchange rate on November 11, 2026",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-dolara-dzisiaj-po-ile-jest-dolar-amerykanski-11-listopada-2026-r/dfjc56z",
-      "published_date": "2026-11-11T06:04:49+00:00",
-      "category": "Economy"
+      "title": "November 11 in the shadow of political rivalry. Success of the Independence March",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/polityka/art45477091-11-listopada-w-cieniu-politycznej-rywalizacji-sukces-marszu-niepodleglosci",
+      "published_date": "2026-11-11T22:23:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "CHF/PLN exchange rate November 11, 2026",
-      "source": "Business Insider Polska",
-      "url": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-franka-dzisiaj-po-ile-jest-frank-szwajcarski-11-listopada-2026-r/0yntkee",
-      "published_date": "2026-11-11T06:04:48+00:00",
-      "category": "Economy"
+      "title": "New information about the policeman injured in the attack in Krakow. He underwent orthopedic surgery",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33128633,nowe-informacje-o-policjancie-rannym-w-zamachu-w-krakowie-przeszedl.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-11T21:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Independence March in Warsaw. The police announced the number of detainees [RECORDING LIVE BROADCAST]",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/marsz-niepodleglosci-w-warszawie-tlumy-zbieraja-sie-na-ulicach-stolicy-relacja-na/s8d14rm",
+      "published_date": "2026-11-11T20:55:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "He neutralized the assassin. New information about the health condition of policeman Artur Morański",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-11/unieszkodliwil-zamachowca-nowe-informacje-o-stanie-zdrowia-policjanta-artura-moranskiego/",
+      "published_date": "2026-11-11T20:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The largest Independence March in years. This is what the march in Warsaw looked like [GALLERY]",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/tak-wygladal-marsz-niepodleglosci-w-warszawie-galeria/ste0cn0",
+      "published_date": "2026-11-11T20:53:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "He asked Nawrocki about Tusk's invitation. \"I don't know what's going on\"",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33128574,zapytal-nawrockiego-o-zaproszenie-od-tuska-nie-wiem-co-sie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-11T20:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "November 11 and the Independence March in Warsaw. The police announced the number of detainees",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/warszawa/11-listopada-i-marsz-niepodleglosci-w-warszawie-policja-podala-liczbe-zatrzymanych/9yc0hlm",
+      "published_date": "2026-11-11T20:38:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The capital police reveal how Independence Day went. 59 people were detained",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-11/stoleczna-policja-ujawnila-statystyki-po-obchodach-swieta-niepodleglosci-zatrzymano-59-osob/",
+      "published_date": "2026-11-11T20:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "I was walking in the Independence March. Here's what I heard from participants",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/warszawa/szedlem-w-marszu-niepodleglosci-nazwisko-tego-polityka-padalo-najczesciej/w61z7y8",
+      "published_date": "2026-11-11T19:46:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Donald Tusk invites Karol Nawrocki, the expert evaluates. \"A gesture undoubtedly skillful\"",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/tylko-w-onecie/donald-tusk-zaprasza-karola-nawrockiego-ekspert-ocenia-gest-niewatpliwie-zreczny/lrnt62h",
+      "published_date": "2026-11-11T19:26:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 11 thousand foreigners died fighting on the side of Russia. There are Poles there",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Ponad-11-tys-obcokrajowcow-zginelo-walczac-po-stronie-Rosji-Sa-tam-Polacy-9227453.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-11T19:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crowds at the Independence March. Organizers: \"There may even be a million of us.\" The city hall provided other data",
+      "source": "Gazeta.pl",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33128488,tlumy-na-marszu-niepodleglosci-organizatorzy-moze-byc-nas.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "published_date": "2026-11-11T19:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Presidential Palace responds to Donald Tusk's invitation. \"It was enough to stay\"",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/kraj/donald-tusk-zaprosil-karola-nawrockiego-do-domu-jest-glos-z-palacu/exn8y4n",
+      "published_date": "2026-11-11T18:55:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poznań. A man with a knife arrested during the November 11 celebrations",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/policja/art45476941-poznan-mezczyzna-z-nozem-zatrzymany-podczas-obchodow-11-listopada",
+      "published_date": "2026-11-11T18:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Incident at the Independence March. The Left flag was burned",
+      "source": "Polsat News",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-11/incydent-na-marszu-niepodleglosci-spalono-flage-lewicy/",
+      "published_date": "2026-11-11T18:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A baby buried alive survived a day underground. A towel could have saved his life",
+      "source": "Rzeczpospolita",
+      "url": "https://www.rp.pl/przestepczosc/art45476701-zakopany-zywcem-niemowlak-przezyl-dobe-pod-ziemia-zycie-mogl-mu-uratowac-recznik",
+      "published_date": "2026-11-11T18:47:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A significant moment during the Independence March. Jacek Kurski did not hide his joy. \"The president noticed me\"",
+      "source": "Onet",
+      "url": "https://wiadomosci.onet.pl/tylko-w-onecie/znamienny-moment-na-marszu-niepodleglosci-jacek-kurski-nie-kryl-radosci/cr97phh",
+      "published_date": "2026-11-11T18:42:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nawrocki at the head of the Independence March. Burned flag of the Left, firecrackers and radical slogans on the route",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/Nawrocki-na-czele-Marszu-Niepodleglosci-Spalona-flaga-Lewicy-petardy-i-radykalne-hasla-na-trasie-9227447.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "published_date": "2026-11-11T18:35:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Comments after Nawrocki's speech. \"Troll and the bottom of the bottom\", \"only in Moscow could you like it\"",
       "source": "Gazeta.pl",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33128380,komentarze-po-przemowieniu-nawrockiego-troll-i-dno-dna-tylko.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "published_date": "2026-11-11T18:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The house caught fire and was left in ruins. Three people without a roof over their heads",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/lubuskie/czarnow-pozar-domu-w-czarnowie-st9334525?source=rss",
-      "published_date": "2026-11-11T18:03:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Snow, downpours and strong winds. IMWM threat forecast",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/tvnmeteo/prognoza/snieg-ulewy-i-silny-wiatr-prognoza-zagrozen-imgw-st9334276?source=rss",
-      "published_date": "2026-11-11T17:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Primate and the First Secretary – the history of the October Agreement",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/wystarczylo-jedno-nazwisko-by-gomulka-stracil-kontrole/sh1eepc",
-      "published_date": "2026-11-11T17:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Attendance at the Independence March. The Warsaw City Hall announced the number",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/warszawa/frekwencja-na-marszu-niepodleglosci-warszawski-ratusz-podal-liczbe/r8wxljl",
-      "published_date": "2026-11-11T17:19:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police about the Independence March: no major incidents, but there are arrests",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/warszawa/policja-o-marszu-niepodleglosci-bez-powazniejszych-incydentow-ale-sa-zatrzymania/8kym36m",
-      "published_date": "2026-11-11T17:04:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Independence March gathered crowds. The capital police estimate them at a quarter of a million people",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/spoleczenstwo/art45476601-marsz-niepodleglosci-zgromadzil-tlumy-stoleczna-policja-szacuje-je-na-cwierc-miliona-osob",
-      "published_date": "2026-11-11T16:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tragedy in Greater Poland. The baby is dead",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/poznan/dramatyczna-akcja-ratunkowa-w-wielkopolsce-nie-zyje-niemowle/w49cs3j",
-      "published_date": "2026-11-11T16:29:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kaczyński: we will work to ensure that there is one list for the Sejm",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/polityka/art45475951-kaczynski-bedziemy-dzialali-by-byla-jedna-lista-do-sejmu",
-      "published_date": "2026-11-11T16:24:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fatal hit of a pedestrian on a highway near Krakow",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/krakow/krakow-smiertelne-potracenie-na-autostradzie-a4-nie-zyje-mezczyzna-st9334385?source=rss",
-      "published_date": "2026-11-11T16:23:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New information about the Briton who died in Krakow",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/polska/krakow-brytyjskie-media-o-32-latku-ktory-zginal-w-zamachu-st9334324?source=rss",
-      "published_date": "2026-11-11T16:19:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crushing opinion of the Media Ethics Council regarding Tomasz Sakiewicz's coverage on TV Republika",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Miazdzaca-opinia-Rady-Etyki-Mediow-ws-relacji-Tomasza-Sakiewicza-w-TV-Republika-9227419.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-11T16:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kaczyński wants one right-wing list in the elections. \"We need to convince politicians of the three Confederations\"",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33127968,kaczynski-chce-jednej-listy-prawicy-w-wyborach-trzeba-przekonywac.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-11T16:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Święczkowski announces another attempt to enter the Constitutional Tribunal. \"More assertive\"",
-      "source": "Rzeczpospolita",
-      "url": "https://www.rp.pl/polityka/art45475931-swieczkowski-zapowiada-kolejna-probe-wejscia-do-tk-bardziej-stanowcza",
-      "published_date": "2026-11-11T16:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The attack in Krakow exposed the problem. \"We missed a very important signal\"",
-      "source": "WNP.pl",
-      "url": "https://www.wnp.pl/tech/radykalizacja-mlodych-w-sieci-przyspiesza-dzis-to-kwestia-tygodni,1118415.html",
-      "published_date": "2026-11-11T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire in a vacant building. While extinguishing the fire, firefighters found two bodies",
-      "source": "TVN24",
-      "url": "https://tvn24.pl/poznan/ostrow-wielkopolski-pozar-pustostanu-strazacy-znalezli-dwa-ciala-st9334320?source=rss",
-      "published_date": "2026-11-11T15:38:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Independence March in Warsaw. The latest information from the town hall",
-      "source": "Onet",
-      "url": "https://wiadomosci.onet.pl/kraj/marsz-niepodleglosci-w-warszawie-najnowsze-informacje-z-ratusza/gs91lfv",
-      "published_date": "2026-11-11T15:33:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Threats against Kierwiński and his children. The services secured the weapon. The police filed charges",
-      "source": "Gazeta.pl",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33127870,grozby-wobec-kierwinskiego-i-jego-dzieci-sluzby-zabezpieczyly.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "published_date": "2026-11-11T15:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Land to build a house at half the price? This city has a great offer for young people",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Ziemia-pod-budowe-domu-za-pol-ceny-To-miasto-ma-swietna-oferte-dla-mlodych-9225144.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-11T15:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The famous command from \"Pitbull\" will undergo a metamorphosis. The police will spend PLN 100 million",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/Slynna-komenda-z-Pitbulla-przejdzie-metamorfoze-Policja-wyda-100-milionow-zl-9223515.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "published_date": "2026-11-11T15:00:00+00:00",
       "category": "Local Events"
     }
   ]
